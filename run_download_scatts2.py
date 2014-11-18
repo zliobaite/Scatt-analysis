@@ -46,26 +46,31 @@ if param_do_parsing:
 	all_files = os.listdir(out_folder)
 	print (all_files)
 
-	for file_name in all_files:
-		if file_name[-3:]=='pdf':
-			print file_name
-
-	f = open(file_name,'rb')
-
-	pdf = pyPdf.PdfFileReader(f)
-	pgs = pdf.getNumPages()
 	key = '/Annots'
 	uri = '/URI'
 	ank = '/A'
 
-	for pg in range(pgs):
+	for file_name in all_files:
+		if file_name[-3:]=='pdf':
+			print file_name
+			file_name = out_folder+file_name
+			f = open(file_name,'rb')
+
+			pdf = pyPdf.PdfFileReader(f)
+			pgs = pdf.getNumPages()
 	
-		p = pdf.getPage(pg)
-		o = p.getObject()
+
+			for pg in range(pgs):
+				p = pdf.getPage(pg)
+				o = p.getObject()
 	
-		if o.has_key(key):
-			ann = o[key]
-			for a in ann:
-				u = a.getObject()
-				if u[ank].has_key(uri):
-					print u[ank][uri]
+				if o.has_key(key):
+					ann = o[key]
+					for a in ann:
+						u = a.getObject()
+						if u[ank].has_key(uri):
+							link = u[ank][uri]
+							print link
+							ln = link.strip().split('/')
+							urllib.urlretrieve(link, out_folder+ln[6])
+							time.sleep(time_delay_sec)
