@@ -1,18 +1,11 @@
 #%windir%\SysWoW64\cmd.exe
 
-cd ematch
-
-for %%f in (*.scatt) do (
-	echo %%f
-	cscript scattexp.vbs %%f
-)
-cd ..
-
-cd ua_online
-
-for %%f in (*.scatt) do (
+for %%f in (ematch\*.scatt) do (
 	echo %%f
 	cscript scattexp.vbs %%f
 )
 
-cd ..
+for %%f in (ua_online\*.scatt) do (
+	echo %%f
+	cscript scattexp.vbs %%f
+)

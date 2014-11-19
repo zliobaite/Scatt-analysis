@@ -3,7 +3,7 @@ import urllib,urllib2
 import os, time
 from bs4 import BeautifulSoup
 
-param_do_pdf_download = 0 #if 0 then not read, assume already saved
+param_do_pdf_download = 1 #if 0 then not read, assume already saved
 param_do_parsing = 1 # if 0 then do not extract links
 
 file_name = "AR60M_Scatt_eng.pdf"
