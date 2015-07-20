@@ -1,0 +1,277 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="ctl00_Head1"><title>
+	ISSF - International Shooting Sport Federation - issf-sports.org
+</title><meta name="keywords" content="issf,international shooting sport federation,Wolfgang,Schreiber,Horst,Munich,issf tv,Rifle,Pistol,Shotgun,London,2012,WC,WCF" /><link id="ctl00_iteamTemplate" rel="stylesheet" href="/iteam_data/public/template/issf/css/template.min.css?v=31" /><link id="ctl00_issf_layout" rel="stylesheet" href="/App_Themes/issftheme/issf_csscombiner.min.css?v=31" />
+
+	<script src="/javascript/jquery/jquery-1.3.2.js" type="text/javascript"></script>
+	<script src="/javascript/jquery/jquery.marquee.min.js" type="text/javascript"></script>
+
+    <!-- Photo Gallery -->    
+    <script src="/javascript/homegallery/homegallery.js" type="text/javascript"></script>
+    <!-- Photo Gallery -->
+
+	<script src="/javascript/views/issf_result.js" type="text/javascript"></script>
+	<script src="/javascript/views/issf_views.js?v=13" type="text/javascript"></script>
+
+    <link rel="shortcut icon" href="/issf_images/issf.ico" type="image/x-icon" />
+
+    <script type="text/javascript">jQuery.noConflict();</script>
+    
+    
+    <style id="ctl00_stylebackgroundimgcode" type="text/css">
+        .backgroundimage { background-image: url('/App_Themes/issftheme/Images/bgimages/1920/bg06.jpg?v=01'); }
+        
+        @media screen and (max-device-width : 1366px), (max-width: 1366px)  {
+            .backgroundimage { background-image: url('/App_Themes/issftheme/Images/bgimages/1280/bg06.jpg?v=01'); }
+        }
+    </style></head>
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-22899152-2']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+<body>
+    <script src="/javascript/wz_tooltip.js" type="text/javascript"></script>
+    <div id="fb-root"></div>
+    <script>    (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+            fjs.parentNode.insertBefore(js, fjs);
+        } (document, 'script', 'facebook-jssdk'));
+    </script>
+    <div class="backgroundimage"></div>
+    <a name="top"></a>
+    <form name="aspnetForm" method="post" action="results.ashx" id="aspnetForm">
+<input type="hidden" name="ctl00_ScriptManager_TSM" id="ctl00_ScriptManager_TSM" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUENTM4MQ9kFgJmD2QWAgIBD2QWAgIFD2QWAgIDD2QWAgICD2QWBmYPZBYCZg9kFgoCAQ9kFgICAQ8QZGQWAWZkAgIPZBYCAgEPEGRkFgFmZAIDD2QWAgIBDxBkZBYBZmQCBg9kFgICAQ8QZGQWAWZkAgcPZBYCAgEPEGRkFgFmZAIBD2QWAmYPFgIeBVRpdGxlBRJTaG9vdGluZyB5ZWFyIDIwMTVkAgIPZBYCZg8WAh8ABRJTaG9vdGluZyB5ZWFyIDIwMTRkZP6k0Kp6c8r4JKA929fEwtXARLTw" />
+
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl00_ScriptManager_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen%3ac9cbdec3-c810-4e87-846c-fb25a7c08002%3aea597d4b%3bTelerik.Web.UI%2c+Version%3d2013.3.1203.40%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen%3ac5855e9a-583f-4d87-8527-29240bac3303%3a16e4e7cd%3aed16cbdc" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdABW3zYG6he9hh7kx1KOVK/QZOFwcZe5K//jCIKtUjrsI9WtQSs5aC4K8+qDqlBg1mZCJTSA3KzkNpETJnbiaQ9ceVolPO1fwy1tBA8pDas0YV6Cnpz7lN05cDhKXf1uet02e1PlKadz76SR0O16skoNb5fdeEqgTFVlAyldWxFBZN3KP+sJKIituJQNbWyei9Iabbx/3uWueggFq9OxbmQalWHyX/KVRzebWkPYshUeOr1fePXY9vi9QMI/zjeqEVRkd2NgLeqg788IIQ5+WA9aUv7vmoO/M6vHNjnYI7aAd3mFEPMWVe3byLIsXVJ+IgmDSRncJv5mfck1G+pN18VOB2mYHYEYCX2ZMo3RiT5QlRu6hsfLR3f5AjUxMx/W4Xomn1bc155ovpRXTAFBbHVILcxv+8oKdhDmLdV8K01pOST93v+/hDH+cxmFAmLvyxx8vEr6iyD2tElN3XvX4tKxAsbB8yw==" />    
+        
+        <!-- 2013.3.1203.40 --><div id="ctl00_RadAjaxManager1SU">
+	<span id="ctl00_RadAjaxManager1" style="display:none;"></span>
+</div>
+
+        <div id="wrapper">
+            <div id="header_wrapper">
+                <div id="headerbgimages" class="headerbgimages">
+                    <div class="initialbgimage" style="background-image: url('/App_Themes/issftheme/Images/headerimages/header01.jpg?v=01');"></div>
+                    <div class="initialbgimage" style="background-image: url('/App_Themes/issftheme/Images/headerimages/header02.jpg?v=01');"></div>
+                    <div class="initialbgimage" style="background-image: url('/App_Themes/issftheme/Images/headerimages/header03.jpg?v=01');"></div>
+                    <div class="initialbgimage" style="background-image: url('/App_Themes/issftheme/Images/headerimages/header04.jpg?v=01');"></div>
+                    <div class="initialbgimage" style="background-image: url('/App_Themes/issftheme/Images/headerimages/header05.jpg?v=01');"></div>
+                    <div class="initialbgimage" style="background-image: url('/App_Themes/issftheme/Images/headerimages/header06.jpg?v=01');"></div>
+                    <div class="initialbgimage" style="background-image: url('/App_Themes/issftheme/Images/headerimages/header07.jpg?v=01');"></div>
+                    <div class="initialbgimage" style="background-image: url('/App_Themes/issftheme/Images/headerimages/header08.jpg?v=01');"></div>
+                </div>
+                <div class="socialbar">
+                    <a href="https://www.facebook.com/ISSF.Shooting" target="_blank" class="facebook" title="facebook"><i class="fa fa-facebook"></i></a>
+                    <a href="https://twitter.com/ISSF_Shooting" target="_blank" class="twitter" title="Twitter"><i class="fa fa-twitter"></i></a>
+                    <a href="http://www.youtube.com/issfchannel" target="_blank" class="youtube" title="YouTube"><i class="fa fa-youtube-play"></i></a>
+                    <a href="http://new.livestream.com/ISSF" target="_blank" class="livestream" title="livestream"><img src="/App_Themes/issftheme/Images/socialbar/livestream.png" alt="" /></a>
+                    <a href="https://instagram.com/ISSF_official" target="_blank" class="instagram" title="instagram"><i class="fa fa-instagram"></i></a>
+                    <a href="https://plus.google.com/u/0/104536766800469685241" target="_blank" class="googleplus" title="Google+"><i class="fa fa-google-plus"></i></a>
+                </div>
+                <div id="header_image">
+                    <a href='http://www.issf-sports.org'>
+                        <img src="/App_Themes/issftheme/Images/header_logo.png" alt="ISSF Logo" />
+                    </a>
+                </div>
+                <div class="caption">
+                    <p class="row1">Welcome To The</p>
+                    <p class="row2">International Shooting</p>
+                    <p class="row3">World</p>
+                </div>
+                <div id="mainmenu_wrapper">
+                    <div id="mainmenu_content">
+                        <div class="issfmenu_levelonewrapper"><ul class="issfmenu_levelone"><li class="blue "><a href="http://www.issf-sports.org/news_multimedia.ashx" >News & Multimedia</a></li><li class="orange "><a href="http://www.issf-sports.org/calendar.ashx" >Calendar</a></li><li class="orange "><a href="http://www.issf-sports.org/competitions.ashx" class="active">Competitions</a></li><li class="red "><a href="http://www.issf-sports.org/athletes.ashx" >Athletes</a></li><li class="black "><a href="http://www.issf-sports.org/theissf.ashx" >The ISSF</a></li></ul><div class="clear"></div></div>
+                        <div class="issfmenu_leveltwowrapper"><ul class="issfmenu_leveltwo"><li class="home"><a href="/"></a></li><li class="orange"><a href="http://www.issf-sports.org/competitions/results.ashx" class="active">Results</a></li><li class="orange"><a href="http://www.issf-sports.org/competitions/worldranking.ashx" >World Ranking</a></li><li class="orange"><a href="http://www.issf-sports.org/competitions/records.ashx" >Records</a></li><li class="orange"><a href="http://www.issf-sports.org/competitions/wcfqualification.ashx" >WCF Qualification</a></li><li class="orange"><a href="http://www.issf-sports.org/competitions/ogqualification.ashx" >OG Qualification</a></li><li class="orange"><a href="http://www.issf-sports.org/competitions/olympiccycle.ashx" >Results of the Olympic Cycles</a></li><li class="orange"><a href="http://www.issf-sports.org/competitions/historicalmedalwinners.ashx" >Historical Results</a></li></ul><div class="clear"></div></div>
+                        
+                    </div>
+                </div>
+            </div>
+            <div id="content_wrapper">
+                <div class="clear"></div>
+                
+                    
+                    <span id="ctl00_cphMainContent_issfViewControler"><div class="issfpage"><div class="twothird left"><div class="issfframe_wrapper border_orange_wrapper border"><div class="issfframe_title border_orange_title">Search</div><div class="border_content"><div class="border_innerbackground"><span><div class="result_chooser_rowwrapper"><div id="ctl00_cphMainContent_issfViewControler_ctl01_ctl00_pncship" class="result_chooser_championshipwrapper selectorwrapper active">
+	<p class="number">1</p><p class="description">Championship</p><select name="ctl00$cphMainContent$issfViewControler$ctl01$ctl00$dllchampionship" id="ctl00_cphMainContent_issfViewControler_ctl01_ctl00_dllchampionship">
+		<option selected="selected" value="Select a Championship">Select a Championship</option>
+		<option value="OG">OG - Olympic Games</option>
+		<option value="YOG">YOG - Youth Olympic Games</option>
+		<option value="WCH">WCH - World Championships</option>
+		<option value="WCF">WCF - World Cup Final</option>
+		<option value="WC">WC - World Cup</option>
+		<option value="IJC">IJC - ISSF Junior Cup</option>
+		<option value="AFC">AFC - African Championships</option>
+		<option value="AFG">AFG - African Games</option>
+		<option value="ASC">ASC - Asian Championships</option>
+		<option value="ASG">ASG - Asian Games</option>
+		<option value="CAT">CAT - Continental American Championships</option>
+		<option value="ECH">ECH - European Championships</option>
+		<option value="EUG">EUG - European Games</option>
+		<option value="OCH">OCH - Oceanian Championships</option>
+		<option value="PAG">PAG - Pan American Games</option>
+
+	</select>
+</div><div class="RadAjaxPanel" id="ctl00_ctl00_cphMainContent_issfViewControler_ctl01_ctl00_pnyearPanel">
+	<div id="ctl00_cphMainContent_issfViewControler_ctl01_ctl00_pnyear" class="result_chooser_yearwrapper selectorwrapper">
+		<p class="number">2</p><p class="description">Year</p><div class="RadAjaxPanel" id="ctl00_ctl00_cphMainContent_issfViewControler_ctl01_ctl00_dllyearPanel">
+			<select name="ctl00$cphMainContent$issfViewControler$ctl01$ctl00$dllyear" id="ctl00_cphMainContent_issfViewControler_ctl01_ctl00_dllyear" disabled="disabled">
+				<option selected="selected" value="Select a year">Select a year</option>
+
+			</select>
+		</div>
+	</div><div class="RadAjaxPanel" id="ctl00_ctl00_cphMainContent_issfViewControler_ctl01_ctl00_dllyearPanel">
+
+	</div>
+</div><div class="RadAjaxPanel" id="ctl00_ctl00_cphMainContent_issfViewControler_ctl01_ctl00_pncityPanel">
+	<div id="ctl00_cphMainContent_issfViewControler_ctl01_ctl00_pncity" class="result_chooser_citywrapper selectorwrapper">
+		<p class="number">3</p><p class="description">City</p><div class="RadAjaxPanel" id="ctl00_ctl00_cphMainContent_issfViewControler_ctl01_ctl00_dllcityPanel">
+			<select name="ctl00$cphMainContent$issfViewControler$ctl01$ctl00$dllcity" id="ctl00_cphMainContent_issfViewControler_ctl01_ctl00_dllcity" disabled="disabled">
+				<option selected="selected" value="Select a city">Select a city</option>
+
+			</select>
+		</div>
+	</div><div class="RadAjaxPanel" id="ctl00_ctl00_cphMainContent_issfViewControler_ctl01_ctl00_dllcityPanel">
+
+	</div>
+</div></div><div class="result_chooser_rowwrapper"><div class="RadAjaxPanel" id="ctl00_ctl00_cphMainContent_issfViewControler_ctl01_ctl00_pneventPanel">
+	<div id="ctl00_cphMainContent_issfViewControler_ctl01_ctl00_pnevent" class="result_chooser_eventwrapper selectorwrapper">
+		<p class="number">4</p><p class="description">Event</p><div class="RadAjaxPanel" id="ctl00_ctl00_cphMainContent_issfViewControler_ctl01_ctl00_dlleventPanel">
+			<select name="ctl00$cphMainContent$issfViewControler$ctl01$ctl00$dllevent" id="ctl00_cphMainContent_issfViewControler_ctl01_ctl00_dllevent" disabled="disabled">
+				<option selected="selected" value="Select an event">Select an event</option>
+
+			</select>
+		</div>
+	</div><div class="RadAjaxPanel" id="ctl00_ctl00_cphMainContent_issfViewControler_ctl01_ctl00_dlleventPanel">
+
+	</div>
+</div><div class="RadAjaxPanel" id="ctl00_ctl00_cphMainContent_issfViewControler_ctl01_ctl00_pncategoryPanel">
+	<div id="ctl00_cphMainContent_issfViewControler_ctl01_ctl00_pncategory" class="result_chooser_categorywrapper selectorwrapper">
+		<p class="number">5</p><p class="description">Category</p><div class="RadAjaxPanel" id="ctl00_ctl00_cphMainContent_issfViewControler_ctl01_ctl00_dllcategoryPanel">
+			<select name="ctl00$cphMainContent$issfViewControler$ctl01$ctl00$dllcategory" id="ctl00_cphMainContent_issfViewControler_ctl01_ctl00_dllcategory" disabled="disabled">
+				<option selected="selected" value="Select a category">Select a category</option>
+
+			</select>
+		</div>
+	</div><div class="RadAjaxPanel" id="ctl00_ctl00_cphMainContent_issfViewControler_ctl01_ctl00_dllcategoryPanel">
+
+	</div>
+</div><div id="ctl00_cphMainContent_issfViewControler_ctl01_ctl00_pnteam" class="result_chooser_teamwrapper selectorwrapper">
+
+</div></div><p class="result_chooser_infotext">To visit a competition result select a championship from the box below (1); then select a year (2) from the second box followed by city (3), event (4) and category (5) and your result will be displayed.</p><div class="RadAjaxPanel" id="ctl00_ctl00_cphMainContent_issfViewControler_ctl01_ctl00_resultcontrolPanel">
+
+</div></span></div></div></div><div class="issfframe_wrapper border_orange_wrapper"><div class="border_innerbackground"><div class="issfframe_wrapper border_orange_wrapper border"><div class="issfframe_title border_orange_title">Shooting year 2015</div><div class="border_content"><div class="border_innerbackground"><div class="cship_list_wrapper"><table><tr><td>28.02-10.03</td><td>ISSF World Cup Shotgun &middot; Acapulco, MEX</td><td><a href="/competitions/venue/schedule_by_discipline.ashx?cshipid=1690" target="_self">Results</a></td><td class="orangetext"><a href="http://www.issf-sports.org/media/calendar/2015/1690/completeresult/WC SH MEX 2015 Results Book.pdf" target="_blank"><img src="/iteam_data/images/pdfdoc.gif" alt="" width="13px" height="16px" /></a></td></tr><tr><td>19.03-29.03</td><td>ISSF World Cup Shotgun &middot; Al Ain, UAE</td><td><a href="/competitions/venue/schedule_by_discipline.ashx?cshipid=1691" target="_self">Results</a></td><td class="orangetext"><a href="http://www.issf-sports.org/media/calendar/2015/1691/completeresult/WC SH UAE 2015 Results Book.pdf" target="_blank"><img src="/iteam_data/images/pdfdoc.gif" alt="" width="13px" height="16px" /></a></td></tr><tr><td>08.04-16.04</td><td>ISSF World Cup Rifle / Pistol &middot; Changwon, KOR</td><td><a href="/competitions/venue/schedule_by_discipline.ashx?cshipid=1692" target="_self">Results</a></td><td class="orangetext"><a href="http://www.issf-sports.org/media/calendar/2015/1692/completeresult/WC RP KOR 2015 Results Book.pdf" target="_blank"><img src="/iteam_data/images/pdfdoc.gif" alt="" width="13px" height="16px" /></a></td></tr><tr><td>24.04-04.05</td><td>ISSF World Cup Shotgun &middot; Larnaca, CYP</td><td><a href="/competitions/venue/schedule_by_discipline.ashx?cshipid=1693" target="_self">Results</a></td><td class="orangetext"><a href="http://www.issf-sports.org/media/calendar/2015/1693/completeresult/WC SH CYP 2015 Results Book.pdf" target="_blank"><img src="/iteam_data/images/pdfdoc.gif" alt="" width="13px" height="16px" /></a></td></tr><tr><td>11.05-19.05</td><td>ISSF World Cup Rifle / Pistol &middot; Fort Benning, USA</td><td><a href="/competitions/venue/schedule_by_discipline.ashx?cshipid=1694" target="_self">Results</a></td><td class="orangetext"><a href="http://www.issf-sports.org/media/calendar/2015/1694/completeresult/WC RP USA 2015 Results Book.pdf" target="_blank"><img src="/iteam_data/images/pdfdoc.gif" alt="" width="13px" height="16px" /></a></td></tr><tr><td>26.05-02.06</td><td>ISSF World Cup Rifle / Pistol &middot; Munich, GER</td><td><a href="/competitions/venue/schedule_by_discipline.ashx?cshipid=1695" target="_self">Results</a></td><td class="orangetext"><a href="http://www.issf-sports.org/media/calendar/2015/1695/completeresult/WC RP GER 2015 Results Book.pdf" target="_blank"><img src="/iteam_data/images/pdfdoc.gif" alt="" width="13px" height="16px" /></a></td></tr><tr><td>25.06-02.07</td><td>ISSF Junior Cup Rifle / Pistol / Shotgun &middot; Suhl, GER</td><td><a href="/competitions/venue/schedule_by_discipline.ashx?cshipid=1783" target="_self">Results</a></td><td class="orangetext"><a href="http://www.issf-sports.org/media/calendar/2015/1783/completeresult/IJC RPSH GER 2015 Results Book.pdf" target="_blank"><img src="/iteam_data/images/pdfdoc.gif" alt="" width="13px" height="16px" /></a></td></tr><tr><td>06.08-16.08</td><td>ISSF World Cup Rifle / Pistol / Shotgun &middot; Gabala, AZE</td><td>&nbsp;</td><td class="orangetext">&nbsp;</td></tr><tr><td>21.08-30.08</td><td>ISSF Junior Cup Shotgun &middot; Almaty, KAZ</td><td>&nbsp;</td><td class="orangetext">&nbsp;</td></tr><tr><td>01.09-07.09</td><td>ISSF World Cup Final Rifle / Pistol &middot; Munich, GER</td><td>&nbsp;</td><td class="orangetext">&nbsp;</td></tr><tr><td>09.09-18.09</td><td>ISSF World Championship Shotgun &middot; Lonato, ITA</td><td>&nbsp;</td><td class="orangetext">&nbsp;</td></tr><tr><td>15.10-21.10</td><td>ISSF World Cup Final Shotgun &middot; Nicosia, CYP</td><td>&nbsp;</td><td class="orangetext">&nbsp;</td></tr></table></div></div></div></div></div></div><div class="issfframe_wrapper border_orange_wrapper"><div class="border_innerbackground"><div class="issfframe_wrapper border_orange_wrapper border"><div class="issfframe_title border_orange_title">Shooting year 2014</div><div class="border_content"><div class="border_innerbackground"><div class="cship_list_wrapper"><table><tr><td>26.03-03.04</td><td>ISSF World Cup Rifle / Pistol &middot; Fort Benning, USA</td><td><a href="/competitions/venue/schedule_by_discipline.ashx?cshipid=1510" target="_self">Results</a></td><td class="orangetext"><a href="http://www.issf-sports.org/media/calendar/2014/1510/completeresult/WC RP USA 2014 Results Book.pdf" target="_blank"><img src="/iteam_data/images/pdfdoc.gif" alt="" width="13px" height="16px" /></a></td></tr><tr><td>08.04-15.04</td><td>ISSF World Cup Shotgun &middot; Tucson, USA</td><td><a href="/competitions/venue/schedule_by_discipline.ashx?cshipid=1511" target="_self">Results</a></td><td class="orangetext"><a href="http://www.issf-sports.org/media/calendar/2014/1511/completeresult/WC SH USA 2014 Results Book.pdf" target="_blank"><img src="/iteam_data/images/pdfdoc.gif" alt="" width="13px" height="16px" /></a></td></tr><tr><td>16.05-25.05</td><td>ISSF World Cup Shotgun &middot; Almaty, KAZ</td><td><a href="/competitions/venue/schedule_by_discipline.ashx?cshipid=1513" target="_self">Results</a></td><td class="orangetext"><a href="http://www.issf-sports.org/media/calendar/2014/1513/completeresult/WC SH KAZ 2014 Results Book.pdf" target="_blank"><img src="/iteam_data/images/pdfdoc.gif" alt="" width="13px" height="16px" /></a></td></tr><tr><td>26.05-01.06</td><td>ISSF Junior Cup (MQS Competition for YOG 2014) &middot; Suhl, GER</td><td>&nbsp;</td><td class="orangetext"><a href="http://www.issf-sports.org/media/calendar/2014/1606/completeresult/IJC RPSH GER 2014 Results Book.pdf" target="_blank"><img src="/iteam_data/images/pdfdoc.gif" alt="" width="13px" height="16px" /></a></td></tr><tr><td>04.06-13.06</td><td>ISSF World Cup Rifle / Pistol / Shotgun &middot; Munich, GER</td><td><a href="/competitions/venue/schedule_by_discipline.ashx?cshipid=1514" target="_self">Results</a></td><td class="orangetext"><a href="http://www.issf-sports.org/media/calendar/2014/1514/completeresult/WC RPSH GER 2014 Results Book.pdf" target="_blank"><img src="/iteam_data/images/pdfdoc.gif" alt="" width="13px" height="16px" /></a></td></tr><tr><td>13.06-21.06</td><td>ISSF World Cup Rifle / Pistol &middot; Maribor, SLO</td><td><a href="/competitions/venue/schedule_by_discipline.ashx?cshipid=1515" target="_self">Results</a></td><td class="orangetext"><a href="http://www.issf-sports.org/media/calendar/2014/1515/completeresult/WC RP SLO 2014 Results Book.pdf" target="_blank"><img src="/iteam_data/images/pdfdoc.gif" alt="" width="13px" height="16px" /></a></td></tr><tr><td>01.07-10.07</td><td>ISSF World Cup Rifle / Pistol / Shotgun &middot; Beijing, CHN</td><td><a href="/competitions/venue/schedule_by_discipline.ashx?cshipid=1516" target="_self">Results</a></td><td class="orangetext"><a href="http://www.issf-sports.org/media/calendar/2014/1516/completeresult/WC RPSH CHN 2014 Results Book.pdf" target="_blank"><img src="/iteam_data/images/pdfdoc.gif" alt="" width="13px" height="16px" /></a></td></tr><tr><td>16.08-28.08</td><td>2nd Youth Olympic Games &middot; Nanjing, CHN</td><td><a href="/competitions/venue/schedule_by_discipline.ashx?cshipid=1291" target="_self">Results</a></td><td class="orangetext"><a href="http://www.issf-sports.org/media/calendar/2014/1291/completeresult/YOG CHN 2014 Results Book.pdf" target="_blank"><img src="/iteam_data/images/pdfdoc.gif" alt="" width="13px" height="16px" /></a></td></tr><tr><td>06.09-20.09</td><td>51st ISSF World Championship All Events &middot; Granada, ESP</td><td><a href="/competitions/venue/schedule_by_discipline.ashx?cshipid=930" target="_self">Results</a></td><td class="orangetext"><a href="http://www.issf-sports.org/media/calendar/2014/930/completeresult/WCH All ESP 2014 Results Book - Revised 20140928.pdf" target="_blank"><img src="/iteam_data/images/pdfdoc.gif" alt="" width="13px" height="16px" /></a></td></tr><tr><td>21.10-28.10</td><td>ISSF World Cup Final Rifle / Pistol / Shotgun &middot; Gabala, AZE</td><td><a href="/competitions/venue/schedule_by_discipline.ashx?cshipid=1517" target="_self">Results</a></td><td class="orangetext"><a href="http://www.issf-sports.org/media/calendar/2014/1517/completeresult/WCF RPSH AZE 2014 Results Book.pdf" target="_blank"><img src="/iteam_data/images/pdfdoc.gif" alt="" width="13px" height="16px" /></a></td></tr></table></div></div></div></div></div></div></div><div class="onethird right"><div class="issfframe_wrapper border_black_wrapper border"><div class="issfframe_title border_black_title">iPad</div><div class="border_content"><div class="border_innerbackground"><div class="ipadmagazine_teaser ipadmagazine_teaserregular"><a href="https://itunes.apple.com/en/app/issf-news/id632638067?mt=8"><img src="/issf_images/ipadnews/teaser/ipad-regular.png" alt=""><p class="big">ISSF News Magazine:</p><p class="big">52-Year old</p><p class="big">and keeps on scrolling.</p><p class="ipadtext">ISSF iPad Magazine:</p><p class="redtext">available on the Apple store, now!</p></a></div></div></div></div><div class="issfframe_wrapper border_blue_wrapper border"><div class="issfframe_title border_blue_title">Latest News</div><div class="border_content"><div class="border_innerbackground"><div class="latestNewsTeaser"><div class="latestNewsTeaserEntry"><a href="/news.ashx?newsid=2350">The ISSF celebrates the 108th anniversary of its first General Assembly</a></div><div class="latestNewsTeaserEntry"><a href="/news.ashx?newsid=2348">2015 Pan American Games kick-off in Toronto (CAN), today</a></div><div class="latestNewsTeaserEntry"><a href="/news.ashx?newsid=2347">2015 ISSF Junior Cup closes in Suhl, Germany</a></div><div class="latestNewsTeaserEntry"><a href="/news.ashx?newsid=2346">Recap: Italy wins six medals on closing day at 2015 Junior Cup in Suhl</a></div><div class="latestNewsTeaserEntry"><a href="/news.ashx?newsid=2345">Recap: Italy, Russia, USA win five medals each on Day 4 at 2015 Junior Cup in Suhl</a></div><div class="latestNewsTeaserEntry"><a href="/news.ashx?newsid=2344">Martina Veloso: Getting used to the noise of success</a></div></div></div></div></div><div class="issfframe_wrapper border_black_wrapper border"><div class="issfframe_title border_black_title">Shop</div><div class="border_content"><div class="border_innerbackground"><div class="shop_teaserwrapper"><div class="shop_teasertextcontent"><p class="title"><a href="http://www.issf-sports.org/theissf/shop.ashx">New ISSF Safety flags - now available on the ISSF Shop!</a></p></div><a href="http://www.issf-sports.org/theissf/shop.ashx"><img src="/issf_images/shopteaser-saftyflag.jpg" alt="" /></a></div></div></div></div></div></div></span>
+                
+                <div class="clear"></div>
+            </div>
+            <div class="footerpartner_wrapper">            
+                <span id="ctl00_footerpartners"><span><span><div class="content_container page_container"><div class="module_text"><p><div style="margin: 0px auto; width: 875px;">
+<div class="footer_banner"><a href="/" class="issf"></a></div>
+<div class="footer_banner"><a href="http://www.olympic.org/" target="_blank" class="ioc"></a></div>
+<div class="footer_banner"><a href="http://www.wada-ama.org/" target="_blank" class="wada"></a></div>
+<div class="footer_banner"><a href="http://www.nanjing2014.org/en" target="_blank" class="yog2014"></a></div>
+<div class="footer_banner"><a href="http://www.rio2016.org/" target="_blank" class="rio2016"></a></div>
+<div class="footer_banner"><a href="http://www.paralympic.org/rio-2016" target="_blank" class="rioipc2016"></a></div>
+<div class="footer_banner"><a href="http://www.ipc-shooting.org/" target="_blank" class="ipc"></a></div>
+<div class="clear"></div>
+</div></p></div><div class="module_content"><table class="list_table page_table"></table></div></div></span></span></span>
+            </div>
+            <div id="footer_wrapper">
+                <span id="ctl00_footermenu"><span><span><div class="content_container page_container"><div class="module_text"><p><div class="footermenu">
+<div class="column">
+<h3>News &amp; Multimedia</h3>
+<ul>
+    <li><a href="/news_multimedia/newslist.ashx">News</a></li>
+    <li><a href="/news_multimedia/video.ashx">Videos</a></li>
+    <li><a href="/news_multimedia/photo.ashx">Photo Galleries</a></li>
+    <li><a href="/news_multimedia/official_communications.ashx">Official Communications</a></li>
+</ul>
+</div>
+<div class="column">
+<h3>Competitions</h3>
+<ul>
+    <li><a href="/calendar.ashx">Calendar</a></li>
+    <li><a href="/competitions/results.ashx">Results</a></li>
+    <li><a href="/athletes.ashx">Biographies</a></li>
+    <li><a href="/competitions/ogqualification.ashx">OG Qualification</a></li>
+</ul>
+</div>
+<div class="column">
+<h3>The ISSF</h3>
+<ul>
+    <li><a href="/theissf/organisation.ashx">Organisation</a></li>
+    <li><a href="/theissf/rules.ashx">Rules</a></li>
+    <li><a href="/theissf/antidoping.ashx">Anti-Doping</a></li>
+    <li><a href="/theissf/academy.ashx">Academy</a></li>
+</ul>
+</div>
+<div class="column">
+<h3>Mobile</h3>
+<ul>
+    <li><a href="/mobile">ISSF Mobile</a></li>
+    <li><a href="/pages/mobile.ashx">ISSF Mobile Devices</a></li>
+    <li><a href="/theissf/communication/theissfnews.ashx">The ISSF NEWS</a></li>
+    <li><a href="/pages/facebookandtwitter.ashx">ISSF Social</a></li>
+</ul>
+</div>
+<div class="column">
+<h3>Service</h3>
+<ul>
+    <li><a href="/theissf/shop.ashx">Shop</a></li>
+    <li><a href="/theissf/marketing.ashx">Marketing</a></li>
+    <li><a href="/theissf/communication/organizers.ashx">Organizers</a></li>
+    <li><a href="/intranet.ashx">Intranet</a></li>
+</ul>
+</div>
+<div class="column lastcolumn">
+<h3>&nbsp;</h3>
+<ul>
+    <li><a href="/sitemap.ashx">Sitemap</a></li>
+    <li><a href="/theissf/communication/media/newsletter.ashx">Newsletter</a></li>
+    <li><a href="/rssnews.ashx">RSS</a></li>
+    <li><a href="/theissf/communication/contact_us.ashx">Contact</a></li>
+</ul>
+</div>
+<div class="footer_right">
+<div class="social_icons"><a href="http://www.facebook.com/ISSF.Shooting"><img width="24" height="24" src="/issf_images/facebook_icon_24.png" alt="facebook" /></a><a href="http://twitter.com/ISSF_Shooting"><img width="24" height="24" src="/issf_images/twitter_icon_24.png" alt="twitter" /></a><a href="/pages/mobile.ashx"><img width="24" height="24" src="/issf_images/iphone_icon_24.png" alt="mobile" /></a> </div>
+<div class="linkebutton">
+<div fb-xfbml-state="rendered" data-send="false" data-layout="button_count" data-font="arial" data-href="https://www.facebook.com/ISSF.Shooting" data-width="400" data-show-faces="false" class="fb-like fb_edge_widget_with_comment fb_iframe_widget"><span style="height: 21px; width: 74px;"><iframe scrolling="no" style="overflow: hidden; height: 21px; width: 74px; border: medium none;" src="http://www.facebook.com/plugins/like.php?api_key=&amp;locale=en_US&amp;sdk=joey&amp;channel_url=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D18%23cb%3Df2e11781385233a%26origin%3Dhttp%253A%252F%252Flocalhost%253A53492%252Ff10c5eec3fe5bb4%26domain%3Dlocalhost%26relation%3Dparent.parent&amp;href=https%3A%2F%2Fwww.facebook.com%2FISSF.Shooting&amp;node_type=link&amp;width=400&amp;font=arial&amp;layout=button_count&amp;colorscheme=light&amp;show_faces=false&amp;send=false&amp;extended_social_context=false" id="f41db27dbcf766" class="fb_ltr" title="Like this content on Facebook." name="f9b4af207fcae6"></iframe></span></div>
+</div>
+<div class="copyright">&copy; 2015 International Shooting Sport Federation </div>
+</div>
+<div class="clear">&nbsp;</div>
+</div></p></div><div class="module_content"><table class="list_table page_table"></table></div></div></span></span></span>
+            </div>
+        </div>
+
+        
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadAjaxManager, {"_updatePanels":"","ajaxSettings":[{InitControlID : "ctl00_cphMainContent_issfViewControler_ctl01_ctl00_dllchampionship",UpdatedControls : [{ControlID:"ctl00_cphMainContent_issfViewControler_ctl01_ctl00_pnyear",PanelID:""},{ControlID:"ctl00_cphMainContent_issfViewControler_ctl01_ctl00_dllyear",PanelID:""},{ControlID:"ctl00_cphMainContent_issfViewControler_ctl01_ctl00_pncity",PanelID:""},{ControlID:"ctl00_cphMainContent_issfViewControler_ctl01_ctl00_dllcity",PanelID:""},{ControlID:"ctl00_cphMainContent_issfViewControler_ctl01_ctl00_pnevent",PanelID:""},{ControlID:"ctl00_cphMainContent_issfViewControler_ctl01_ctl00_dllevent",PanelID:""},{ControlID:"ctl00_cphMainContent_issfViewControler_ctl01_ctl00_pncategory",PanelID:""},{ControlID:"ctl00_cphMainContent_issfViewControler_ctl01_ctl00_dllcategory",PanelID:""}]},{InitControlID : "ctl00_cphMainContent_issfViewControler_ctl01_ctl00_dllyear",UpdatedControls : [{ControlID:"ctl00_cphMainContent_issfViewControler_ctl01_ctl00_pncity",PanelID:""},{ControlID:"ctl00_cphMainContent_issfViewControler_ctl01_ctl00_dllcity",PanelID:""},{ControlID:"ctl00_cphMainContent_issfViewControler_ctl01_ctl00_pnevent",PanelID:""},{ControlID:"ctl00_cphMainContent_issfViewControler_ctl01_ctl00_dllevent",PanelID:""},{ControlID:"ctl00_cphMainContent_issfViewControler_ctl01_ctl00_pncategory",PanelID:""},{ControlID:"ctl00_cphMainContent_issfViewControler_ctl01_ctl00_dllcategory",PanelID:""}]},{InitControlID : "ctl00_cphMainContent_issfViewControler_ctl01_ctl00_dllcity",UpdatedControls : [{ControlID:"ctl00_cphMainContent_issfViewControler_ctl01_ctl00_pnevent",PanelID:""},{ControlID:"ctl00_cphMainContent_issfViewControler_ctl01_ctl00_dllevent",PanelID:""},{ControlID:"ctl00_cphMainContent_issfViewControler_ctl01_ctl00_pncategory",PanelID:""},{ControlID:"ctl00_cphMainContent_issfViewControler_ctl01_ctl00_dllcategory",PanelID:""}]},{InitControlID : "ctl00_cphMainContent_issfViewControler_ctl01_ctl00_dllevent",UpdatedControls : [{ControlID:"ctl00_cphMainContent_issfViewControler_ctl01_ctl00_pncategory",PanelID:""},{ControlID:"ctl00_cphMainContent_issfViewControler_ctl01_ctl00_dllcategory",PanelID:""},{ControlID:"ctl00_cphMainContent_issfViewControler_ctl01_ctl00_resultcontrol",PanelID:""},{ControlID:"",PanelID:""},{ControlID:"",PanelID:""}]},{InitControlID : "ctl00_cphMainContent_issfViewControler_ctl01_ctl00_dllcategory",UpdatedControls : [{ControlID:"ctl00_cphMainContent_issfViewControler_ctl01_ctl00_resultcontrol",PanelID:""},{ControlID:"",PanelID:""},{ControlID:"",PanelID:""}]}],"clientEvents":{OnRequestStart:"",OnResponseEnd:""},"defaultLoadingPanelID":"","enableAJAX":true,"enableHistory":false,"links":[],"styles":[],"uniqueID":"ctl00$RadAjaxManager1","updatePanelsRenderMode":0}, null, null, $get("ctl00_RadAjaxManager1"));
+});
+//]]>
+</script>
+</form>
+</body>
+</html>
