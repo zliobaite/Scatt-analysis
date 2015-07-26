@@ -25,10 +25,10 @@
     
     
     <style id="ctl00_stylebackgroundimgcode" type="text/css">
-        .backgroundimage { background-image: url('/App_Themes/issftheme/Images/bgimages/1920/bg05.jpg?v=01'); }
+        .backgroundimage { background-image: url('/App_Themes/issftheme/Images/bgimages/1920/bg03.jpg?v=01'); }
         
         @media screen and (max-device-width : 1366px), (max-width: 1366px)  {
-            .backgroundimage { background-image: url('/App_Themes/issftheme/Images/bgimages/1280/bg05.jpg?v=01'); }
+            .backgroundimage { background-image: url('/App_Themes/issftheme/Images/bgimages/1280/bg03.jpg?v=01'); }
         }
     </style></head>
 
