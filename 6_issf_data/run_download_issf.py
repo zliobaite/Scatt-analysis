@@ -32,7 +32,7 @@ url = 'http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1692&
 #url = 'http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1515&resultkey=Q00000_I_1506141330.1.AR40.0'
 
 #2014 Beijing
-url = 'http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1516&resultkey=Q10000_I_0307140915.1.AR60.0'
+#url = 'http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1516&resultkey=Q10000_I_0307140915.1.AR60.0'
 #url = 'http://www.issf-sports.org/competitions/results/detail.ashx?cshipid=1516&resultkey=Q00000_I_0307141130.1.AR40.0'
 
 url_master = 'http://www.issf-sports.org'
