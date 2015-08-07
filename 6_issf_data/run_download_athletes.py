@@ -34,7 +34,7 @@ sys.setdefaultencoding('utf8') # to solve the problem of umlaut writing
 
 #process individual results
 data_all = []
-for sk in range(325,327):#len(athlete_IDs)):
+for sk in range(0,len(athlete_IDs)):
 	at_now = []
 	at_now.append(athlete_IDs[sk][:-2])
 	url_now = url_master+athlete_IDs[sk]
