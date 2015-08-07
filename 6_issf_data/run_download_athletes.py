@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import os, time
 import dateutil.parser as dparser
 import csv
+import sys
 
 
 url_master = 'http://www.issf-sports.org/athletes/athlete.ashx?personissfid='
@@ -23,11 +24,19 @@ time_delay_sec = 1
 
 header = ['ID','name','country','gender','club','yob','start_competing','birth_place','start_practicing','hometown','personal_coach','residence','national_coach','height','hand','weight','eye','marital_status','events','children','education','profession','languages']
 
+#write results to a file
+wfile = open(out_file, "wb")
+writer = csv.writer(wfile, delimiter=';', quoting=csv.QUOTE_NONE)
+writer.writerow(header)
+
+reload(sys)
+sys.setdefaultencoding('utf8') # to solve the problem of umlaut writing
+
 #process individual results
 data_all = []
-for sk in range(0,len(athlete_IDs)):
+for sk in range(325,327):#len(athlete_IDs)):
 	at_now = []
-	at_now.append(athlete_IDs[sk][:2])
+	at_now.append(athlete_IDs[sk][:-2])
 	url_now = url_master+athlete_IDs[sk]
 	print(url_now)
 	conn = urllib2.urlopen(url_now)
@@ -59,20 +68,17 @@ for sk in range(0,len(athlete_IDs)):
 	at_now.append(athlete[41].text) #education
 	at_now.append(athlete[45].text) #profession
 	at_now.append(athlete[51].text) #languages
-	for sk in range(len(at_now)):
-		if at_now[sk]==u'\xa0':
-			at_now[sk] = 'NA'
+	for sk2 in range(len(at_now)):
+		if at_now[sk2]==u'\xa0':
+			at_now[sk2] = 'NA'
+		at_now[sk2] = at_now[sk2].replace('\"', '')
+		at_now[sk2] = at_now[sk2].replace(';', ',')
+	#at_now[sk2].decode("utf-8").replace(u'\xfc', 'u')
 	#['NA' if x==u'\xa0' else x for x in at_now]
 	data_all.append(at_now)
+	print(sk,at_now)
+	writer.writerow(at_now)
 	time.sleep(time_delay_sec)
 
-#print(data_all)
-
-#write results to a file
-wfile = open(out_file, "wb")
-writer = csv.writer(wfile, delimiter=';', quoting=csv.QUOTE_NONE)
-writer.writerow(header)
-for row in data_all:
-	print(row)
-	writer.writerow(row)
+# file writing
 wfile.close()
