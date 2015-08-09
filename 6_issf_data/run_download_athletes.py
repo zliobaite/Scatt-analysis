@@ -36,7 +36,7 @@ sys.setdefaultencoding('utf8') # to solve the problem of umlaut writing
 data_all = []
 for sk in range(0,len(athlete_IDs)):
 	at_now = []
-	at_now.append(athlete_IDs[sk][:-2])
+	at_now.append(athlete_IDs[sk][:-1])
 	url_now = url_master+athlete_IDs[sk]
 	print(url_now)
 	conn = urllib2.urlopen(url_now)

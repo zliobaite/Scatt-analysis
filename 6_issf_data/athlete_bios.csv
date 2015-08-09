@@ -1,567 +1,567 @@
 ID;name;country;gender;club;yob;start_competing;birth_place;start_practicing;hometown;personal_coach;residence;national_coach;height;hand;weight;eye;marital_status;events;children;education;profession;languages
-SHCOLM111219970;CONCHA-TORO, Emiliano;COL;M;NA;1997;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHDENM300119800;OLSEN, Steffen;DEN;M;NA;1983;1992;NA;2001;Aarhus, DEN;NA;Aarhus, DEN;NA;189;right;90;right;single;AR60;NA;NA;Student;NA
-SHAUTM030319910;PICKL, Bernhard;AUT;M;SV Gaming;1991;NA;Scheibbs;1997;Gaming;NA;Gaming, Vienna;Hubert Bichler;184;right;73;right;single;AR60;NA;NA;Military;NA
-SHGERM230319920;JANKER, Michael;GER;M;FSG Diessen;1992;2008;Landsberg am Lech;2006;Hagenheim;Elisabet Stainer;Hagenheim;CD Roth;181;right;77;right;single;NA;NA;NA;Student;NA
-SHBRNM201119890;ALROWAIEI, Abdulaziz;BRN;M;Ministry of the Imperior;1989;NA;Bahrain;2010;NA;Stefan Mitov;NA;Stefan Mitov;175;right;60;right;single;NA;NA;NA;Police man;NA
-SHCRCM040219610;QUESADA, Jorge;CRC;M;NA;1961;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHAUTM250419900;MATHIS, Thomas;AUT;M;SG Hohenems, USG Hard;1990;2005;Feldkirch, AUT;2000;Hohenems, AUT;Wolfram Waibel jun;Hohenems, AUT;Hubert Bichler;178;right;65;right;single;FR3X40,FR60PR;NA;NA;Salesman;NA
-SHRUSM310519890;LOUGINETS, Nazar;RUS;M;NA;1989;NA;Russia, Novorossiysk;NA;NA;Aleynikov Eugeniy;Moscow;Krainov Eugeny;181;right;70;right;single;AR60;NA;NA;NA;NA
-SHISRM220519900;MADLAL, Leor Ovadia;ISR;M;Maccabi Raanana Shooting Club;1990;2005;New York, USA;2004;Raanana;Guy Stanik;Israel;NA;180;right;72;right;single;NA;NA;NA;NA;NA
-SHESTM040619910;KIISK, Meelis;EST;M;Jarvamaa Shooting Sport Club;1991;2004;Tallinn, EST;2003;Paide, EST;Jon Hammond;EST;NA;182;right;70;right;married;AR60,FR3X40,FR60PR;1;NA;Student;NA
-SHNORM010519890;BRYHN, Ole Kristian;NOR;M;VBS;1989;2006;Drammen;2001;Royken;myself;Royken;Anne Grete Jeppesen;189;right;87;right;NA;NA;NA;Fireman;Fireman;NA
-SHSUIM130119900;DELLEY, Claude-Alain;SUI;M;NA;1990;2004;Fribourg;2002;Delley - Portalban;NA;Saint-Aubin;Roger Chassat;180;right;77;left;single;AR60;NA;Master of Science in Economics;Student;NA
-SHYUGM140319720;PLETIKOSIC, Stevan;SRB;M;Cika Mata;1972;1985;Kragujevac, SRB;1982;Kragujevac, SRB;Milutin Stefanovic;Kragujevac, SRB;Srecko Pejovic;183;right;80;right;single;AR60,FR3X40,FR60PR;NA;Sport Management;Student;NA
-SHJPNM220619850;OSADA, Yoshio;JPN;M;NA;1985;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHOMAM240519850;ALKHATRI, Hamed Said;OMA;M;Ghala;1985;2008;Al Hamra, OMA;2008;Al Hamra, OMA;Hilal Al Rasheedi;Al Hamra, OMA;NA;173;right;68;right;married;NA;NA;NA;Athlete;NA
-SHGBRM060619930;BAMSEY, Michael Sean;GBR;M;NA;1993;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHJPNM080219960;HASEGAWA, Tomohiko;JPN;M;University Club;1996;2010;Toyama, JPN;2010;Toyama, JPN;Thomas Farnik;Shiga, JPN;Thomas Farnik;170;right;55;right;single;NA;NA;University;Student;NA
-SHRUSM110119830;KAMENSKI, Alexei;RUS;M;CSKA;1983;1998;Barnayl, RUS;1995;Moscow, RUS;Eugeny Krainov;NA;Eugeny Krainov;180;right;70;right;married;AR60,FR3X40,FR60PR;1;Military Academy;Sport Instructor;NA
-SHUSAM110619890;NORTON, George;USA;M;US Army Marksmanship Unit;1989;2005;Albuquerque, New Mexico;2001;Salina, KS;Jason Parker;Fort Benning, GA, USA;Tom Tamas;193;right;90;left;married;AR60,FR3X40,FR60PR;1;NA;Military;NA
-SHCHNM200519880;CAO, Yifei;CHN;M;NA;1988;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR60,FR3X40,FR60PR;NA;NA;NA;NA
-SHVENM310719840;IEMMA HERNANDEZ, Julio Cesar;VEN;M;Hermandad Gallega;1984;1997;Buenos Aires, ARG;1997;Caracas, VEN;Julio Iemma di Vasto;Caracas, VEN;Miguel Oliva;170;right;72;right;single;AR60,FR3X40,FR60PR;NA;University;Student;NA
-SHUSAM161019930;ANDERSON, Ryan;USA;M;University of Alaska-Fairbanks;1993;2006;Great Falls, Virginia, USA;2004;Wasilla, AK, USA;Dan Jordan;Fairbanks, Alaska, USA;Tom Tamas;170;right;59;right;single;NA;NA;University Student;Student;NA
-SHBRAM150819860;HECK, Bruno Lion;BRA;M;CTAMAN;1986;2004;Porto Alegre, BRA;2003;Porto Alegre, BRA;NA;Porto Alegre, BRA;Oleg Mikhailov;177;right;68;right;single;NA;NA;University;Military;NA
-SHAUSM200819860;SAMPSON, Dane Kevin;AUS;M;Commercial;1986;1998;Sydney, AUS;1998;Brisbane, AUS;NA;NA;Petr Kurka;183;right;85;right;single;FR60PR;NA;NA;furniture maker;NA
-SHRUSM290419940;PANCHENKO, Evgeny;RUS;M;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHINDM060519830;NARANG, Gagan;IND;M;Air India Ltd.;1983;2002;Madras, IND;1997;Hyderabad, IND;NA;Hyderabad, IND;Sunny Thomas;180;right;95;right;single;AR60,FR3X40,FR60PR;NA;University;Service;NA
-SHMEXM300319940;SANCHEZ ZAVALA, Alvaro;MEX;M;Club Cinegetico Leones A.C.;1994;2010;Leon, Guanajuato, MEX;2008;Leon;NA;Mexico;NA;167;right;82;right;single;NA;NA;College;Student;NA
-SHGERM290119880;JUSTUS, Julian;GER;M;SGi Homberg/Ohm;1988;2004;Giessen, GER;2004;Homberg/Ohm;NA;Homberg/Ohm;CD Roth;176;right;74;right;single;NA;NA;Engineer of metalbuilding;Engineer;NA
-SHCHNM151119840;ZHU, Qinan;CHN;M;NA;1984;2003;Wenzhou, CHN;1999;Wenzhou, CHN;Chang Jing Chun;NA;Chang Jing Chun;180;right;66;right;single;AR60,FR3X40;NA;NA;Student;NA
-SHCANM181019750;NIEFER, Cory;CAN;M;NA;1975;NA;Yorkton, Saskatchewan, CAN;NA;Saskatoon, Saskatchewan, CAN;NA;Saskatoon, Saskatchewan, CAN;NA;183;right;72;right;married;AR60,FR3X40,FR60PR;1;Masters Sport Psychology;Sport Scientist;NA
-SHCOLM290919880;VELASCO CORREDOR, Pedro Andres;COL;M;NA;1988;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHCHIM301019840;SAN MARTIN, Elias;CHI;M;Esercito de Chile;1984;2006;Los Angeles, CHI;2006;Renaico, CHI;NA;Santiago, CHI;Pavel Sosa;174;right;69;right;single;NA;NA;NA;Army;NA
-SHSCGM230119850;STEFANOVIC, Milutin;SRB;M;SK Cika Mata;1985;2000;Kragujevac;NA;Kragujevac;Pietikosic Stevan;Kragujevac;Srecko Pejovic;182;right;75;right;married;AR60,FR3X40,FR60PR;NA;Faculty of Sport;Shooting Coach;NA
-SHSUIM280319720;BUERGE, Marcel;SUI;M;Sportschuetzen Gossau;1972;1993;Arbon, SUI;1988;Mosnang, SUI;Heinz Müller;Luetisburg, SUI;Roger Chassat;180;right;94;right;single;300FR3X40,300FR60PR,300STR3X20,AR60,FR3X40,FR60PR;NA;Web Publisher;Manager of Bleiker Sportsweapons;NA
-SHROMM030519830;MOLDOVEANU, Alin George;ROU;M;CS Dinamo;1983;1997;Focsani ROU;1996;Focsani ROU;Marin Olimpiu;Focsani, ROU;Sorin Babii;173;right;70;right;single;AR60,FR60PR;NA;Bachelor Psycology;Student;NA
-SHHUNM031219920;KAPAS, Istvan;HUN;M;KVSE;1992;2003;Komarom, HUN;2003;Komarom, HUN;Istvan Kisvardai;Komarom;Edit Oroszi;180;NA;66;left;NA;AR60;NA;NA;NA;NA
-SHNEDM071219850;HELLENBRAND, Peter;NED;M;SV Doeltreffers Landgraaf, Karlsschützengilde Aach;1985;2001;Brunssum, NED;2000;Brunssum, NED;Heinz Reinkemeier, Jo Frings;Brunssum, NED;NA;180;right;NA;right;single;AR60;NA;Bachelor of Business Administration;Shooter;NA
-SHUSAM060419870;WALLIZER, Bryant;USA;M;NA;1987;2003;Cumberland, MD;2001;Little Orleans, MD;Tom Tamas;Colorado Springs, CO;Dave Johnson;186;right;84;right;married;NA;NA;Bachelor of Sciences;Athlete, Army Reserves;NA
-SHVENM170219860;VARGAS, Raul Jun;VEN;M;NA;1986;NA;NA;NA;NA;NA;NA;Miguel Oliva;174;right;103;right;married;AR60,FR3X40,FR60PR;NA;University;Business Managment;NA
-SHHUNM110919780;SIDI, Peter;HUN;M;Komarom VSE;1978;1994;Komarom, HUN;1994;Budapest, HUN;Dr. Csaba Keringer;Komarom, HUN;Szabolcs Hercegh;180;right;82;right;single;300FR3X40,300FR60PR,AR60,FR3X40,FR60PR;NA;University;Manager;NA
-SHHUNM090619840;HANER, Tamas;HUN;M;BHSE;1984;2000;Budapest;1997;Budapest;NA;NA;Csaba Gyorik;187;right;100;right;single;AR60,FR3X40,FR60PR;NA;NA;NA;NA
-SHBRAM130619780;MOREIRA, Leonardo;BRA;M;Blumenauense de Caya e Tiro;1978;2010;Rio de Janeiro, BRA;2010;Campinas, BRA;Oleg Mikaylov;Campinas, BRA;Oleg Mikaylov;172;right;71;right;married;NA;1;Masters Degree;Military;NA
-SHAUTM190919890;SCHMIRL, Alexander;AUT;M;SG Rabenstein;1989;2006;St. Pölten, AUT;1996;Rabenstein, AUT;NA;Vienna, AUT;Hubert Bichler;178;right;95;right;single;AR60;NA;A-Levels;Soldier;NA
-SHCHIM310319710;HUERTA, Marcos;CHI;M;NA;1971;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR60;NA;NA;NA;NA
-SHBRNM300819880;ABDULJABBAR, Husain;BRN;M;Ministry of the Imperior;1988;NA;Bahrain;2010;NA;Stefan Mitov;NA;Stefan Mitov;169;right;64;right;married;NA;1;NA;Police man;NA
-SHISRM230419890;RICHTER, Sergey;ISR;M;Malabi Raanana;1989;1900;UKR;2002;Relhovot, UKR;Guy Starik;Israel;NA;NA;right;78;right;single;NA;NA;NA;NA;NA
-SHNORM160119820;HANSEN, Are;NOR;M;Krapfoss;1982;1996;Frederikstad, NOR;1995;Moss, NOR;Leif Steinar Roland;Moss, NOR;Anne Grethe Jeppesen;179;right;NA;NA;married;AR60,FR3X40,FR60PR;1;NA;NA;NA
-SHITAM061119870;CAMPRIANI, Niccolo;ITA;M;WVU (West Virginia, University);1987;2001;Florence, ITA;2000;Florence, ITA;Gaby Bullmann;Appiano, ITA;Gaby Bullman;177;right;74;right;single;AR60,FR3X40,FR60PR;NA;High school;Student;NA
-SHBRNM190219850;AL HAIDERABADI, Ali;BRN;M;shooting club;1985;2006;Manama, BRN;2006;AlJsra, BRN;Thanin;BRN;Thanin;178;right;65;right;married;NA;1;Secondary school;Military;NA
-SHYUGM301219840;SEBIC, Milenko;SRB;M;Akademica Maksimovic;1984;1999;Trstenik;1998;Beograd, SRB;Miriban Maksimovic;Beograd, SRB;Srecko Pejovic;197;right;93;right;single;FR3X40,FR60PR;NA;faculty for sport;Student;NA
-SHVENM210919850;GARCIA, Javier;VEN;M;NA;1985;2008;Valera, VEN;NA;NA;Miguel Oliva;NA;Miguel Oliva;183;right;100;right;single;NA;NA;University;NA;NA
-SHMEXM181119940;CHAIRES, Gerardo Emiliano;MEX;M;Club Cinegetico a Tiro Coahuila;1994;2006;Saltillo, MEX;2006;Saltillo, MEX;Blas Ruiz;Saltillo, MEX;NA;161;right;60;right;single;NA;NA;NA;Student;NA
-SHMGLM250919910;NYANTAI, Bayaraa;MGL;M;TST Technik Sport Center;1991;2005;Ulaanbaatar, MGL;2005;Ulaanbaatar, MGL;Adilibish;MGL;Undralbat;176;right;67;right;single;AR60;NA;University;Athlete;NA
-SHSWEM180419910;ERIKSSON, Spaennar Mats;SWE;M;NA;1991;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHCOLM170519680;LASTRA GONZALEZ, Guido;COL;M;Target Colombia;1968;1999;Paris, FRA;1999;Bogota, COL;Roger Caron;USA;NA;176;right;80;right;married;AR60,FR3X40,FR60PR;2;NA;Physician;NA
-SHINDM050419890;SINGH, Chain;IND;M;Army Marksmanship Unit;1989;2012;Doda;NA;NA;NA;NA;NA;172;NA;NA;right;single;NA;NA;NA;Army;NA
-SHCHIM151019770;HUERTA, Mauricio;CHI;M;Lampa;1977;1989;Santiago, CHI;1989;CHI;NA;CHI;NA;160;right;74;right;single;AR60,FR3X40,FR60PR;NA;NA;NA;NA
-SHMEXM130619950;MADRAZO MORALES, Luis Carlos;MEX;M;Club Coachuila;1995;2013;Saltillo, Mexico;2011;Saltillo, Mexico;Blas Ruiz;Mexico;Blas Ruiz;162;left;53;left;single;NA;NA;College;Student;NA
-SHCHNM131219820;WANG, Tao;CHN;M;NA;1982;2008;Hu Nan, CHN;2000;Hu Nan, CHN;Chang Jing Chun;Beijing, CHN;Chang Jing Chun;170;right;76;right;single;NA;NA;College;Student;NA
-SHJPNM130519840;MISHIMA, Yusuke;JPN;M;IGO;1984;2011;Nagano, JPN;1996;Saitama, JPN;Omari Tomomi;Saitama, JPN;Kosai Syunsuke;172;right;63;right;single;NA;NA;University Meiji;School secetary;NA
-SHCRCM300819590;VAZQUEZ, Rodrigo;CRC;M;NA;1959;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR60;NA;NA;NA;NA
-SHCZEM180719860;HAMAN, Vaclav;CZE;M;SKP Rapid Plzen;1986;2003;Jicin, CZE;1993;Jicin, CZE;Tomas Jerabek;Brada 35, Jicín, CZE;Lubos Opelka;180;right;87;right;single;AR60,FR3X40,FR60PR;NA;High school;Gunmaker;NA
-SHUSAW141019840;SOWASH, Amy;USA;W;NA;1984;2007;New Mexico, USA;2003;Colorado Springs, CO;Brian Beaman;Colorado Springs, CO;Dave Johnson;NA;right;NA;right;single;AR40,STR3X20;NA;NA;Athlete;NA
-SHCZEW050219870;SYKOROVA, Adela;CZE;W;Rapid Plzen;1987;2001;Zlin, CZE;1996;Hof, GER;Milan Bakes;Hof, GER;Lubos Opelka;170;right;55;right;single;AR40,STR3X20,STR60PR;NA;NA;Student;NA
-SHLUXW100919780;CALMES, Carole;LUX;W;SSC Kayl;1978;2001;Luxembourg, LUX;2001;Kayl, LUX;Heinz Reinkemeier;LUX;Iris Zimmer-Roseneck;NA;right;NA;right;single;AR40;NA;Commercial Pilot License;Trade Union Secretary;NA
-SHUSAW160119960;GRATZ, Elizabeth;USA;W;NA;1996;2010;Effingham, IL;2010;Sigel, IL;Jon Hammond;Sigel, IL;Dave Johnson;167;right;72;right;single;NA;NA;NA;College Student;NA
-SHESAW030819870;MIKEC, Melissa;ESA;W;Fesatiro;1987;2004;San Salvador, ESA;2003;Belgrade, SRB;Damir Mikec;Belgrade, SRB;Ninfa Chavez;157;right;54;right;married;AR40;NA;University;Student;NA
-SHCZEW221119940;MAZUROVA, Nikola;CZE;W;Dukla Plzen;1994;2004;Rychnov nad Kneznou;2003;Doudleby nad Orlici;Ivo Mazura;Doudleby nad Orlici;Lubos Opelka;NA;right;NA;right;single;STR3X20;NA;High School;Student;NA
-SHGERW290119710;PFEILSCHIFTER, Sonja;GER;W;Holzkirchen;1971;1989;Cham, GER;1982;Pemfling, GER;Hubert Bichler;Großhöhenrain, GER;Claus Dieter Roth;156;left;50;left;single;AR40,STR3X20,STR60PR;NA;NA;Soldier;NA
-SHMGLW270619940;GANKHUYAG, Nandinzaya;MGL;W;Sniper;1994;2007;MGL;2007;Ulaanbaatar, MGL;J. Gankhuyag;MGL;Undralbat Lkhagva;159;right;53;right;single;NA;NA;University of the Humanities;Student;NA
-SHBRNW131119880;ABDULGHAFFAR, Aseel;BRN;W;NA;1988;2013;BRN;2012;BRN;Jordan;BRN;Bulgary;162;right;60;right;single;NA;NA;University;Shooting;NA
-SHINDW170119890;GHATKAR, Pooja;IND;W;NA;1989;2008;Pune, IND;2007;Pune, IND;Stanislav Lapious;Pune, Mamarashtra;NA;165;right;64;right;single;AR40;NA;M.B.A.;Student;NA
-SHINDW230919920;PAUL, Ayonika;IND;W;National Rifle Association of India;1992;2007;Mumbai, IND;2007;Mumbai, IND;Sanjoy Chakrobaryy;Mumbai, IND;Prof. Sunny Thomas;NA;right;80;right;single;AR40;NA;BE Electronics;Student;NA
-SHSUIW121119900;LUSTENBERGER, Petra;SUI;W;Büren-Oberdorf, SUI;1990;2006;NA;1900;NA;NA;Rothenburg, SUI;Roger Chassat;NA;right;NA;right;single;STR3X20,STR60PR;NA;NA;NA;NA
-SHMEXW190919940;PENA ROCAMONTES, Rosa;MEX;W;NA;1994;2007;Goahuila, MEX;2006;Goahuila, MEX;Blas Ruiz;Mexico;NA;162;right;55;right;single;NA;NA;University;Student;NA
-SHVENW271019820;MENDEZ, Diliana;VEN;W;Orion;1982;1995;Caracas, VEN;1995;Maracay Aragua, VEN;Valerio Mendez;NA;Miguel Oliva;171;right;58;NA;single;AR40,STR3X20,STR60PR;NA;University;Accountant;NA
-SHSRBW090919920;BISERCIC, Katarina;SRB;W;Nis 1881;1992;2006;NA;2005;NA;Lidija Mihajlovic;Nis, SRB;Srecko Pejovic;172;right;55;right;single;AR40;NA;NA;Student;NA
-SHRUSW170719910;ZHUKOVA, Anna;RUS;W;Dossaf, Shvsm;1991;2003;Belgorod, Russia;2005;Belgorod, Russia;Lytai O. I.;Belgorod, Russia;Ananiev A. ;164;right;63;right;single;NA;NA;NA;Student;NA
-SHRUSW261019930;KITAEVA, Daria;RUS;W;NA;1993;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHBRNW170419920;ALDOSARI, Sara;BRN;W;NA;1992;2013;Manama, Bahrein;2012;East Riffa, Bahrein;Jordan;Bahrain;Bulgary;160;right;42;right;single;NA;NA;NA;Shooting;NA
-SHJPNW181119940;MATSUHABA, Ayu;JPN;W;Ritsumeikan University;1994;2009;Gifu, JPN;2009;Gifu, JPN;Tagiri Hidekazu;Kyoto, JPN;Tomas Farnik;164;right;55;right;single;NA;NA;University;Student;NA
-SHGERW300419910;PREDIGER, Maren;GER;W;NA;1991;2009;Ansbach, GER;2002;Petersaurach, GER;NA;Petersaurach, GER;NA;NA;NA;NA;right;NA;AR40;NA;NA;Student;NA
-SHMEXW170219950;ZUNIGA, Monica;MEX;W;NA;1995;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHAUTW220619920;UNGERANK, Lisa;AUT;W;SG Zell am Ziller;1992;2005;Schwarz, AUT;2005;Zell am Ziller, AUT;Hubert Bichler;Zell am Ziller, AUT;NA;163;right;NA;right;NA;STR3X20,STR60PR;NA;NA;Student;NA
-SHSLOW090719910;DVORSAK, Ziva;SLO;W;Olimpija;1991;2005;Ljubljana, SLO;2004;Ljubljana, SLO;Polona Sladic;Slovenia;Andreja Vlah;168;right;NA;right;single;AR40;NA;High school;Student;NA
-SHCHNW010419870;CHANG, Jing;CHN;W;NA;1987;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHCHIW150719870;SALAZAR GUERRERO, Paulina Alejandra;CHI;W;NA;1987;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHITAW300619890;ZUBLASING, Petra;ITA;W;NA;1989;2003;Bolzano, ITA;2001;Appiano, ITA;Franz Zublasing;Appiano, ITA;Gaby Bullman;165;right;54;left;single;AR40;NA;High school;Student;NA
-SHBELW290419940;CLAESSENS, Manon;BEL;W;NWS Nieuwpoortsewapensportkring;1994;2009;Oostende;2009;Middelkerke;Stefaan Vandersteene;NA;NA;NA;right;NA;right;NA;NA;NA;Bachelor in political science;Student;NA
-SHUSAW120119930;CARPENTIER, Meredith;USA;W;USAFA / USAS;1993;2008;Waukegan, IL;2011;Waukegan, IL;NA;Colorado Springs, CO;NA;NA;right;NA;right;single;NA;NA;NA;Student;NA
-SHDENW090219910;NIELSEN, Stine;DEN;W;Saerslev;1991;2009;Faaborg-Midtfyn, DEN;1999;Korinth, DEN;Axel Larsen;Faaborg, DEN;Enrico Friedemann;163;right;NA;right;single;NA;NA;NA;Student;NA
-SHCHIW120919920;LOBOS, Gabriela;CHI;W;NA;1992;NA;NA;NA;NA;NA;NA;Pavel Sosa;150;NA;64;NA;NA;NA;NA;NA;Estudia;NA
-SHAUTW141019880;OBERMOSER, Stephanie;AUT;W;SG Koessen;1988;2002;St. Johann i. T., AUT;2002;Koessen, AUT;Hubert Bichler;Koessen, AUT;Hubert Bichler;161;right;54;right;single;AR40, smallbore 3 x 20;NA;Final secondary school examinations for engineerin;Medical Masseur;NA
-SHMGLW020919850;CHULUUNBADRAKH, Narantuya;MGL;W;MGL National Shooting Sport Club;1985;2000;Ulaanbaatar, MGL;2000;UB, MGL;Adilbish;Utaanbaator, MGL;Undralbat Lkhagva;160;right;68;right;married;AR40,STR3X20,STR60PR;1;Bachelor Degree in Economy;Athlete;NA
-SHMGLW221019900;OLZVOIBAATAR, Yanjinlkham;MGL;W;Sniper Club MGL;1990;2005;Ulaanbaatar, MGL;2005;Ulaanbaatar, MGL;Ganhuyag;Ulaanbaatar, MGL;Undralbat Lkhagva;160;right;47;right;single;AR40,STR3X20,STR60PR;NA;University;Athlete;NA
-SHJPNW200719950;SUEMOTO, Kana;JPN;W;NA;1995;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHCHNW270119900;ZHANG, Cheng;CHN;W;NA;1990;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHSWEW200819840;NORMANN, Anna;SWE;W;NA;1984;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR40;NA;NA;NA;NA
-SHMEXW140219950;RAMOS, Salma Maricruz;MEX;W;Rifle y Cana Lazadores;1995;2008;San Nicolas de las Garza, Nuevoleon;2007;Escabedo, NL, MEX;NA;Nuevo Leon, MEX;NA;157;right;54;right;single;NA;NA;University;Student;NA
-SHCHNW140319860;CHENG, Cheng;CHN;W;NA;1986;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHECUW190519890;PADILLA, Sofia;ECU;W;NA;1989;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHAUSW010819860;HENS, Jennifer;AUS;W;Springwoord Smallbore and Rifle Club;1986;2008;AUS;2001;Mt Riverview, NSW, AUS;Petr Kurka;Sydney, AUS;Petr Kurka;174;right;61;right;single;NA;NA;Master of teaching (secondary);High school teacher;NA
-SHCANW301219970;ARTHUR, Aerial;CAN;W;Saskatoon Rifle & Revolver Club;1997;2010;Saskatoon, SASK;2010;Saskatoon, SASK;Scott Arthur;416 112th St;NA;168;right;135;right;single;NA;NA;NA;NA;NA
-SHOMAW100119890;AL TARSHI, Amina;OMA;W;Oman Shooting Team;1989;2013;Muscat;2009;Muscat;Mohammed Hamed;Oman;Mohammed Hamed;169;right;60;right;single;NA;NA;Secondary;Air Force Oman;NA
-SHBELW090519920;DE QUICK, Jana;BEL;W;Koninklijke Vrijschutters Geraardsbergen;1992;2010;Asse, BEL;2005;Meerbeke, BEL;Marc de Loose;Meerbeke;Viaene Alain;160;right;50;right;single;NA;NA;Hotel Management;Student;NA
-SHSCGW020519900;MAKSIMOVIC, Ivana;SRB;W;Novi Beograd;1990;2004;Belgrade, SRB;2002;Belgrade, SRB;Miriban Marsimovic;Radoza Dakica 33 Beograd SRB;Srecko Pejovic;163;right;50;right;single;NA;NA;High School, University;student;NA
-SHCROW130719820;PEJCIC, Snjezana;CRO;W;Lokomotiva;1982;1995;Rijeka, CRO;1995;Rijeka, CRO;Seno Custo;Rijeka, CRO;NA;170;right;66;right;single;AR40,STR3X20,STR60PR;NA;NA;Shooter;NA
-SHGBRW170619910;MCINTOSH, Jennifer;GBR;W;Alloa District;1991;2007;Edinburgh, Scotland;2003;Falkirk;Donald McIntosh;Edinburgh;Donald McIntosh;174;right;75;right;married;NA;NA;HNC Makeup Artistry;Athlete;NA
-SHINDW040119930;CHANDELA, Apurvi;IND;W;NA;1993;2008;Jaipur, Rajasthan, IND;2008;Jaipur, Rajasthan, IND;Stanislav Lapidus;Jaipur, Rajasthan, IND;NA;154;right;52;right;single;NA;NA;B.A. Honours (Sociology);Student;NA
-SHJPNW100119720;SASAKI, Ako;JPN;W;NA;1972;2000;Hyogo, JPN;1987;Tokyo, JPN;Tanomi Omori;NA;Laszlo Szucsak;165;right;60;right;single;AR40,STR3X20,STR60PR;NA;University (Economy);Office Worker;NA
-SHBELW080219890;VERCRUSSE, Stephanie;BEL;W;Leieschutters;1989;2005;Gent, BEL;2001;Sint-Truiden, BEL;Frings Jo;BEL;NA;169;right;75;right;single;AR40;NA;NA;Military;NA
-SHGERW280219870;GOESSLER, Ramona;GER;W;SV Ebhausen;1987;1999;NA;1999;NA;Helmut Hoffmann;Baden Wuerttemberg, GER;Claus Dieter Roth;160;right;NA;right;single;STR3X20;NA;NA;CAD Instructor;NA
-SHRUSW061019770;BOBKOVA, Marina;RUS;W;Army Sport Club;1977;1994;Moscow, RUS;1989;Moscow, RUS;Fedkin Yury;Moscow, RUS;Andrey Ananiev;164;right;65;right;single;AR40,STR3X20,STR60PR;NA;High school;Instructor of sport;NA
-SHSINW010319940;LI, Yafei;SIN;W;NA;1994;2009;CHN;2007;SIN;NA;SIN;Zhang Man Zhen;158;right;53;right;single;NA;NA;A Levels;Student;NA
-SHCHIW120419750;VERA, Karina;CHI;W;Fechitid;1975;2000;Santiago, CHI;1996;CHI;Pavel Sosa Hernandez;CHI;Pavel Sosa Hernandez;154;right;50;right;widowed;AR40,STR3X20;1;NA;Dentist assistant;NA
-SHBRNW211119900;ASHOOR, Lulwa;BRN;W;NA;1990;2013;Manama, Bahrain;2012;Hamad Town, Bahrain;Tahin;Bahrain;Tahin / Thiland;156;right;44;right;single;NA;NA;NA;Military;NA
-SHSCGW050219870;ARSOVIC, Andrea;SRB;W;Partizan;1987;2000;Drvar, BIH;2000;Belgrade, SRB;Donevic Dragan;Belgrade, SRB;Donevic Dragan;165;right;60;right;single;AR40,STR3X20,STR60PR;NA;High school;Student;NA
-SHSWEW120419820;OLOFSSON, Linda;SWE;W;NA;1982;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;STR3X20;NA;NA;NA;NA
-SHCOLW210519960;BERRIO, Angelica;COL;W;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHCOLW031119950;QUIROGA LUQUE, Aura Maria;COL;W;NA;1995;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHVENW011019840;OLIVA, Beggxula;VEN;W;NA;1984;1999;Caracas, VEN;NA;NA;Miguel Oliva;Maturin, VEN;Miguel Oliva;174;right;66;right;single;NA;NA;NA;Lawyer;NA
-SHSUIW030119920;FUEGLISTER, Fabienne;SUI;W;Sportschuetzen Thoerishaus;1992;2002;Baden, SUI;2002;Obersiggenthal;Roger Chassat;Bern;Roger Chassat;172;right;NA;right;single;NA;NA;NA;Polymechanic;NA
-SHBLRM110719840;SHCHERBATSEVICH, Yury;BLR;M;Army;1984;2000;Cherven, BLR;1997;Brest, BLR;Andrey Fominyh;Brest, BLR;Igor Basinki;178;right;87;right;married;AR60,FR3X40,FR60PR;1;Middle school;Athlete;NA
-SHKSAM140319810;AL ANAZI, Faiz;KSA;M;NA;1981;2006;Riyadh, KSA;1900;Riyadh, KSA;Al-Khateb Mohammed;Riyadh, KSA;NA;165;right;61;right;married;AR60;NA;high secondary school;Navy;NA
-SHSLOM270619840;MOICEVIC, Zeljko;SLO;M;SD Grosuplse;1984;1999;Ljubljana;1998;Grosuplje;Joze Kolenc;Grosuplje;NA;178;right;72;right;single;AR60,FR3X40,FR60PR;NA;Faculty of Criminal Justice;Athlete;NA
-SHBLRM150419930;CHARHEIKA, Illia;BLR;M;DOSAF;1993;2006;Minsk, BLR;2004;Minsk, BLR;Natalia Gulevich;NA;Igor Basinski;178;right;100;right;single;AR60;NA;NA;Athlete,student;NA
-SHCHNM220219960;YANG, Haoran;CHN;M;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHESPM060319730;GUTIERREZ, Oscar;ESP;M;El Greco;1973;2000;Burgos, ESP;NA;NA;NA;Burgos;Piotr;174;right;76;right;married;AR60,FR60PR;NA;University;Student;NA
-SHQATM031019900;AL MUHANADI, Ali;QAT;M;Qatar Shooting Club;1990;2004;Doha, QAT;2004;Doha, QAT;Szabolcs Herczegh;Doha, QAT;Szabolcs Herczegh;169;left;86;left;single;AR60,FR60PR;NA;Bachelor Degree, Aeronautical College;Student;NA
-SHSINM030919980;TAY, Seng Liang Sean;SIN;M;NA;1998;2012;Singapore;2011;Singapore;NA;NA;Zhang Man Zhen;174;NA;57;left;single;NA;NA;NA;Student;NA
-SHUKRM290319680;SUKHORUKOV, Yuriy;UKR;M;Dinamo;1968;1982;Donetsk, UKR;1981;Donetsk, UKR;Irina Sukhorukova;UKR;Stepan Starinskiy;181;right;74;right;married;AR60,FR3X40,FR60PR;2;NA;Military;NA
-SHTURM310519890;NALBANT, Mert;TUR;M;NA;1989;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR60;NA;NA;NA;NA
-SHKAZM110319830;YURKOV, Yuriy;KAZ;M;Sport Club Arms;1983;1997;Shimkent, KAZ;1997;Shimkent, KAZ;Yunusmetov Anvar;Shimkent, KAZ;Yunusmetov Anvar;177;right;78;right;single;AR60,FR3X40,FR60PR;NA;NA;Athlete;NA
-SHGERM020919870;BRODMEIER, Daniel;GER;M;NA;1987;2001;Kelheim;1996;Niederlauterbach;Mario Gonsierowsky;Niederlauterbach;Claus-Dieter Roth;179;right;NA;right;single;NA;NA;NA;NA;NA
-SHGBRM031019880;PARR, Kenneth;GBR;M;Croydon, Mengshausen;1988;2006;Westminster;2001;London;Ken Parr Snr;London, GBR;Donald McIntosh;183;right;75;right;single;AR60,FR3X40,FR60PR;NA;BA English Literature;Athlete;NA
-SHFINM201219910;KURKI, Juho;FIN;M;Kankaanpään Ampumaurheilwat;1991;2001;Kankaanpää, FIN;2001;Kankaanpää, FIN;Mauri Röppänen;NA;Juha Hirvi;170;right;NA;right;single;AR60;NA;Vocational school;Electrician;NA
-SHUAEM150919920;ALQAYDI, Salem;UAE;M;NA;1992;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHINDM280919820;BINDRA, Abhinav;IND;M;NA;1982;1997;Dehra Dun, IND;1997;Kishanpura, IND;Gaby Buehlmann;Kishanpura, IND;Sunny Thomas;175;right;60;right;single;AR60,FR3X40,FR60PR;NA;NA;Student;NA
-SHUKRM220319880;TSARKOV, Oleh;UKR;M;NA;1988;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR60,FR3X40,FR60PR;NA;NA;NA;NA
-SHCZEM110919970;CIPRO, Adam;CZE;M;SSK Dukla Plzen;1994;2010;Prague, CZE;2006;Prague, CZE;Jan Videcký;NA;Lubos Opelka;180;right;70;right;single;NA;NA;NA;NA;NA
-SHFRAM030619850;PIASECKI, Pierre Edmond;FRA;M;SW Harthouse Haguenau;1985;2002;Metz, France;1994;Metz, France;NA;Paris, France;Pascal Bessy, Eric Viller;178;right;89;right;single;AR60,FR3X40,FR60PR;NA;NA;professional shooter;NA
-SHLTUM110519890;SIMOKAITIS, Tomas;LTU;M;NA;1989;2005;Kaunas, LTU;2001;Kaunas, LTU;V Pabuliene;Kaunas, LTU;V Pabuliene;172;right;63;right;single;AR60;NA;NA;Student;NA
-SHPHIM150919950;VALDEZ, Jayson;PHI;M;NA;1995;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHPOLM150119900;BARTNIK, Tomasz;POL;M;Legia Warsaw;1990;2005;Warsaw, POL;2004;Warsaw, POL;Eulalia Rolinska;Warsaw, POL;Andrzej Kijowski;173;right;68;right;single;AR60;NA;Informatik;NA;NA
-SHPOLM021219880;LUKASZYK, Rafal;POL;M;WKS Zawisza Bydgoszcz;1988;2000;Debowiec;2000;Zamosc;Zbignien Poliszuk;NA;Andrzej Kijowski;175;right;74;right;married;AR60;NA;NA;Soldier;NA
-SHSWEM170819940;MADSEN, Marcus;SWE;M;Vellinger SKF;1994;2008;Malmö;2005;Malmö;Paul Larm;Malmö;Mats Eriksson;175;right;65;right;single;NA;NA;NA;Student;NA
-SHUSAM030419930;DAVIS, Connor;USA;M;NA;1993;2009;Richmond, KY;2008;Shelbyville, KY;Harry Mullins;Lexington Kentucky;Marcus Raab;183;right;86;right;single;NA;NA;NA;NA;NA
-SHUSAM220519900;CHRISTENSON, Dempster;USA;M;NA;1990;2006;Sioux Falls, SD;2002;Sioux Falls, SD;Dempster Christenson;Colorado Springs, CO;Dave Johnson;183;right;77;right;single;NA;NA;College;Shooter;NA
-SHUZBM020319740;SKOROMNOV, Vyacheslav;QAT;M;NA;1974;1987;Andijan, UZB;1986;Tashkent, UZB;A.A. Seffarov;Tashkent, UZB;A.A. Seffarov;170;right;82;right;married;AR60,FR3X40,FR60PR;1;College;Military;NA
-SHIRIM201019850;AHMADI, Mahdi;IRI;M;Land Force Army;1985;2011;Tehran, IRI;2010;Tehran, IRI;Mostafa Ahmadi;IRI;Laszlo Szucsak;171;right;64;right;single;NA;NA;Physical Education;Athlete;NA
-SHLIEM200419900;MATTLE, Michael;LIE;M;Eschen;1990;2007;NA;2004;Eschen;NA;NA;NA;182;right;95;right;single;NA;NA;NA;Mechanic;NA
-SHMASM020319920;MUHAMMAD, Mohammad Zubair;MAS;M;National Shooting Association of Malaysia;1992;2005;Kuala Lumpur, MAS;2005;Kuala Lumpur, MAS;Saidov Isroil;Kuala Lumpur, MAS;Saidov Isroil;163;right;63;right;single;AR60;NA;Diploma of Engineering;Student;NA
-SHCROM171019890;DURKOVIC, Bojan;CRO;M;Koncar Zagreb 1786;1989;2001;Bjelovar, CRO;2000;Bjelovar, CRO;Zlatko Loborec;Bjelovar, CRO;Branko Pereglin;180;left;80;right;single;AR60;NA;NA;Army;NA
-SHIRIM140619820;BAGHERI, Hossein;IRI;M;NA;1982;2009;Esfahan, Iran;2004;Tehran, Iran;NA;Iran;Laszlo Szucsak;176;right;71;right;married;NA;NA;NA;NA;NA
-SHKSAM020919710;AL-ANAZI, Khalid;KSA;M;NA;1971;2000;Hail, KSA;1998;Hail, KSA;NA;Riyadh, KSA;NA;180;right;80;right;married;AR60,FR3X40,FR60PR;4;High school;Employer;NA
-SHBANM301219950;MD, Zesimuzzaman;BAN;M;NA;1995;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHAUSM130619970;ROSSITER, Jack Thomas Venning;AUS;M;Reynella samllbore and air rifle;1997;2010;Ausralia;2004;Adeluide;Petr Kurka;South Australia;Pert Kurka;171;right;65;right;single;NA;NA;NA;Student;NA
-SHMASM310119890;NASIR KHAN, Muhammad Ezuan;MAS;M;National Shooting Association of Malaysia;1989;2013;Kuala Lumpur, MAS;2001;Kuala Lumpur, MAS;Saidov Isroil;MAS;Saidov Isroil;170;right;46;NA;NA;AR60,FR3X40,FR60PR;NA;High School;Armed Forces;NA
-SHPHIM031119970;ARELLANO, Celdon Jude;PHI;M;NA;1997;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHINDM010119900;KUMAR, Ravi;IND;M;NA;1990;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHCHNM020419820;LIU, Tianyou;CHN;M;NA;1982;2002;Shi Chuan, CHN;1998;NA;Zhang Qiu Pin;Shi Chuan, CHN;NA;170;right;55;right;single;AR60,FR3X40,FR60PR;NA;NA;Student;NA
-SHBLRM121119740;BUBNOVICH, Vitali;BLR;M;Military Sport Club;1974;2001;Grodno, BLR;1986;Grodno, BLR;Kharitonik;BLR;Igor Basinski;169;right;67;right;married;AR60,FR3X40,FR60PR;2;Middle school;Military;NA
-SHSINM030419880;ONG, Jun Hong;SIN;M;NA;1988;NA;NA;NA;NA;NA;NA;Kirill Ivanov;172;left;NA;NA;single;AR60,FR60PR;NA;NA;NA;NA
-SHITAM190319840;TRESSOLDI, Simone;ITA;M;Shooting Club Milano;1984;2001;Castellanza, ITA;2001;NA;NA;Legnano, ITA;Gaby Buelmann;184;right;75;right;single;NA;NA;NA;work at office and shooting club;NA
-SHLIEM140919840;KESSLER, Marc Andre;LIE;M;Zimmerschuetzen Verein Vaduz;1984;2001;Zuerich, SUI;2001;Vaduz, SUI;NA;Mauren;Oliver Geissmann;180;right;80;right;single;AR60;NA;Advanced technical college;forest warden;NA
-SHSUIM200119890;LORETAN, Pascal;SUI;M;Tafers;1989;2005;Murten, SUI;2000;Leukerbad, SUI;NA;NA;Roger Chassat;167;right;58;right;single;AR60,FR3X40,FR60PR;NA;NA;Polymecanicien;NA
-SHMGLM160719880;KHENMEDEKH, Byambabaatar;MGL;M;TST Technik Sport Center;1988;2007;MGL;2007;Khuvsgul;Enkhjargal;MGL;Undralbat;170;right;70;right;single;NA;NA;NA;Student;NA
-SHEGYM010319810;TALAT, Hamada;EGY;M;Remaya;1981;2007;Gharbeya, Egypt;2006;Elmahalla City;Mohammed Amer;GHARBEYA, Egypt;Mohammed Amer;176;right;77;right;married;AR60;2;NA;air born;NA
-SHOMAM010119780;AL HATTALI, Bader;OMA;M;NA;1978;2008;Al Rustaq, OMA;2005;NA;Hilal Al Rasheedi;Al Rustaq, OMA;Hilal Al Rasheedi;175;right;80;right;married;AR60;2;Secondary school;Athlete;NA
-SHCROM110119880;GORSA, Petar;CRO;M;SD Dalmacijacement;1988;1997;Bjelovar, CRO;1996;Bjelovar, CRO;Sinisa Vitez;NA;NA;182;right;84;right;single;AR60,FR3X40,FR60PR;NA;NA;NA;NA
-SHUAEM141219770;ALNAQBI, Salem;UAE;M;NA;1977;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHPOLM211219670;KRASKOWSKI, Robert;POL;M;Legia Warszawa;1967;1986;Slupsk, POL;1983;Slupsk, POL;E. Rolinska;Slupsk;Andrzej Kijowski;176;right;83;right;single;AR60,FR3X40,FR60PR;NA;NA;Military;NA
-SHMASM160719850;JAAFAR, Mohd Hadafi;MAS;M;Royal Malaysia Police Club;1985;2005;Pulau Pinang;2005;Pulau Pinang;Saidov Isroil;Malaysia;Saidov Isroil;169;right;66;right;single;AR60,FR3X40,FR60PR;NA;High school;Police;NA
-SHESPM261119850;DIAZ, Jorge;ESP;M;Ensidesa Trasona;1985;1999;Belmonte de Miranda, Asturias, ESP;1998;Oviedo, Asturias, ESP;Piotr Kosmatko;Oviedo, Asturias, ESP;Piotr Kosmatko;173;right;76;right;single;AR60;NA;University;Student;NA
-SHTURM150219820;AKGUN, Omer;TUR;M;Dicleyouth sports club;1982;1997;Dicle, Dijarbakir, TUR;1996;Dijarkakir, TUR;Kadri Akgun;NA;Lifuk Özisik;170;right;82;right;married;NA;2;college;NA;NA
-SHCANM161019920;TAYLOR, Benjamin;CAN;M;NA;1992;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHSUIM030319920;LOCHBIHLER, Jan;SUI;M;Balsthal;1992;2008;Niederbipp;2004;Mümliswil-Ramiswil;NA;Holdrebank;Roger Chassat;188;right;90;right;single;AR60,FR3X40,FR60PR;NA;NA;Flooring technician;NA
-SHBANM010819890;BAKI, Abdullah Hel;BAN;M;NA;1989;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR60;NA;NA;NA;NA
-SHSRBM060119960;MILOVANOVIC, Andrija;SRB;M;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHLTUM011119860;GIRULIS, Karolis;LTU;M;Alytus ASRC;1986;2001;Alytus, LTU;1998;Alytus, LTU;Ceslovas Pavilonis;Punios - 16;Ceslovas P;176;right;65;right;married;AR60,FR3X40,FR60PR;2;Modern Physics and Management + Biophysics;Project Manager;NA
-SHRUSM270319850;KRUGLOV, Sergey;RUS;M;CSA Pomoriye;1985;2003;Khabarovsk, RUS;2001;Arkhangelsk, Russia;Oleg Seleznev, Pozdeev Alecksandr;RUS;Kraynov Eugeniy;178;right;75;right;married;AR60,FR3X40,FR60PR;1;Sport Management;Sport Instructor;NA
-SHFRAM080419890;GERMOND, Etienne;FRA;M;Mouettes de Royan;1989;2007;Saintes;1998;Pons;Lassalle Maxime, Pascal Bessy;Paris;Lassalle Maxime, Pascal Bessy;184;right;69;right;single;NA;NA;NA;Student;NA
-SHFINM160619800;HAKKINEN, Henri;FIN;M;Joensuu Shooting Club;1980;1994;Joensuu, FIN;1993;Hollola, FIN;NA;Hollola, FIN;Juha Hirvi;189;right;86;right;married;300FR3X40,300STR3X20,AR60,FR3X40,FR60PR;2;MMS;Army Officer;NA
-SHSINM100519970;CHAN, Keith;SIN;M;NA;1997;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHMGLM220619890;BOLDBAATAR, Bishrel;MGL;M;TST Technik Sport Center;1989;2003;Ulaanbaatar, MGL;2003;Ulaanbaatar, MGL;Adilibish;MGL;Undral Bat;183;right;68;right;single;AR60,FR60PR;NA;Bachelor Degree;Athlete;NA
-SHMEXM010819970;VALDES MARTINEZ, Jose Santos;MEX;M;Club Cinegetico a tiro de Coahula;1997;2009;Saltillo, MEX;2009;Saltillo, MEX;Blas Ruiz;Saltillo Coahula;Blas Ruiz;165;right;65;right;single;NA;NA;College;Student;NA
-SHSLOM300519730;MARKOJA, Robert;SLO;M;Stefan Kovac Turnisce;1973;1985;Gomilica, SLO;1984;Gomilica, SLO;NA;Gomilica, SLO;Lojze Mikolic;175;right;76;right;single;300FR3X40,300FR60PR,300STR3X20,AR60,FR3X40,FR60PR;NA;Economics;Army Sports Instructor;NA
-SHARMM140919800;LAUER, Christian;ARM;M;Yerevan Shooting School ARM, SV Erdbach GER, SV Wi;1980;2000;Ehringshausen, GER;1998;Herborn, Hessen, GER;Andranik Ayvazyan, Detlef Klein;Herborn, Hessen, GER;Seyran Nikoghosyan;186;right;88;right;married;NA;1;Administrative Director;Athlete, Privatier;NA
-SHFINM061119920;BJORKBACKA, Jaakko;FIN;M;NA;1992;NA;Karstula, Finland;NA;Alajarvi;Toikko Hanna;NA;Hirvi Juha;NA;right;NA;right;single;NA;NA;NA;NA;NA
-SHBRNM110319910;HAJI, Mahmood;BRN;M;Bahrain Shooting Club;1991;2014;Bahrain;2014;Hamad Town;Tanin;Hamad Town;Tanin;173;right;65;right;single;NA;NA;NA;Military;NA
-SHTJKM180719960;EROV, Daler;TJK;M;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHRUSM290319720;PRIKHODTCHENKO, Konstantin;RUS;M;CSKA;1972;1985;Belgorod, RUS;1984;Moscow, RUS;Victor Vlasov;Moscow, RUS;NA;185;right;83;right;single;AR60,FR3X40,FR60PR;NA;University;Military;NA
-SHKUWM110119750;AL SUBAIE, Khaled;KUW;M;Kuwait Shooting Club;1975;2003;KUW;1998;KUW;Sergey Dovgal;KUW;Sergey Dovgal;NA;right;NA;right;married;AR60;1;Secondary school;Employee;NA
-SHITAM250419810;PAPPALARDO, Enrico;ITA;M;Gr. S.P. Marina Militaire;1981;1999;Catania, ITA;1993;Lucca, ITA;NA;Lucca, ITA;Gaby Bullman;173;right;65;right;married;FR3X40,FR60PR;NA;high secondary school;Military;NA
-SHJPNM170419790;YAJIMA, Midori;JPN;M;NA;1979;1995;Ibaraki, JPN;1995;Saitama, JPN;Ryohei Koba;Saitama, JPN;Thomas Farnik;170;right;80;right;married;AR60,FR3X40,FR60PR;3;High School;Military;NA
-SHEGYM291219820;MORAD, Ahmed;EGY;M;Army Shooting Club;1982;2006;Giza, EGY;2006;Giza, EGY;Mohamed Amer;Giza, EGY;Mohamed Amer;172;right;77;right;married;AR60;1;NA;Officer;NA
-SHNORM280419880;BAKKEN, Ole Magnus;NOR;M;Stange;1988;2006;Hamar;2001;Romedal;Ole Kristian Bakken, Heinz Rinkemeier;Oslo;Oyvind Sirrvaag;193;right;108;right;NA;FR3X40,FR60PR;NA;NA;Student;NA
-SHARMM010819960;BABAYAN, Hrachik;ARM;M;Yerevan Shooting School;1996;2012;Yerevan;2010;Yerevan;Andranik Ayvazyan;Yerevan;Seyran Nikoghosyan;172;right;65;right;single;NA;NA;NA;pupil;NA
-SHTURM020419780;OZTURK, Halil Ibrahim;TUR;M;Jandarna Gucu;1978;2002;Sivas, TUR;2002;Sivas, TUR;Muhammed Topal;Diyarbakir, TUR;NA;173;right;89;right;married;AR60;2;University;Non commissioned officer (NCO);NA
-SHBANM130419960;MUNNA, Md Rabbi Hasan;BAN;M;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHJPNM100119840;MATSUMOTO, Takayuki;JPN;M;Self Defence Forces Shooting Team;1984;1999;Nagasaki, JPN;1999;Nagasaki, JPN;Rhohei Koba;Saitama, JPN;Ryohei Koba;167;right;65;right;married;AR60,FR3X40,FR60PR;NA;University;Army;NA
-SHKSAM280619760;AL HARBI, Hussain;KSA;M;NA;1976;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHKAZM090119840;KLEIMYONOV, Alexey;KAZ;M;NA;1984;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHSRBM160919970;JOVANOVIC, Stevan;SRB;M;NA;1997;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHUKRM170419930;KULISH, Serhiy;UKR;M;NA;1993;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR60,FR3X40,FR60PR;NA;NA;NA;NA
-SHIRIM190219920;JAFARIPOUYA, Mahdi;IRI;M;Zahedan;1992;2009;Zahedan, Iran;2007;Zahedan, Iran;NA;Iran;Laszlo Szucsak;175;right;66;right;single;NA;NA;Pre-University;Athlete;NA
-SHSUIM110619820;BEYELER, Simon;SUI;M;Sportschützen Tafers, Kleinkalibersch. Atterswil;1982;1996;Bern, SUI;1994;Schwarzenburg, SUI;Roger Chassat;NA;Roger Chassat;170;right;63;right;single;AR60,FR3X40,FR60PR;NA;NA;Bank Clerk;NA
-SHSVKM111219840;BALAZ, Zoltan;SVK;M;VSC Dukla BB;1984;1997;V.Krtis, SVK;1997;V.Krtis, SVK;P. Salaj;Bratislava, SVK;J. Gönci;175;right;80;right;single;AR60,FR3X40,FR60PR;NA;Secondary school;Sports instructor;NA
-SHSWEM140519920;PERSSON, Jorgen;SWE;M;NA;1992;2009;Östersund;2008;Hökrattnet;NA;NA;Mats Eriksson;181;right;91;right;single;NA;NA;NA;Student;NA
-SHSWEM010419850;JONSSON, Karl Johan;SWE;M;NA;1985;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR60,FR3X40,FR60PR;NA;NA;NA;NA
-SHBULM291219870;RIZOV, Anton;BUL;M;CSKA;1987;2004;Sandansky, BUL;2000;Sofia, BUL;Veselin Petkov;BUL;N. Lecher;170;right;70;right;single;AR60;NA;NA;NA;NA
-SHTKMM100519710;PIREKEYEV, Igor;KAZ;M;Sport Club Arms;1971;1986;TKM;1986;Almaty, KAZ;Grenadiy Nasonov, Lapidus Stanislav;KAZ;Yunusmetov Anvar;184;right;80;right;married;AR60,FR3X40,FR60PR;2;Institute of Sport;Coach;NA
-SHTUNM050619780;KHEMIRI, Seifeddine;TUN;M;NA;1978;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHHUNM140219970;PENI, Istvan;HUN;M;UTE;1997;2009;Budapest, HUN;2009;Budapest, HUN;Edit Kissne Oroszi and Toth Jozsef;Budapest, HUN;Csaba Gyorik;176;right;62;right;single;NA;NA;NA;Student;NA
-SHOMAM270219860;AL NAABI, Salim Ali;OMA;M;Ghala;1986;2010;Alhamra, OMA;1900;Alhamra, OMA;Hilal Alrasheedi;Alhamra, OMA;NA;175;right;75;right;married;NA;NA;Diploma;Athlete;NA
-SHKUWM130619870;ALHARBI, Abdullah;KUW;M;NA;1987;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHFRAM050519890;MONNIER, Jeremy;FRA;M;St. Pontarlier;1989;1997;Pontarlier;1997;Pontarlier;NA;Lille, FRA;Viller Eric / Bessy Pascal;175;right;64;right;single;AR60,FR3X40,FR60PR;NA;Teacher of Sport;Student;NA
-SHAUTM260119860;ZOTT, Georg;AUT;M;Söller Sportschützen;1986;NA;Kufstein;NA;Söll;Embachen Martin;Soell;Hermann Rainer;180;right;70;right;NA;NA;1;NA;Engineer;NA
-SHHUNW261119910;ZWICKL-VERES, Kata;HUN;W;BHSE;1991;2007;Budapest, HUN;2004;Budapest, HUN;Eva Joo;NA;Csaba Györik;161;right;53;right;single;AR40;NA;High School;Student;NA
-SHIRIW090619960;KHEDMATI, Najmeh;IRI;W;NA;1996;2010;Birjand;2011;Birjand;Mrs. Maghsoudi;Iran;Elham Hashemi, Laszlo Szucsak;160;right;60;right;single;NA;NA;High School student;Student;NA
-SHSRBW240919970;BABIC, Milica;SRB;W;SC Palilula;1997;2011;Belgrade;2010;Belgrade;Bauer Brankica;Belgrade;Srecko Pejovic;175;right;61;right;single;NA;NA;X High School M.Pupin;Student;NA
-SHITAW121219910;PICA, Martina;ITA;W;Fiamme Oro;1991;2004;Rome, ITA;2004;Rome, ITA;Alfonso Ricci;Rome, ITA;Alfonso Ricci, Gaby Buehlmann;161;right;NA;right;NA;NA;NA;NA;Shooter;NA
-SHUAEW130519800;AL BADI, Afra;UAE;W;NA;1980;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHFINW031019930;LANGSTROM, Katarina;FIN;W;Kyrkslätt Skytteförening;1993;2007;Kirkkonummi;2005;Kirkkonummi;ARi Dufvelin;NA;Juha Hirvi;174;right;65;left;single;NA;NA;NA;Student;NA
-SHSLOW300719920;JUVAN, Nina;SLO;W;Olimpija;1992;2007;Ljubljana;2006;Ljubljana;Alojz Mikolic;SLO, Ljubljana;Alojz Mikolic;167;right;61;right;NA;AR40;NA;NA;NA;NA
-SHNEDW030519940;SMEETS, Pea H M;NED;W;S.V. De Grensstreek;1994;2005;Belfeld;2005;Belfeld;Danny Smeets;Arnhem;NA;170;right;NA;right;single;NA;NA;HAN University of applied sciences;Student;NA
-SHGERW160919820;ENGLEDER, Barbara;GER;W;Bergschuetzen Voglarn;1982;1994;Eggenfelden, GER;1994;Triftern, GER;Manfred Scherz;Furth, GER;Claus-Dieter Roth;162;right;68;right;single;AR40,STR3X20,STR60PR;NA;High School;Soldier;NA
-SHGERW010619880;MAGER, Jessica;GER;W;Post SV Duesseldorf;1988;2002;Solingen, GER;2000;Solingen, GER;Manfred Welbers;NA;Claus-Dieter Roth;168;right;58;right;single;AR40;NA;NA;Student;NA
-SHCROW080619920;PEREC, Tanja;CRO;W;Varazdin;1992;2004;Varazdin;2002;Varazdin;Josip Plecko;Varazdin;Ivan Cvitak;168;right;71;right;single;AR40;NA;NA;Student;NA
-SHCROW301119930;BERIC, Masa;CRO;W;NA;1993;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHMASW281219850;ZULKIFLI, Muslifah;MAS;W;National Shooting Association of Malaysia;1985;2002;Penang, MAS;2001;Penang, MAS;Saidov Isroil, Natalia Zhukava;MAS;Natalia Zhukava;156;right;49;right;single;AR40,STR3X20;NA;Diploma in Sports Science;Athlete, Student, Naval officer;NA
-SHKAZW020919940;KOROL, Yelizaveta;KAZ;W;Dinamo;1994;2009;KAZ;2006;Shymkent, KAZ;Yunusmetov Anvar;KAZ;Yunusmetov Anvar;167;right;65;right;married;NA;NA;NA;Athlete;NA
-SHDENW180719900;PETERMANN, Line Fredensborg;DEN;W;NA;1990;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR40;NA;NA;NA;NA
-SHAUTW240619800;TIME, Regina;AUT;W;SG Puchheim 1907;1980;1999;Voecklabruck, AUT;1991;Attnang-Puchheim, AUT;Hermann Time;Attnang-Puchheim, AUT;NA;167;right;65;right;single;AR40,STR3X20,STR60PR;NA;Master degree;Teacher;NA
-SHRUSW240719870;SUSHKO, Anna;RUS;W;Dinamo;1987;2003;NA;1900;Same, Russia;Aleynicov, E.;Moscow, Russia;A.E. Ananiev;166;right;51;right;married;AR40,STR3X20,STR60PR;NA;Lawer;Shooter;NA
-SHTJKW150520000;LAGUTENKO, Malika;TJK;W;NA;2000;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHJPNW140819870;NAKAMURA, Yuka;JPN;W;NA;1987;2009;Kyoto, JPN;2003;Fukuoka, JPN;NA;Fukuoka, JPN;Thomas Farnik;163;right;NA;right;single;AR40,STR3X20;NA;University Chuo;Office worker;NA
-SHECUW080219880;LOPEZ CARRILLO, Giovanna Paola;ECU;W;NA;1988;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHSUIW160519920;MISCHLER, Jasmin;SUI;W;SS Thorshaus;1992;2007;Bern, SUI;2005;Bern, SUI;NA;NA;Roger Chassat;169;right;NA;right;NA;AR40;NA;NA;Cook;NA
-SHSVKW230419840;DEMJEN PESKOVA, Daniela;SVK;W;Police Sports Centre;1984;1994;Bratislava, SVK;1994;Vistuk, SVK;Michal Slavkousky;Vistuk, SVK;Michal Slavkosky;168;right;52;right;married;AR40,STR3X20,STR60PR;1;Secondary School;Athlete;NA
-SHESTW200619940;KOLJUHHINA, Valeria;EST;W;NA;1994;2008;Narva, EST;2005;Narva, EST;Alexander Makarov;Narva, EST;NA;168;right;52;right;single;NA;NA;NA;Student;NA
-SHCANW090319940;DENEKA, Connor Elizabeth;CAN;W;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHJPNW030319810;IWATA, Seiko;JPN;W;Hitachi Systems;1981;2002;Aomori, JPN;1996;Sendai, JPN;Yoko Minamoto;Tokyo, JPN;Tomas Farnik;163;right;55;left;single;AR40,STR3X20,STR60PR;NA;University;Office worker;NA
-SHUKRW020719740;KALNYSH, Natallia;UKR;W;NA;1974;1988;Krivoy Rog, UKR;1986;Dnepropetrov, UKR;Oleksandr Skuratovskij;NA;Stepan Starinskij;168;right;65;right;single;AR40,STR3X20,STR60PR;NA;NA;Military;NA
-SHITAW070719870;NARDELLI, Elania;ITA;W;Marina Militare;1987;2000;Foggia, ITA;2000;NA;Gaby Buehlmann;Rome, ITA;Gaby Buehlmann;160;right;NA;right;single;AR40;NA;High school;Athlete and Student;NA
-SHQATW110419970;AL-MUTAWA, Aisha;QAT;W;NA;1997;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHIRIW310519820;AHMADI, Elaheh;IRI;W;Land Force Army;1982;2004;Tehran, IRI;2002;Tehran, IRI;Moustafa Ahmadi;IRI;Laszlo Szucsak;160;right;60;right;married;AR40,STR3X20,STR60PR;1;BA Physical Education;Athlete;NA
-SHVIEW251219970;PHUNG, Thi Lan Huong;VIE;W;NA;1997;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHVENW120719940;MARQUEZ VIVAS, Dairene;VEN;W;Orion;1994;2009;Barinas, Venezuela;2007;Aragua;Valerio Mendez;Aragua, Venezuela;Miguel Oliva;158;right;51;right;single;NA;NA;NA;Estudean;NA
-SHESTW041019680;VORONOVA, Anzela;EST;W;Narva Shooting Club;1968;1981;Narva, EST;1981;Narva, EST;Aleksander Makarov;Narva, EST;NA;170;right;65;NA;married;AR40,STR3X20,STR60PR;1;NA;Military;NA
-SHEGYW190519940;TAYEE, Merna;EGY;W;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHPOLW011219910;WRONSKA, Paula;POL;W;Lider Amicus Lebork;1991;2006;Lebork;2006;Lebork;Robert Biczkowski;Wroclaw, POL;Andrej Kijowski;164;right;59;right;single;AR40;NA;NA;NA;NA
-SHSWEW160719900;BLOM, Karin;SWE;W;Jönköping SG;1990;2003;Boden, Sweden;2000;Haparanda;Magnus Gustavsson;Jönköping;Mats Eriksson;170;right;70;right;NA;NA;NA;yes;Building Engineer;NA
-SHVIEW080619940;NGUYEN, Thi Ngan;VIE;W;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHTKMW100819830;ARABOVA, Yekaterina;TKM;W;NA;1983;1997;Ashgabat, TKM;1997;Ashghbat, TKM;Arabov Valleriy;NA;Arabov Valleriy;170;right;54;right;divorced;AR40,STR3X20,STR60PR;NA;Institute Sport and Tourism;NA;NA
-SHARMW160419950;MIKAYELYAN, Mariam;ARM;W;NA;1995;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHLTUW311219930;JANCEVIC, Jolanta;LTU;W;NA;1993;2005;Vilnius, LTU;2000;Vilnius, LTU;Miroslav Lescevski;Vilnius, LTU;NA;171;right;55;right;single;NA;NA;NA;Student;NA
-SHTUNW200119800;RIAHI, Meriam;TUN;W;NA;1980;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHSVKW021019910;HYBLEROVA, Jana;SVK;W;Police Sports Centre;1991;2005;Poprad;2003;Poprad;F. Fecko;Poprad;Jozef Gönci;173;right;60;right;single;AR40;NA;BC.;Student;NA
-SHFRAW120219940;HUARD, Samira;FRA;W;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHMKDW230319960;IVANOVSKA, Ana;MKD;W;Sport Shooting Club REK Bitola;1996;2014;Bitola;2009;Bitola;Ivancho Ivanovski;Macedonia;Stevan Krsteski;173;right;62;right;single;NA;NA;Architecture;Student;NA
-SHNEDW260419860;BURINK, Jessica;NED;W;NA;1986;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR40;NA;NA;NA;NA
-SHUAEW120719780;AL MARZOUQI, Shamsa;UAE;W;NA;1978;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHGBRW020319960;SYKES, Larissa Nadya;GBR;W;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHCHNW030219890;ZHANG, Binbin;CHN;W;NA;1989;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHESPW180619860;VEGA, Nuria;ESP;W;Club de Tir Olimpico Mallorca;1986;2000;Palma de Mallorca, ESP;1998;Marratxi, Mallorca, ESP;Jose Fernandez;Marratxi, Mallorca, ESP;Piotr Kosmatko;158;right;54;right;single;AR40,STR3X20,STR60PR;NA;University;Sport Psychologist;NA
-SHROUW310319920;TUDOSE, Roxana;ROU;W;NA;1992;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHBANW051219930;SULTANA, Sadiya;BAN;W;NA;1993;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHDENW160119850;ANDERSEN, Stine;NED;W;ARK;1985;2007;Nykebing Sjalland, DEN;1995;Bemmel;Mikkel Korneliusen;the Netherlands;Enrico Friedemann;168;right;NA;right;NA;AR40;NA;Marketing Management AP Degree;Freelancer;NA
-SHBIHW150619900;KITIC, Darija;BIH;W;Geofon;1990;1999;Teslic;1999;Teslic;Neven Rasic;NA;Amir Dautovic;170;right;60;NA;single;NA;NA;economics;Student;NA
-SHUAEW170419960;TAHLAK, Yasmin;UAE;W;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHPHIW100619970;ACUNA, Amparo Teresa;PHI;W;PNSA, PB Dionisio Gun Club;1997;2012;Mandaluyong City, Manila, PHI;2012;Manila, PHI;Julius Valdez, Andres Auina;Pasig City;Julius Valdez;158;right;64;right;single;NA;NA;High School;Student;NA
-SHCANW161019930;DERY, Audrey-Anne;CAN;W;NA;1993;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHCHNW060519890;YI, Siling;CHN;W;NA;1989;2009;Hunan, CHN;2003;Hunan, CHN;Long Shou Bo;Guang Dong, CHN;Zhang Qiu Yuan;165;left;51;right;single;NA;NA;Secondary School;Athlete;NA
-SHUSAW210519910;BEARD, Sarah;USA;W;NA;1991;2006;Indianapolis, IN;2006;Danville, IN;Bill Beard;Danville, IN;Dave Johnson;172;right;60;left;single;NA;NA;Bachelor of Arts;Athlete;NA
-SHSWEW160319890;HAGGLUND, Maria;SWE;W;Ramseletors Skf;1989;1996;Umea, Sweden;1996;Vindeln, Sweden;Bertove Hägglund;Vindeln;Mats Eriksson;165;right;NA;right;NA;AR40;NA;NA;Nurse;NA
-SHIRIW050719840;EMAMGHOLI, Narjes;IRI;W;NA;1984;2010;Amol, Iran;2008;Tehran, Iran;Laszlo Szucsak;Iran;Laszlo Szucsak;160;right;59;right;single;NA;NA;Bachelor Degree;Student;NA
-SHOMAW170419850;AL DHAHOURI, Amina;OMA;W;Oman Shooting Team;1985;2013;Oman, Khasab;2007;Muscat;Coach Mohdalhinai;Oman;Mohammed Hamed;164;right;55;right;single;NA;NA;Secondary;Air Force Oman;NA
-SHTURW060419890;YILDIZ, Zeynep;TUR;W;TSK Sport gucu;1989;2007;Eskisehir, TUR;2007;Tunali, TUR;Salih Yildiz;Ankara, TUR;Boris Soze;163;right;56;left;married;NA;NA;University, Military Academy;Army Officer;NA
-SHAUSW151119980;ADAMS, Emma;AUS;W;Reynella Smallbore & Air Rifle;1998;2011;NA;2011;Adelaide SA;Petra Kurka, Carrie Quigley;Old Reynella;Carrie Quigley;NA;right;60;right;single;NA;NA;NA;Student;NA
-SHDENW141119890;BUCH, Laura;DEN;W;NA;1989;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR40;NA;NA;NA;NA
-SHBLRW051119900;SHCHERBATSEVICH, Sviatlana;BLR;W;Army;1990;2003;Rechitsa, BLR;2002;Brest, BLR;Faminykh Andrey;Brest, BLR;Igor Basinsky;168;right;55;right;married;AR40;1;NA;Student;NA
-SHJPNW161219840;KONOMOTO, Maki;JPN;W;Hitachi Systems;1984;2005;Saitama, JPN;1999;Saitama, JPN;Minamoto Yoko;Saitama, JPN;Tomas Farnik;161;right;52;left;married;AR40,STR3X20;NA;University;Office worker;NA
-SHLTUW071019930;CESYNAITE, Jurate;LTU;W;Alytus ASRC;1993;2012;Alytus, LTU;2009;Alytus, LTU;Ceslovas Pavilonis;Saltinui 10-16;Ceslovas Pavilonis;169;right;56;right;single;NA;NA;NA;Student;NA
-SHSINW271019990;VELOSO, Martina Lindsay;SIN;W;NA;1999;2012;Singapore;2012;Singapore;Lim Chea Rong;NA;Lim Chea Rong;159;right;55;right;single;NA;NA;NA;Student;NA
-SHSWEW010819920;JOHANSSON, Lotten;SWE;W;Heby SKF;1992;2010;Vittinge;2003;Strömsund;NA;NA;Mats Eriksson;173;left;NA;left;NA;NA;NA;NA;NA;NA
-SHKUWW060319870;ARZOUQI, Maryam;KUW;W;Kuwait Shooting Sport Club;1987;2004;Kuwait City;2004;Kuwait City;Anna Belakova;Al-Adan;Anton Belak;163;right;55;right;single;AR40;NA;College for Business;Police;NA
-SHBANW240319880;RATNA, Sharmin;BAN;W;NA;1988;NA;Magura;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHMASW240919820;MOHD TAIBI, Nur Suryani;MAS;W;National Shooting Association of Malaysia;1982;1999;Perak, MAS;1997;Perak, MAS;Natalia Zukrokova;Kuala Lumpur, MAS;Saidov Isroil;168;right;83;right;married;AR40,STR3X20,STR60PR;1;Diploma (Sports science);Athlete, Officer;NA
-SHNORW101119930;WESTERHEIM, Malin;NOR;W;Krapfoss;1993;2004;Fredrikstad;2003;Moss;NA;Fredrikstad;Anne Grethe Jeppesen;180;right;NA;right;single;NA;NA;Bachelor in child welfare;NA;NA
-SHKAZW010919700;DOVGUN, Olga;KAZ;W;Dinamo;1970;1987;Shimkent, KAZ;1984;Astana, KAZ;Melstov Yuriy;KAZ;Galina Korchma;165;right;55;right;married;AR40,STR3X20,STR60PR;2;NA;Athlete;NA
-SHHUNW190619920;BIATOVSZKI, Mira;HUN;W;UTE;1992;NA;NA;NA;NA;Oroszi Edit;NA;Oroszi Edit;160;right;NA;right;NA;AR40;NA;High School;Student;NA
-SHEGYW100519930;AMER, Nourhan;EGY;W;NA;1993;2009;Mnofiya;2008;Cairo;Mohamed Amer;NA;Mohamed Amer;167;right;58;right;single;NA;NA;University;NA;NA
-SHMASW180319900;ABDUL HALIM, Nur Ayuni Farhana;MAS;W;National Shooting Association of Malaysia;1990;2007;Pahang, MAS;2006;MAS;Natalya Zhukova;MAS;Natalya Zhukova;167;right;63;right;married;AR40;NA;Senior Cambridge;Student;NA
-SHQATW290619880;ALMOHAMMED, Shaikha;QAT;W;Qatar Shooting Association;1988;2003;QAT;NA;Doha, QAT;Nicole Letchev;QAT;Nicole Letchev;155;right;65;right;single;AR40,STR3X20;NA;High school;NA;NA
-SHCHNW161219840;WU, Liuxi;CHN;W;NA;1984;1999;Shan Xi, CHN;1998;Shan Xi, CHN;NA;NA;Shao Ran Hua;164;right;57;right;single;AR40,STR3X20;NA;Technical Secondary school;Student;NA
-SHSUIW110819850;BEYELER, Irene;SUI;W;Sportschützen Taters, Kleinkalibersch. Alterswil;1985;2000;Schwarzenburg, SUI;1999;Schwarzenburg, sUI;Simon Beyeler;NA;Roger Chassat;164;right;53;right;single;AR40,STR3X20,STR60PR;NA;NA;Banker;NA
-SHESPW240719910;ALVAREZ, Ana;ESP;W;Federation Cantabra;1991;NA;Santander, Cantabria;NA;Santander;Manuel Sainz Diego;NA;Piotr Kosmatko;160;right;56;NA;NA;NA;NA;University;Student;NA
-SHQATW281119970;AL SUWAIDI, Aisha;QAT;W;NA;1997;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHEGYW210719900;HUSSEIN, Mennat Allah;EGY;W;NA;1990;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHUSAW160819930;MADDALENA, Sagen;USA;W;NA;1993;2013;Woodlang, CA;2006;Groveland, CA;Dan Jorden;NA;Tom;162;right;50;right;single;NA;NA;College;College Student;NA
-SHUKRW171019630;LESKIV, Lessia;UKR;W;Military Sports Club;1963;1975;Ivano-Frankirsk, UKR;1975;Lvov, UKR;Vysochin;NA;A. Kuksa;173;right;58;right;married;AR40,STR3X20,STR60PR;1;NA;Military Officer;NA
-SHSINW240919900;SER, Xiang Wei Jasmine;SIN;W;NA;1990;2004;SIN;2003;SIN;NA;SIN;Kirill Ivanov;155;right;48;right;single;NA;NA;University of Singapore;Student;NA
-SHFINW240919840;PITKANEN, Hanna;FIN;W;NA;1984;1995;Turku, FIN;1995;Turku, FIN;Juha Hirvi, Jukka Salonen;Kankaanpaa, FIN;Juha Hirvi;168;right;NA;right;single;AR40,STR3X20,STR60PR;NA;NA;Shooter;NA
-SHISRW280419950;MEDVINER, Polina;ISR;W;NA;1995;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR40;NA;NA;NA;NA
-SHBIHW250219970;DJEKANOVIC, Tatjana;BIH;W;Geofon;1997;2011;Banjaluka;2009;Teslic;Neven Rasic;Teslic;Neven Rasic;167;right;52;right;single;NA;NA;NA;Student;NA
-SHFINW071019820;ETULA, Hanna;FIN;W;Lahti Shooting Club;1981;1992;Pirkkala FIN;1992;Hollola, FIN;Juha Hirvi, Villa Häyrinen;Hollola, FIN;Juha Hirvi;173;right;60;right;single;AR40,STR3X20,STR60PR;1;NA;Physiotherapist;NA
-SHBOLW030119840;GARCIA KRADOLFER, Carina Ana;BOL;W;Associacion Pacena Tiro Deportivo;1984;2001;Lima, PER;2001;La Paz, BOL;NA;Switzerland;NA;160;right;55;right;NA;AR40,STR3X20;NA;University (Master);Student;NA
-SHOMAW300319850;AL JAHAFI, Khadija;OMA;W;Oman Shooting Team;1985;2013;Snaw, Oman;2009;Muscat;Mohammed Hamed;Oman;Mohammed Hamed;164;right;65;right;single;NA;NA;Secondary;Air Force Oman;NA
-SHFRAW100619960;WINTENBERGER, Emilie;FRA;W;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHPORW230519750;ANTUNES, Sara;POR;W;Ginasio Clube Portugues;1975;1992;Cascais, POR;1992;Lisbon, POR;Leif Steinar Rolland;Entroncamento, Portugal;NA;162;right;52;right;married;AR40,STR3X20,STR60PR;NA;Veterinary Medicine;Veterinary Surgeon;NA
-SHNORW101219940;BUSK, Sina Oleane;NOR;W;Ostre Romerike MSL;1994;2004;Oslo;2003;Raanaasfoss;NA;NA;Anne Grethe Jeppesen;162;left;NA;right;single;NA;NA;NA;NA;NA
-SHPOLW031019810;BOGACKA, Sylwia;POL;W;ZKS Gwardia Ziewna Gora;1981;1994;Jelenia Gora, POL;1994;Jelenia Gora, POL;Ryszard Taysner;Zielona Gora, POL;Andrzey Kijowski;162;right;59;right;single;AR40,STR3X20,STR60PR;NA;NA;Soldier;NA
-SHTJKW070219990;SHOMAKHMADOVA, Anisa;TJK;W;NA;1999;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHOMAW260819890;AL HASANI, Siham;OMA;W;NA;1989;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHVIEW011019910;VU, Thi Huong;VIE;W;NA;1991;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHKAZW210819900;MALINOVSKAYA, Alexandra;KAZ;W;Dinamo;1990;2006;Almaty, KAZ;2004;Almaty, KAZ;Konstantin Malinovskiy;Almaty, KAZ;Yunusmetov Anvar;176;right;65;right;single;AR40,STR3X20,STR60PR;NA;NA;Athlete;NA
-SHUSAW120219910;SCHERER, Sarah;USA;W;NA;1991;2001;NA;2000;NA;NA;Colorado Springs, CO;Dave Johnson;NA;right;NA;right;NA;NA;NA;NA;Health Coach;NA
-SHRUSW190319920;KHOROSHEVA, Polina;RUS;W;CSKA;1992;2008;Kalininetz, RUS;2007;Kalininetz, RUS;Olga Lykina;NA;Andrey Ananiev;162;right;58;right;NA;NA;NA;NA;Shooter;NA
-SHRUSW270819820;YUSHKOVA, Tatiyana;RUS;W;Central Army Sport Club;1982;1997;Novokuznetsk, RUS;1998;Moscow, RUS;Raenko Igor;RUS;Ananev Andrey;172;right;59;right;married;AR40,STR3X20,STR60PR;NA;High school;Coach;NA
-SHUKRW240519920;GOLUBCHENKO, Olga;UKR;W;Dinamo;1992;2006;Ukraine, Dnepropetzousk;2001;NA;Liushic;Ukraine;Ukr Shezba;170;right;58;NA;NA;NA;NA;NA;police;NA
-SHFRAW120719760;BRIZE, Laurence;FRA;W;Tir Sportif Beaulieu Emblavez;1976;1986;Le Puy en Velay, FRA;1986;Saint-Vincent, FRA;Chassat Roger, Bulhmann Gaby;Saint-Vincent, FRA;Eric Viller;158;right;52;right;single;AR40,STR3X20,STR60PR;NA;NA;Coach;NA
-SHMEXW120319970;BORGO TORRES, Lia;MEX;W;NA;1997;2008;Queretaro, MEX;2007;Queretaro, MEX;Daniel Urquiza;Mexico;NA;165;right;NA;right;NA;NA;NA;Highschool;Student;NA
-SHTJKW270919960;LAPSHINA, Lyubov;TJK;W;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHESTW210119930;SOBOLEVA, Julia;EST;W;Narva LSK;1993;2008;Narva, EST;2005;Narva, EST;A. Makarov;Narva, EST;A. Makarov;165;right;67;right;single;AR40,STR3X20,STR60PR;NA;NA;Student;NA
-SHSLOW180819930;MUHIC, Ziva;SLO;W;Postojna;1993;NA;Postojna, SLO;NA;Postojna, SLO;Andreja Vlah;Postojna, SLO;Andreja Vlah;167;NA;NA;NA;NA;NA;NA;NA;Student;NA
-SHCZEW171119830;EMMONS, Katerina;CZE;W;SKP Rapid Plzen;1983;1998;Plzen, CZE;1997;Plzen, CZE;Milan Bakes;Plzen, CZE, Grand Rapids, MN, USA;Lubos Opelka;167;right;54;right;married;AR40,STR3X20,STR60PR;2;University;Athlete, physical therapist;NA
-SHPOLW200219810;NAGAY, Agnieszka;POL;W;KS Orzel Lodz;1981;1997;Lodz, POL;1997;Lodz, POL;Tomasz Lukaszewski;Lodz, POL;Andrzej Kijowski;169;right;59;right;married;AR40,STR3X20,STR60PR;NA;Master of Biochemistry, doctor of science of bioph;Soldier;NA
-SHESPW160519800;BARRUGUES ALVINA, Esther;AND;W;Club Andorra Tir Precisio;1980;NA;Barcelona;1995;Andorra La Vella;NA;Andorra;NA;166;left;60;left;single;AR40,STR3X20,STR60PR;NA;High School;Watchmaker;NA
-SHNORM120619910;HAGELUND, Endre;NOR;M;NA;1991;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHGERM050219880;JUNGHAENEL, Henri;GER;M;SV Rai-Breitenbach;1988;1998;Leipzig, GER;1998;Breuberg, GER;Bill Murray;Breuberg, GER , Darmstadt, GER;CD Roth;179;right;NA;right;single;FR60PR;NA;NA;Student;NA
-SHRUSM071019870;KAMENSKIY, Sergey;RUS;M;CSCA;1987;2001;Biysk, RUS;1999;Biysk, RUS;Kamensky Igor, Krainov Eugeniy;RUS;Krainov Eugeniy;177;right;65;right;married;AR60,FR3X40,FR60PR;NA;Voronezhstate Inistitute;Sportsmen;NA
-SHESPM150319890;LOPEZ, Javier;ESP;M;Murcia Club de Tiro;1989;2002;Murcia, ESP;2002;Madrid, ESP;Piotr Kosmatko;NA;Piotr Kosmatko;170;right;56;right;single;AR60;NA;Elementary;Student;NA
-SHFINM291219940;STENSTROM, Joni;FIN;M;Raseborgs Skyttar;1994;2002;Tammisaari;2000;Tammisaari;Pasi Wedman;Raasepori;Juha Hirvi, Pasi Wedman;192;right;96;right;single;NA;NA;High School;NA;NA
-SHITAM010119930;WEITHALER, Simon;ITA;M;Esercito;1993;2008;NA;2004;Merano;NA;Innsbruck, ;Gaby Bühlmann;184;right;NA;right;single;AR60;NA;High School;Student;NA
-SHSLOM071019880;BARIC, Matic;SLO;M;NA;1988;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHITAM141219940;BACCI, Lorenzo;ITA;M;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHAUTM210219940;RUMPLER, Gernot;AUT;M;priv kvk Schützenverein Mittersill;1994;2004;Mittersill;2001;Uttendorf;NA;NA;Bichler Hubert;188;right;83;right;single;NA;NA;NA;Weapon Engineer;NA
-SHNORM110519940;SORLI, Hakon;NOR;M;Kisen;1994;2004;Kangsuinger;2004;Kristicnsand;NA;Skedsmo, Nor;Anne Grethe Jeppsen;180;right;NA;right;single;NA;NA;NA;Security Officer;NA
-SHMNEM200319960;TOMOVIC, Vojin;MNE;M;Centar;1996;2010;Montenegro, MNE;2010;Podgorica, MNE;Zeljko Tomovic;Podgorica, MNE;Stanko Laban;185;right;76;right;single;NA;NA;NA;Student;NA
-SHCROM310119960;PETRICEVIC, Ivan;CRO;M;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHRUSM181119900;DRYAGIN, Alexander;RUS;M;Dinamo;1990;2002;Kushva, RUS;2002;Domodedovo, RUS;Aleynikov;NA;Eugeniy Krainov;179;right;79;right;single;AR60,FR3X40;NA;NA;Shooter;NA
-SHESPM100919830;MARTIN, Roberto;ESP;M;Club Zamorano de Tiro Olimpico;1983;2001;Salamanca, ESP;1997;Valladolid, ESP;Piotr Kosmatko;Valladolid, ESP;Piotr Kosmatko;183;right;84;right;single;AR60,FR3X40,FR60PR;NA;Secondary;Police Officer;NA
-SHSLOM160519840;JODL, Benjamin;SLO;M;SD I. POH. BAT. Ruse;1984;2000;Maribor;1999;Cinzat;NA;NA;NA;186;right;89;right;single;NA;NA;NA;NA;NA
-SHRUSM190319830;SOKOLOV, Denis;RUS;M;CSKA;1983;1999;Irkutsk, RUS;1998;Dmitrov, Moskow region;V.V. Sokolov;Irkutsk, RUS;Kraynov E.;168;right;60;right;single;AR60,FR3X40,FR60PR;2;Hotel Business, Coach;Sportsmen;NA
-SHMTGM200419650;TOMOVIC, Zeljko;MNE;M;Centar;1965;1982;Serbia;1982;Prijepolje;Stanko Laban;Podgorica;Stanko Laban;178;right;78;right;married;AR60;2;NA;Trainer ;NA
-SHCROM130819980;PETANJEK, Borna;CRO;M;Duga Resa;1998;2010;Karlovac, CRO;2009;Duga Resa;NA;Duga Resa;NA;187;right;95;right;single;NA;NA;NA;Student;NA
-SHKAZM201219910;MINDIYAROV, Ratmir;KAZ;M;Dinamo;1991;2009;KAZ;2006;Almaty, KAZ;Skiba Veronika, Andreev Vasiliy;KAZ;Nassonov Gennadiy;182;right;84;right;single;NA;NA;NA;Athlete;NA
-SHFINM020919940;LEPPA, Aleksi;FIN;M;Hamina Shooting Club;1994;2003;Hamina Fin;2001;Helsinki, Fin;Marko Leppa;Hamina Fin;Juha Hirvi;169;right;65;right;single;NA;NA;Highschool;Student;NA
-SHCYPW260219640;THEOFANOUS, Fani;CYP;W;NA;1964;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR40;NA;NA;NA;NA
-SHRUSW250319830;NIZKOSHAPSKAIA, Alena;RUS;W;Army Sports Club;1983;2000;Pokrovka, RUS;1996;Khabarovsk, RUS;Goldobina T.V.;RUS;Anayev A.E.;160;right;54;right;single;AR40,STR3X20,STR60PR;1;High school;Sportsman National Team;NA
-SHCYPW250319840;CONSTANTINOU, Marilena;CYP;W;NA;1984;1999;Nicosia, CYP;NA;Nicosia, CYP;NA;Nicosia, CYP;NA;165;right;58;NA;single;AR40;NA;High School;NA;NA
-SHDENW301119900;MAENG, Rikke;DEN;W;Trehgje;1990;2013;Herning;2001;Sunos;NA;Sunos, DEN;Enrco Friedemann;166;right;NA;right;single;NA;NA;NA;NA;NA
-SHBULW210519840;IVANCHEVA, Viktoria;BUL;W;SKSS Etar-100;1984;1997;Vratza, BUL;1997;Vratza, BUL;Yordanka Subrova;Sofia, BUL;Nikola Lechev;160;right;47;right;single;AR40,STR3X20,STR60PR;NA;University NSA;Student;NA
-SHAUTW080819920;HOFMANN, Olivia;AUT;W;SG-Hoetting;1992;2009;Innsbruck, AUT;2005;Innsbruck, AUT;NA;Innsbruck, AUT;Hubert Bichler;163;left;57;right;single;NA;NA;A-Levels;Student;NA
-SHSUIW300619810;MARGUET, Annik;SUI;W;Fribourg;1981;1996;Fribourg;1995;NA;NA;Misery;Roger Chassat;163;right;60;right;single;AR40,STR3X20,STR60PR;1;apprentice;Lab technician;NA
-SHITAW140319850;SENA, Sabrina;ITA;W;Candela (FG);1985;1997;Foggia, ITA;1997;Candela, ITA;NA;Rome, ITA;Gaby Buhlmann;157;right;58;right;single;AR40,STR3X20,STR60PR;NA;High School;Shooter and Coach;NA
-SHGERW140819910;STRAUB, Isabella;GER;W;MSG Munich;1991;2003;Ebersberg;2001;Kirchseeon;Mario Gonsierowski;Kirchseeon;Roth;160;right;NA;right;single;NA;NA;NA;NA;NA
-SHSINW171219920;CHENG, Jian Huan;SIN;W;NA;1992;2006;SIN;2005;SIN;Kirill Ivanov;SIN;Gu Jong Qin;160;right;47;right;single;AR40;NA;Bachelors Degree;Student;NA
-SHMNEW260219980;MILICKOVIC, Andjela;MNE;W;Centar;1998;2011;Podgorica, MNE;2011;Podgorica, MNE;Stanko Laban;Podgorica, MNE;Stanko Laban;155;right;54;right;single;NA;NA;NA;Student;NA
-SHDENW290919870;HENRIKSEN, Gitte;DEN;W;Aarhus Riffelskytteklub, Denmark;1987;2003;Vifborg, Denmark;1998;Vifborg, Denmark;Mikkel Korneliussen;Copenhagen, Denmark;Enrico Friedemann;173;right;69;right;single;NA;NA;Land. Scient. Human Nutrition;Student;NA
-SHSRBW010619910;BOGATINOVSKI, Tasana;SRB;W;SD Pahcevo 1813;1991;2004;Pahcevo;2004;Pahcevo;NA;NA;Srecko Pejovic;164;right;54;right;NA;NA;NA;IT Academy for Web Design;Graphic Designer/Web Programmer;NA
-SHBULW200719690;LUKANOVA, Petya;BUL;W;AP Sport;1969;1986;Pazardjik;1982;Veliko Tarnovo;Aleksandar Lukanov;NA;Nikola Lechev;164;right;62;right;married;AR40,STR3X20,STR60PR;3;NA;Shooting Instructor;NA
-SHITAW170119920;MESSAGGIERO, Jennifer;ITA;W;Marina Militare;1992;2006;Foligno;2006;S. Agata Di Puglia;Franz Zublasing;S. Agata Di Puglia;Alfonso Ricci / Gaby;161;right;52;right;single;NA;NA;Professional mechanic;Student;NA
-SHPOLW110319930;IWASZUK, Zaneta;POL;W;UKS Kaliber Bialystok;1993;2007;Bialystok, POL;2006;Suprasl;Wlodzimierz Aleksiejuk;Poland;Andrzej Kijowski;170;right;54;left;single;NA;NA;NA;Student;NA
-SHBELW111119950;SEMAIRE, Axelle;BEL;W;NA;1995;2010;NA;2008;NA;NA;NA;NA;163;left;NA;left;single;NA;NA;NA;Student;NA
-SHMASW310719850;RAHIM RAJA, Shahera;MAS;W;National Shooting Association of Malaysia;1985;2004;Kuala Lumpur, MAS;2002;Penang, MAS;Natalia Zhukava, Saidov Isroil;Kuala Lumpur, MAS;Natalia Zhukova and Zaidov Israil;156;right;50;right;married;AR40;1;Degree in Business of Management;Athlete, Student, Naval officer;NA
-SHCZEW250219930;VOGNAROVA, Gabriela;CZE;W;NA;1993;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR40;NA;NA;NA;NA
-SHCYPW130119980;PANTELI, Artemis;CYP;W;NA;1998;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHHUNW221119830;MISKOLCZI, Julianna;HUN;W;Komarom Varosi SE;1983;1997;Vac, HUN;1996;Budapest, HUN;Horvath Zsolt ;HUN;Oroszi Edit;156;right;48;right;married;AR40,STR3X20,STR60PR;1;College Degree;Coach;NA
-SHFINW230119950;TATTARI, Saana;FIN;W;NA;1995;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHFRAW090819920;OLRY, Jennifer;FRA;W;St Gunsbach;1992;2009;NA;2001;NA;NA;Strasbourg;Maxime Lassalle;160;NA;55;NA;single;NA;NA;BTS;Student;NA
-SHTPEM180119930;CHEN, Chun An;TPE;M;NA;1993;2008;Tao Yuan,TPE;2007;Tao Yuan,TPE;NA;TPE;NA;172;right;62;right;single;NA;NA;University;Student;NA
-SHFRAM100619940;BAUDOUIN, Brian;FRA;M;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHNORM310719910;FLATLA, Oyvind;NOR;M;Kisen MSL;1991;NA;Gjovik;2000;Jessheim;NA;Jessheim;Anne Grete Jeppesen;183;right;NA;right;single;NA;NA;Bachelor of science Economics;SAP Consultant;NA
-SHJPNM210219770;YAMASHITA, Toshikazu;JPN;M;NA;1977;1992;Tokushima, JPN;1992;Tokyo, JPN;Ryohei Koba;Saitama, JPN;Thomas Farnik;170;right;72;right;married;AR60,FR3X40,FR60PR;1;University College;Military;NA
-SHKORM070919810;HAN, Jinseop;KOR;M;Chungnam Sports Council;1981;1996;Seoul, KOR;1995;Chungnam, KOR;Nam In Yeon;Seoul, KOR;Yoon Duk Ha;173;right;70;right;single;AR60,FR3X40,FR60PR;NA;NA;Athlete;NA
-SHMGLM100119910;ENKHTUVSHIN, Sainkhuu;MGL;M;NA;1991;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;FR3X40;NA;NA;NA;NA
-SHUZBM160519840;SAVINICH, Pavel;UZB;M;NA;1984;1997;NA;NA;Tashkent, UZB;A.A. Seffarov;NA;A.A. Seffarov;182;right;70;right;single;FR3X40,FR60PR;NA;NA;Athlete;NA
-SHJPNM220319850;SHINOHARA, Akihiro;JPN;M;NA;1985;2000;Tokushima, JPN;2000;Tokushima, JPN;NA;Wakayama;Thomas Farnik;167;right;55;left;single;AR60;NA;University;NA;NA
-SHFRAM190819940;RAYNAUD, Alexis;FRA;M;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHTPEM120519930;CHUNG, Yang Yeh;TPE;M;NA;1993;NA;NA;NA;NA;NA;NA;NA;183;right;NA;right;single;NA;NA;NA;NA;NA
-SHUZBM040819960;SKOROVAROV, Vadim;UZB;M;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHQATM200519940;ALSUNAIDI, Mohammed Zain;QAT;M;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHTPEM240319970;LU, Shao-Chuan;TPE;M;NA;1997;2008;Taiwan;NA;NA;NA;NA;NA;163;right;50;right;single;NA;NA;NA;Student;NA
-SHRUSM110819820;KUZNETSOV, Stanislav;RUS;M;Dinamo;1982;1995;NA;1993;NA;Alecsandr Pozdeev;NA;A.A. Savrov;195;right;80;right;single;AR60,FR3X40,FR60PR;NA;NA;Policeman;NA
-SHKORM290519870;KIM, Sang Do;KOR;M;NA;1987;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHKORM070219770;LEE, Hyun Tae;KOR;M;KT;1977;1992;Seoul, KOR;1991;Namhae, KOR;Cha Young Chul;Gyeonggido, KOR;Yoon Duk Ha;175;right;80;right;married;AR60,FR3X40,FR60PR;1;University;Athlete;NA
-SHKORW220719880;ROH, Bo Mi;KOR;W;NA;1988;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHUZBW131219850;MAMEDOVA, Sakina;UZB;W;NA;1985;1998;NA;1998;NA;NA;Tushkent, UZB;NA;154;left;NA;right;NA;AR40;NA;NA;NA;NA
-SHTPEW160219820;WU, Meng Jung;TPE;W;NA;1982;NA;Taiwan;NA;NA;NA;NA;NA;166;right;53;right;married;AR40;1;NA;NA;NA
-SHUZBW070919920;FILIMONOVA, Mariya;UZB;W;Vatanparuar;1992;2006;UZB;2006;Taskent, UZB;A. Settarova ;Taskent, UZB;A. Settarova;162;right;51;left;single;AR40,STR3X20;NA;Univ. of Physical Culture;Student;NA
-SHJPNW211119900;MATSUMOTO, Yasuyo;JPN;W;NA;1990;2006;Kumamoto, JPN;2006;Miyazaki, JPN;NA;Miyazaki, JPN;Tomas Farnik;152;right;NA;right;single;NA;NA;University;Office Worker;NA
-SHCHNW100519910;DU, Bei;CHN;W;NA;1991;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHPHIW101019900;FAUSTMANN, Andrea Michelle;PHI;W;NA;1990;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHJPNW180119930;YUASA, Natsuki;JPN;W;NA;1993;2009;Tokushima, JPN;2009;Saitama, JPN;Sahashi Tomoki;Saitama, JPN;Thomas Farnik;150;right;50;right;single;AR40;NA;University;Student;NA
-SHTPEW240819860;CHEN, Szu-Wei;TPE;W;NA;1986;NA;Taiwan;NA;NA;Lee Ji Sheng;Taiwan;Lee Ji Sheng;157;right;49;right;NA;AR40;NA;Master;Teacher;NA
-SHITAW251119860;NOTARANGELO, Antonella;ITA;W;Marina Militare;1986;2005;Foggia;1900;NA;Gaby Buehlmann;Bologna, ITA;Gaby Buehlmann;163;right;60;right;single;AR40,STR3X20,STR60PR;NA;High school;Athlete;NA
-SHMGLW020819970;ZORIGOO, Namduun;MGL;W;NA;1997;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHKORW060119870;KWON, Nara;KOR;W;Incheon Nam Gu Office;1987;1999;Incheon, KOR;1999;Incheon, KOR;YANG, Kwang Suk;Incheon, KOR;CHA, Young Chul;167;right;54;right;NA;NA;NA;NA;Athlete;NA
-SHJPNW230319930;AYADO, Mami;JPN;W;NA;1993;2007;Shiga;2009;Shiga;NA;Kyoto;Thomas Farnik;166;right;50;right;single;NA;NA;Doshisha University;Office Worker;NA
-SHMGLW220419810;DAMDINSUREN, Lkhamsuren;MGL;W;NA;1981;1998;Ulaanbaatar;1995;Ulaanbaatar, MGL;Adilbish;Mongolia;Undralbat;165;right;58;right;single;AR40,STR3X20,STR60PR;1;Bachelor;tourism management;NA
-SHKORW120819850;KIM, Soo Kyung;KOR;W;NA;1985;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR40;NA;NA;NA;NA
-SHQATW210619920;AL HAMAD, Bahya Mansour;QAT;W;NA;1992;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR40,STR3X20;NA;NA;NA;NA
-SHINDW100519740;SHIRUR, Suma;IND;W;Indian Railways;1974;1995;Chikbalapur, IND;1993;Panvel, New Bombay, IND;Gaby Buhlmann;Panvel, New Bombay, IND;Sunny Thomas;160;right;57;right;married;AR40,STR3X20;2;Bachelor of Science Chemistry;Government Service;NA
-SHFINW160619780;YLI-KIIKKA, Marjo;FIN;W;Isokyro Hunting and Shooting Association;1978;1990;Isokyro, FIN;1989;Seinajoki, FIN;Juha Hirvi;Seinäjoki, FIN;Juha Hirvi;162;right;NA;right;single;AR40,STR3X20,STR60PR;NA;Master of Agriculture and forestry;Senior inspector;NA
-SHTPEW290719920;LIU, Yu Chun;TPE;W;NA;1992;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR40;NA;University;NA;NA
-SHUZBW010819820;KUZNETSOVA, Elena;UZB;W;Central club of army;1982;1997;Belorussiya, Belarus;1997;Tashkent, UZB;N. Dolbilina;Tashkent, UZB;N. Dolbilina;178;right;62;right;married;AR40,STR3X20,STR60PR;1;NA;Military;NA
-SHPHIM021219900;TAN, Kenley Aldridge Cua;PHI;M;NA;1990;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHRUSM020419920;GRIGORYAN, Kirill;RUS;M;NA;1992;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHSINM150219940;LEONG, Jia Shuen Wesley;SIN;M;NA;1994;2011;Singapore;2007;NA;Elham Hashemi;Singapore;Elham Hashemi;174;right;NA;right;single;NA;NA;NA;NA;NA
-SHUSAM100619940;RICO, Tyler Cecilio;USA;M;NA;1994;2013;Tucson, Arizona;2011;Tucson, Arizona;Launi Meili;USA;NA;177;right;72;right;single;NA;NA;United States Air Force Academy;Military;NA
-SHNORM010919840;BREKNE, Odd Arne;NOR;M;NA;1984;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHKORM180419870;CHUNG, Jae Seung;KOR;M;NA;1987;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHTHAM290319950;TORTUNGPANICH, Napis;THA;M;NA;1995;2010;Chiangmai;2009;Chiangmai;NA;NA;Thai;170;right;56;right;single;NA;NA;NA;Student;NA
-SHSINM030119990;WONG, Ting Wei;SIN;M;Singapore Sports School;1999;2012;Singapore;2012;Singapore;Lim Chea Rong;Singapore;Lim Chea Rong;172;right;68;right;single;NA;NA;NA;Student / Athlete;NA
-SHSINM010519980;CHAN, Dian Ting Royce;SIN;M;NA;1998;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHTHAM250319960;PANYATONG, Pongsaton;THA;M;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHTPEM090619960;CHO, Erh-Chun;TPE;M;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHKSAM151119790;ALJUHAYDILI, Abdulrahman Saad;KSA;M;NA;1979;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHKORM150119800;CHOO, Byounggil;KOR;M;NA;1980;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHUSAM181119920;LOWE, Daniel;USA;M;Capital City Rifle and Pistol;1992;2004;Federal Way, WA;2003;Olympia, WA;John Crossman;Olympia, WA;Jason Parker;158;right;82;right;single;NA;NA;NA;Soldier;NA
-SHTURM130119810;ERDEM, Selcuk;TUR;M;NA;1981;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHINDM050119810;RAJPUT, Sanjeev;IND;M;NA;1981;2001;Jagadhri, IND;2001;Jagadhri, IND;NA;Jagadhri, IND;Randhir Singh;179;right;78;right;single;AR60,FR3X40,FR60PR;NA;High school;Athlete;NA
-SHGERM151219890;SCHALLENBERGER, Nicolas;GER;M;SV Petersaurach;1989;1999;Evlenbach a. M., GER;NA;Laudenbach, GER;Mario Gousierowski;Niederlauterbach, GER;Claus-Dieter Rotli;173;right;63;right;single;NA;NA;NA;Police Officer;NA
-SHSUIM250219930;GREUTER, Sandro;SUI;M;sportschützen Sargans;1993;2006;Walenstadt;NA;Eschlikon;NA;Heiligkreuz;Roger Chassat;177;right;65;right;NA;NA;NA;NA;mechanical designer;NA
-SHVIEM270619980;HO, Viet Thanh Sang;VIE;M;NA;1998;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHTJKM180919820;VALIEV, Todzhiddin;TJK;M;NA;1982;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHTHAM160819900;PONGLAOKHAM, Pavonnut;THA;M;NA;1990;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHPAKM061219930;FARID, Zeeshan Ul;PAK;M;NA;1993;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHIRIM220119920;NOROUZIYAN, Pourya;IRI;M;NA;1992;2010;Ilam, Iran;2008;Tehran;NA;Iran;Laszlo Szucsak;175;right;70;right;single;NA;NA;Pre-University;NA;NA
-SHOMAM030419870;AL HABSI, Abdullah Ali;OMA;M;Ghala;1987;2011;Al Mudhaby, OMA;1900;Al Mudhaby, OMA;Hilal Al Rasheedi;Oman;Hilal Al Rasheedi;162;left;65;left;married;NA;NA;High school;Navy;NA
-SHUSAW021019990;OSBORN, Sarah;USA;W;Patriot Shooting Club 4H;1999;2006;Virginia;2007;Hamton, VA;David Wotring;Hampton, VA;Dave Johnson;NA;right;57;right;single;NA;NA;NA;Student;NA
-SHKORW070819960;KIM, Seola;KOR;W;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHUSAW130519910;QUINER, Emily;USA;W;NA;1991;2014;Brooklyn Park, MN;2001;Brooklyn Park, MN;NA;Brooklyn Park, MN;Dave Johnson;NA;NA;NA;right;NA;NA;NA;NA;NA;NA
-SHGERW180519940;GSCHWANDTNER, Selina;GER;W;NA;1994;NA;Altötting, GER;2006;NA;Theo Gschwandtner;NA;Claus Dieter Roth;NA;right;NA;right;NA;NA;NA;NA;Student;NA
-SHKORW160419940;KIM, Yong Kyeong;KOR;W;Gwang ju sport high school;1994;1900;Gwang ju, Korea;2009;Gwang ju, Korea;yes;NA;NA;160;right;56;right;single;NA;NA;High school;Student;NA
-SHKORW290719870;LEE, Da Hye;KOR;W;NA;1987;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHINDW120519690;BHAGWAT, Anjali;IND;W;NA;1969;1995;Mumbai, IND;1990;Mumbai, IND;Stanislav Lapidus;Mumbai, IND;Sunny Thomas;163;right;51;right;married;AR40,STR3X20,STR60PR;1;Commerce Graduate;Government Service;NA
-SHGREW160419940;THEODOROU, Sofia;GRE;W;Arhelaos Katerinis;1994;2008;Thessaloniki;2006;katerini;Giorgos Grammenopoulos;Katerini;Eleni Foka;162;right;60;right;single;NA;NA;DU of Thrace, Department of LAW;Student;NA
-SHTHAW160119910;PONGSINVIJIT, Supaluk;THA;W;NA;1991;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHSINW251119970;NEO, Tessa;SIN;W;NA;1997;2012;Singapore;2011;NA;NA;NA;Hashemi Masoumi Elhan;160;right;46;right;single;NA;NA;NA;Student;NA
-SHCANW220719970;DEAN, Emily Kathrine;CAN;W;St. Croix Sportsman;1997;2012;Dubai, UAE;2011;St.Stephen;NA;New Brunswick, CAN;NA;NA;right;NA;right;single;NA;NA;NA;NA;NA
-SHDENW080619940;STEFFENSEN, Astrid;DEN;W;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHCHNW181219880;CHEN, Dongqi;CHN;W;NA;1988;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHTHAW110219900;MAJCHACHEEP, Sununta;THA;W;NA;1990;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR40,STR3X20,STR60PR;NA;NA;NA;NA
-SHTPEW040619940;KUO, Pao Ying;TPE;W;NA;1994;2009;Taiwan;2008;NA;NA;NA;NA;156;right;50;right;single;NA;NA;NA;NA;NA
-SHPOLW210719830;KOWALCZYK, Karolina;POL;W;Slask Wroclaw;1983;1997;Gorzow, POL;1997;Gorzow, POL;Andrzej Kijowski;Wroclaw, POL;Andrzej Kijowski;170;right;50;right;single;AR40,STR3X20,STR60PR;NA;NA;NA;NA
-SHSUIW070219940;CHRISTEN, Nina;SUI;W;NA;1994;NA;NA;NA;NA;NA;NA;Roger Chassat;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHRUSW120519760;FEKLISTOVA, Maria;RUS;W;Army Club;1976;1989;Izhevsk, RUS;1988;Izhevsk, RUS;Lukin Vladimir;Izhevsk, RUS;Ananiev Anoreq;158;right;53;right;married;AR40,STR3X20,STR60PR;1;University;Army;NA
-SHUZBW150119950;ORLOVA, Margarita;UZB;W;NA;1995;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHSCGW210819880;ZIVKOVIC, Jelena;SRB;W;Jagodina 92;1988;2004;Jagodina;1999;Jagodina;Miomir Spasojevic;Jagodina;Donevic Dragan;165;right;50;right;single;AR40,STR3X20,STR60PR;NA;Master;teacher in kindergarden;NA
-SHPAKW030119950;SOHAIL, Minhal;PAK;W;NA;1995;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHSWEW050419940;ARVIDSSON, Michaela;SWE;W;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHNZLW310119670;SHIELDS, Bronwyn Clara;NZL;W;NA;1967;2009;Wellington, New Zealand;2007;Wellington, New Zealand;NA;New Zealand;NA;NA;right;NA;right;NA;NA;NA;NA;Business Services Manager;NA
-SHCHNW030219890;ZHAO, Huixin;CHN;W;NA;1989;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR40;NA;NA;NA;NA
-SHSUIW110719860;SCHNIDER, Marina;SUI;W;Schuetzenverein Buchs-Raefis;1986;2007;Grabs;1999;Walenstadt-Berschis;NA;NA;Roget Chassat;155;right;52;right;single;NA;NA;NA;Painter;NA
-SHGERW220519860;RACHL, Silvia;GER;W;NA;1986;1999;Schrobenhausen;1999;Singenbach;Mario Gonsierowski;Bavaria;CD Roth;168;right;NA;right;single;AR40;NA;NA;Soldier;NA
-SHGERW200919920;MUELLER, Lisa;GER;W;NA;1992;NA;Weingarten, GER;2002;Weingarten, GER;Uli Mueller;NA;Claus Dieter Roth;165;right;NA;right;single;NA;NA;NA;Soldier;NA
-SHESPW271119930;GRANDE, Paula;ESP;W;Rey Pastor;1993;2007;Logrono, La Rioja, ESP;2004;Madrid, ESP;Piotr Kosmatko;Logrono, La Rioja, ESP;Piotr Kosmatko;155;right;53;right;single;AR40;NA;Primary FP ;Student;NA
-SHTHAW191119900;CHOTPHIBUNSIN, Thanyalak;THA;W;NA;1990;2007;Chiang Mai, THA;2005;Chiang Mai, THA;NA;NA;NA;161;right;45;right;single;NA;NA;NA;Student;NA
-SHGUAM240819730;SANDOVAL, Octavio;GUA;M;NA;1973;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR60,FR3X40,FR60PR;NA;NA;NA;NA
-SHGERM131219940;LINK, Andre;GER;M;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHCOLM050519880;LOPEZ GASCA, Ivan Camilo;COL;M;NA;1988;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHESAM120419860;ZELAYA, Oliser Antonio;ESA;M;NA;1986;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR60;NA;NA;NA;NA
-SHESAM190319920;GUTIERREZ, Israel;ESA;M;NA;1992;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHFRAM220919820;HENRY, Josselin;FRA;M;Bitche;1982;1997;Nancy, FRA;1993;Paris, FRA;Roger Chassat;Paris, France;Eric Viller;180;right;72;right;married;AR60,FR3X40,FR60PR;NA;NA;Customs;NA
-SHECUM081019860;SANTACRUZ, Cristian;ECU;M;NA;1986;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR60,FR3X40,FR60PR;NA;NA;NA;NA
-SHJPNM101019900;OKADA, Naoya;JPN;M;NA;1990;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHPERM151119940;VIZCARRA GALLEGOS, Daniel Eduardo;PER;M;Club Internacional Arequipa;1994;2009;Arequipa, PER;2007;Arequipa, PER;Emilio Pacheco Vilchez;Arequipa, PER;Rodrigo Aranguena;175;left;60;right;single;NA;NA;NA;Student;NA
-SHCHIM210119900;PARADA YANEZ, Anyelo Hans;CHI;M;Ejertico de Chile;1990;NA;NA;NA;NA;Pavel Sosa;NA;Pavel Sosa;171;NA;67;NA;NA;NA;NA;NA;Ejercito de Chile;NA
-SHMEXM270419940;MORALES ACEVEDO, Luis Emilio;MEX;M;Club Cinegetico Leones A.C.;1994;2008;Guanajuato, MEX;2008;Guanajuato, MEX;Marcos Palafox Alcocer;Guanajuato, MEX;NA;170;right;100;right;single;NA;NA;University;Student;NA
-SHTURM120919880;BAYRAK, Ahmet;TUR;M;TSK Sport gucu;1988;2007;Ankara, TUR;2007;Kayseri, TUR;NA;Ankara, TUR;NA;185;right;75;NA;single;NA;NA;University;Non commissioned Officer;NA
-SHARGM040519890;ZOCCALI ALBIZU, Marcelo;ARG;M;Gral Brigadier Martin Rodriguez;1989;2005;Tandil, ARG;2001;NA;NA;ARG;Martinez Ariel;172;right;67;right;married;AR60,FR3X40,FR60PR;NA;NA;Student;NA
-SHVENM141219830;GUTIERREZ, Martrin;VEN;M;Henmandad Gallega;1980;2000;Merida, VEN;1999;El Paraiso, Caracas;NA;Caracas, VEN;Miguel Oliva;167;right;64;right;married;AR60,FR3X40,FR60PR;1;University;Gnencia Deportiva;NA
-SHGUAM130219930;CHINCHILLA PEREZ, Allan Fernando;GUA;M;Victor Manuel Castellanos;1993;2009;Guatemala;2007;Chiquimula, GUA;Adelso Pena;Guatemala;Adelso Pena;175;right;64;right;single;NA;NA;High School;Student;NA
-SHARGM120119950;CABRERA, Valentin;ARG;M;NA;1995;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHCZEM110619920;HRCKULAK, David;CZE;M;ASO Pukla;1992;2005;Pilsen, CZE;2004;Pilsen, CZE;Petr Cernoch;NA;Lubos Opelka;176;right;65;right;single;NA;NA;NA;NA;NA
-SHRUSW010419940;SOKOLOVA, Lilia;RUS;W;DOSAAF;1994;2009;Russia;2009;Inkutsk;Sokolov V.V.;Russia;Konoleva N.N.;156;right;50;right;single;NA;NA;Coach;Sportsman;NA
-SHCANW040119950;MARSH, Samantha April;CAN;W;NA;1995;2008;NA;NA;NA;NA;Newfaundland;NA;173;right;NA;right;NA;NA;NA;Memorial University;NA;NA
-SHARGW200219770;FOURNEL, Amelia Rosa;ARG;W;Tiro Federal Santa Fe;1977;1997;Santa Fe, ARG;1992;Santo Tome, ARG;Fournel Claudio;Argentina;Julio Escalante;160;right;47;right;single;AR40,STR3X20;NA;NA;Secretary;NA
-SHCANW180319840;CABRERA, Diana;URU;W;The Grange - Toronto;1984;2005;Toronto, CAN;2000;Toronto, CAN;Ruben Cabrera;Toronto, CAN;NA;157;right;68;right;single;AR40,STR3X20;NA;College;Office Manager;NA
-SHESAW290819920;RAMIREZ HENRIQUEZ, Ana Elizabeth;ESA;W;NA;1992;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHARGW021019990;RUSSO, Fernanda;ARG;W;NA;1999;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHKORW191219930;LEE, Eunseo;KOR;W;NA;1993;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHMEXW220119970;RODRIGUEZ, Ema;MEX;W;NA;1997;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHPURW120319950;MERCADO MARTINEZ, Yarimar;PUR;W;NA;1995;2009;Puerto Rico;2008;Ponce;NA;Yauco;NA;150;right;40;right;single;NA;NA;College;Student;NA
-SHPERW230719930;VIZCARRA GALLEGOS, Sara Gabriela;PER;W;Club Internacional Arequipa;1993;2011;Arequipa, PER;2010;Arequipa, PER;Emilio Pacheco Vilchez;Arequipa, PER;Rodrigo Aranguena;168;left;58;left;single;NA;NA;NA;Student;NA
-SHFRAW200819980;GOMEZ, Judith;FRA;W;NA;1998;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHROUW300419930;ILIE, Laura Georgeta;ROU;W;NA;1993;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHALBW270219690;PEPA, Lumturi;ALB;W;Studenti;1969;1982;Sarande;1982;Tirane;Alush Alla;Tirana, Albania;Alush Alla;170;right;82;right;NA;AR40,STR3X20,STR60PR;2;Bachelor;Ticher;NA
-SHNZLW261019920;MACKENZIE, Jenna Kendall Louise;NZL;W;NA;1992;2007;Winton, NZL;2007;Queenstown, NZL;Jock Allen;NZL;Dave Sheely;178;right;69;right;single;NA;NA;NA;Student;NA
-SHKORW221219970;KIM, Gaenam;KOR;W;NA;1997;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHGUAW110519900;GUERRA ALVARADO, Maria De Lourdes;GUA;W;Federacion nacional de tiro Guatemale;1990;2004;GUA;2000;Retalhulen, GUA;Orlando Cano;GUA;Orlando Cano;160;right;53;right;single;AR40;NA;High school;Student;NA
-SHJPNW300119970;CHIBA, Sakumi;JPN;W;NA;1997;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHNZLW280319850;RHODES, Caroline;NZL;W;NA;1985;NA;Palmerston North;NA;Marton;NA;NA;NA;164;right;55;right;single;NA;NA;NA;Banker;NA
-SHPURW310719930;BOCK LAGUER, Amy;PUR;W;Lake Island;1993;2011;USA;2007;East Brunswick;Stan Bock;New Jersey;NA;157;right;44;right;single;NA;NA;College;Student;NA
-SHFINW120419930;SIHVONEN, Annika;FIN;W;SMAS;1993;2010;Savonlinna, FIN;2008;Helsinki, FIN;Marko Leppa;NA;Juha Hirvi;NA;right;NA;right;single;NA;NA;NA;NA;NA
-SHMEXW310519970;ZUMAYA FLORES, Goretti Alejandra;MEX;W;NA;1997;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHCANW170919660;BOWES, Sharon;CAN;W;NA;1966;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR40,STR3X20,STR60PR;NA;NA;NA;NA
-SHESAW211119870;PINEDA, Johanna;ESA;W;Ferotiro;1987;2002;ESA;2002;San Salvador, ESA;Reynaldo Flores;ESA;Reynaldo Flores;155;right;53;right;single;AR40,STR3X20;NA;University;Student;NA
-SHKORW280719950;YOO, Seo Young;KOR;W;NA;1995;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHUSAW061119980;MARSH, Elizabeth;USA;W;NA;1998;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHEGYW210419810;HASHAD, Shimaa;EGY;W;Army shooting Club;1981;2001;Cairo, EGY;1998;Cairo, EGY;Mohmed Farouk;Cairo, EGY;Mohmed Amer;166;right;57;right;single;AR40;NA;University;Engineer;NA
-SHGBRW150319960;MCINTOSH, Seonaid;GBR;W;Alloa + District;1996;2013;Edinburg;2012;Dollar;Sinclair Bruce;Edinburg;Donald Mcintosh;174;left;50;right;single;NA;NA;Masters in Mechanical Engineering;Student;NA
-SHJPNW181119900;SHIMIZU, Ayano;JPN;W;NA;1990;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHGUAW030419990;MATTA ALVARADO, Jazmine Rubi;GUA;W;National Federation of Sport Shooting of Guatemala;1999;2013;Guatemala;2013;Guatemala;Allan Matta;Guatemala;Adelso Pena;162;right;51;right;single;NA;NA;High School;Student;NA
-SHGUAW181019930;VELASQUEZ ALVARADO, Polymaria;GUA;W;Victor Manuel Castellanos;1993;2009;Guatemala;2007;Guatemala, GUA;Adelso Pena;Guatemala;Adelso Pena;153;right;55;right;single;NA;NA;High School;Student;NA
-SHOMAM270419760;AL BULUSHI, Jaml;OMA;M;IMU-MOD;1976;2002;Al Rostaq, OMA;2000;OMA;Hilal Al Rasheedi;Al Mosanaa, OMA;Hilal Al Rasheedi;175;right;70;right;married;AR60,FR3X40,FR60PR;1;Secondary school;Athlete;NA
-SHEGYM231019750;HOSEN, Amgad;EGY;M;NA;1975;2000;Labya;1998;Ben Gazy;NA;Cairo, EGY;Mohamed Amer;184;right;95;right;divorced;FR3X40,FR60PR;1;Military Academy;Army Officer;NA
-SHKORM310719870;KIM, Kiwon;KOR;M;H.S. City;1987;2000;Dae Gu, Korea;2000;Dae Gu, Korea;Park Sang Soon;Korea;Choi Byoung Woo;175;right;61;right;single;AR60;NA;University;Athlete;NA
-SHCUBM051219820;ESTPINAN, Reinier;CUB;M;Ciudad Habana;1982;1996;La Habana, CUB;1993;Vibora, CUB;Alejandro Guerra;NA;Alejandro Guerra;170;right;60;right;single;FR60PR;NA;High School;Student;NA
-SHBELM220519940;SCHEPENS, Nicolas;BEL;M;CCAT;1994;2011;Senaing;2005;Liege;Tzoumacas Constant;Flemalle;Tzoumacas Constant;185;left;74;left;NA;NA;NA;Electromecanic;Electrician;NA
-SHQATM260519960;ALMUBARAK, Mohammed Saad;QAT;M;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHEGYM070819900;HAMDY ABDELKADER, Mohamed;EGY;M;Army;1990;2005;Giza, EGY;2003;Giza, EGY;Mohamed Amer;Giza, Egypt;Mohamed Amer;172;right;68;right;single;AR60;NA;Bachelor of Accounting;NA;NA
-SHMASM150319970;MASHUDI, Muhammad Nabil;MAS;M;NA;1997;2013;NA;NA;NA;NA;NA;NA;168;NA;60;right;single;NA;NA;NA;Student;NA
-SHCUBM190919910;MOLERIO QUINTANA, Alexander;CUB;M;NA;1991;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHMASM270319970;M AZWI, Nur Muhammad Izham;MAS;M;NA;1997;NA;NA;2010;Terengganu, Malaysia;NA;NA;NA;168;left;63;NA;single;NA;NA;NA;Student;NA
-SHNEDM250819950;STAM, Bryan;NED;M;NA;1995;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHARMM260119960;BERYAN, Suren;ARM;M;Yerevan Shooting School;1996;2012;Yerevan;2010;Yerevan;Hamlet Nikoghosyan;Yerevan;Seyran Nikogosyan;179;right;76;right;single;NA;NA;NA;Student;NA
-SHKUWM011119770;ALDHAFIRI, Majed;KUW;M;NA;1977;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHCZEM290419850;HALODA, Vladimir;CZE;M;NA;1985;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHTJKM080819990;KUDDUSOV, Azamat;TJK;M;NA;1999;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHTKMM030719960;BERDIYEV, Berdimyrat;TKM;M;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHKSAM280619760;ALSAAD, Faisal Abdullah;KSA;M;NA;1976;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHGBRM120619910;RIVERS, Daniel;GBR;M;NA;1991;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHALGM130219930;BENZIDEN, Redha;ALG;M;Alger;1993;2009;Alger;2008;Alger;Boudeffa Atef;NA;ALG;180;NA;70;right;single;NA;NA;NA;Student;NA
-SHKUWM140719920;AL-MAJED, Khaled;KUW;M;NA;1992;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHHUNM090119870;VERES, Adam Laszlo;HUN;M;BHSE;1987;2005;Budapest, HUN;2003;Budapest, HUN;Eva Joo;Budapest;Csaba Györik;187;right;78;right;married;AR60,FR3X40,FR60PR;NA;University (MSc.);mechatronical engineer MSc;NA
-SHGERM290819830;MOHAUPT, Tino;GER;M;FV-SSZ Suhl Friedberg;1983;1999;Suhl;1998;Benshausen;CD Roth;Suhl, GER;Roth;171;right;64;right;single;AR60;NA;Bachelor Sports Management;Sports manager (Bachelor);NA
-SHRUSM170819940;MASLENNIKOV, Vladimir;RUS;M;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHKORM181019920;KIM, Hyeonjun;KOR;M;NA;1992;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHSVKM290719970;JANY, Patrik;SVK;M;NA;1997;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHPOLM310719950;WOJTASIAK, Maciej;POL;M;Legia Warszawa;1995;2009;Warsaw;2008;NA;Eulalia Rolinska;Warsaw;Tomasz Lukaszewski;174;right;65;right;single;NA;NA;Military University of Technology;NA;NA
-SHFRAW310319900;FAYOLLE, Marie;FRA;W;Tir Sportif Beaulieu Emblauez;1990;2007;Le Puy En Velay, FRA;1998;Beaulieu, FRA;Laurence Brize, Roger Chassat;NA;Eric Viller;170;right;NA;right;single;NA;NA;NA;Student;NA
-SHAUTW060519870;PEER, Franziska;AUT;W;Schuetzengilde Angerberg;1987;NA;Kufstein;NA;Woergl;Bichler Markus;NA;Rainer Hermann;NA;right;NA;right;NA;NA;NA;NA;NA;NA
-SHMKDW021119950;BALABAN, Nina;MKD;W;Strelec;1995;2012;Ohrid;2009;Ohrid;Jordan Tasevski;Macedonia;Stevan Krsteski;166;right;52;right;single;NA;NA;Law;Student;NA
-SHNEDW260319960;MULDER, Mandy;NED;W;SV op de Korrel Bemmel;1996;2011;the Netherlands, Zevenaaz;2011;Zevenaaz;Gerrit Uriens;Zevenaaz;Christian Holstad Lilleng;162;right;52;right;single;NA;NA;NA;NA;NA
-SHSLOW261119800;PUFIC, Klavdija;SLO;W;SK Profesional Kidricevo;1980;2007;Maribor, SLO;2007;Zgornja Polskana 2314, SLO;Gorazd Maloic;Ingoliceva 10, SLO;Lojze Mikolic;167;right;66;right;single;NA;NA;Master degree;Economic;NA
-SHUAEW070719880;MOHAMED, Nourah;UAE;W;NA;1988;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHCUBW280619880;PEREZ, Dianelys;CUB;W;NA;1988;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHMASW050119950;SAYED AHMAD, Syarifah Aesyah Kamilah;MAS;W;Terengganu Shooting Association;1995;2011;Perak Darul Ridjwan, Malaysia;2011;Terengganu, Malaysia;Mayihah Alias;NA;NA;162;right;64;right;single;NA;NA;NA;Student;NA
-SHSINW300119970;YANG, Shuet Hwei;SIN;W;Singapore Shooting Association;1997;2012;Singapore;2011;Singapore;Lim Chea Rong;Singapore;Lim Chea Rong;152;right;44;right;single;NA;NA;NA;NA;NA
-SHQATW040319840;AL-ASEIRI, Matara;QAT;W;Qatar Shooting Association;1984;2001;Doha, QAT;2002;Doha, QAT;Nicole Letchev;QAT;Nicole Letchev;162;right;88;NA;single;AR40,STR3X20,STR60PR;NA;High school;Police;NA
-SHCROW201119960;GUSTIN, Valentina;CRO;W;SK Kustosija;1996;2009;Zagreb, Croatia;2009;Croatia;Tomislav Lazic;Zagreb, CRO;NA;172;right;62;right;single;NA;NA;NA;Student;NA
-SHQATW290519900;AKHLAGHI, Mahbubeh;QAT;W;Qatar shooting;1990;2005;Doha, QAT;2003;Doha, QAT;Ivan Shakhov;Doha, QAT;Ivan Shakhov;163;right;48;right;single;AR40,STR3X20;NA;College IT;Student;NA
-SHMNEW070619930;RADOVIC, Mirjana;MNE;W;Centar;1993;2006;Montenegro;2005;Bijelo Polje;Marko Sokic;Podgorica;Stanko Laban;178;right;60;right;single;AR40;NA;NA;Student;NA
-SHCUBW120419800;DE LA CRUZ, Eglys Yahima;CUB;W;S. Spiritus, Federacion Cubana Tiro;1980;1993;Santic Spiritus, CUB;1992;Santic Spiritus, CUB;Ignacio Cruz Rodriguez;Cuba;Ignacio Cruz Rodriguez;158;right;59;right;married;AR40,STR3X20;1;High School;Student;NA
-SHALGW050819770;YAHIAOUI, Souad;ALG;W;Alger;1977;2004;Cherchel;2003;Annaba;Boudeff Atef;NA;ALG;168;left;68;left;divorced;AR40;1;DUA;Athlete;NA
-SHRUSW151219890;VDOVINA, Daria;RUS;W;NA;1989;2002;Izhevsk, RUS;2000;Arkhangelsk, RUS;Oleg Vdovin;Russia;Andrey Ananiev;157;right;47;right;NA;AR40;NA;NA;NA;NA
-SHARMW091019790;LAUER, Irina;ARM;W;SV Erdbach;1979;2001;Yerevan;NA;Yerevan;Andranik Ayvazyan;Herborn, Germany;Seyran Nikogosyan;163;right;56;right;married;AR40;1;Land Management;Ingeneer, Athtlete;NA
-SHSLOW051219940;KUHARIC, Urska;SLO;W;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHMASW200920000;NOR RAHIM, Nurtaqiyyah Alya;MAS;W;Terengganu Shooting Association;2000;2013;Terengganu;2013;Kuala Terengganu;NA;NA;NA;159;right;49;right;single;NA;NA;NA;Student;NA
-SHGERW231019940;KREUTZER, Nina Laura;GER;W;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;right;NA;right;NA;NA;NA;NA;Industrial business management assistent;NA
-SHSUIW100119950;HOFSTETTER, Vanessa;SUI;W;NA;1995;2007;Bern;NA;NA;NA;Guemmenen;Roger Chassat;NA;right;NA;NA;NA;NA;NA;NA;NA;NA
-SHKUWW231119890;ALANJARI, Munira;KUW;W;Kuwait Shooting Sport Club;1989;2012;Kuwait;2010;Kuwait;Anna Belakova;Kuwait;NA;NA;NA;NA;right;NA;NA;NA;BSC Degree (Law);NA;NA
-SHCZEW011219960;DUDOVA, Lucie;CZE;W;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHMKDW040819950;PEJEVA, Emilija;MKD;W;SK Stip;1995;2013;Stip;2013;Stip;Zoran Pejev;Macedonia;Stevan Krsteski;170;right;52;right;NA;NA;NA;Programmer;Student;NA
-SHBRAW270819730;EWALD, Rosane Sibele;BRA;W;S.D.C.Cruzeiro Joinvillense;1973;2005;Blumenau - Santa Catarina, BRA;2005;Joinville, BRA;NA;Joinville, BRA;Oleg Mikhailov;174;right;66;right;divorced;AR40;2;High Level;Economist;NA
-SHECUW060819930;ANDRADE PONCE, Maria Jose;ECU;W;NA;1993;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHOMAW281219910;AL HASHMI, Asma;OMA;W;NA;1991;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-SHEGYW050219890;AHMED, Reham;EGY;W;Army Club;1989;2004;Egypt;2003;Cairo, Egypt;Mohamed Amer;Egypt;Mohamed Amer;155;right;60;right;single;NA;NA;NA;NA;NA
-SHMASW130219960;ALI, Nurul Izzati;MAS;W;Terengganu Shooting Association;1996;2011;Kuantan, Pahang;NA;Malaysia;Najihah Alias;NA;NA;155;right;64;right;single;NA;NA;NA;NA;NA
-SHBRNW030919860;MUBARAK, Sabika;BRN;W;NA;1986;2005;Bahrain;2005;NA;Jordan;Bahrain;Bulgary;162;right;53;NA;married;NA;1;Secondary school;shooter;NA
-SHALGW070719860;CHAABI, Houda;ALG;W;Atlantic Ain Beniane;1986;2011;NA;2011;Constantine;Boudeffa Atef;Constatine;NA;171;right;90;right;single;NA;NA;University;Athlete;NA
-SHGBRW280719950;BUCKLEY, Gabrielle;GBR;W;NA;1995;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHCOLM1112199701;CONCHA-TORO, Emiliano;COL;M;NA;1997;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHDENM3001198001;OLSEN, Steffen;DEN;M;NA;1983;1992;NA;2001;Aarhus, DEN;NA;Aarhus, DEN;NA;189;right;90;right;single;AR60;NA;NA;Student;NA
+SHAUTM0303199101;PICKL, Bernhard;AUT;M;SV Gaming;1991;NA;Scheibbs;1997;Gaming;NA;Gaming, Vienna;Hubert Bichler;184;right;73;right;single;AR60;NA;NA;Military;NA
+SHGERM2303199201;JANKER, Michael;GER;M;FSG Diessen;1992;2008;Landsberg am Lech;2006;Hagenheim;Elisabet Stainer;Hagenheim;CD Roth;181;right;77;right;single;NA;NA;NA;Student;NA
+SHBRNM2011198901;ALROWAIEI, Abdulaziz;BRN;M;Ministry of the Imperior;1989;NA;Bahrain;2010;NA;Stefan Mitov;NA;Stefan Mitov;175;right;60;right;single;NA;NA;NA;Police man;NA
+SHCRCM0402196101;QUESADA, Jorge;CRC;M;NA;1961;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHAUTM2504199001;MATHIS, Thomas;AUT;M;SG Hohenems, USG Hard;1990;2005;Feldkirch, AUT;2000;Hohenems, AUT;Wolfram Waibel jun;Hohenems, AUT;Hubert Bichler;178;right;65;right;single;FR3X40,FR60PR;NA;NA;Salesman;NA
+SHRUSM3105198901;LOUGINETS, Nazar;RUS;M;NA;1989;NA;Russia, Novorossiysk;NA;NA;Aleynikov Eugeniy;Moscow;Krainov Eugeny;181;right;70;right;single;AR60;NA;NA;NA;NA
+SHISRM2205199001;MADLAL, Leor Ovadia;ISR;M;Maccabi Raanana Shooting Club;1990;2005;New York, USA;2004;Raanana;Guy Stanik;Israel;NA;180;right;72;right;single;NA;NA;NA;NA;NA
+SHESTM0406199101;KIISK, Meelis;EST;M;Jarvamaa Shooting Sport Club;1991;2004;Tallinn, EST;2003;Paide, EST;Jon Hammond;EST;NA;182;right;70;right;married;AR60,FR3X40,FR60PR;1;NA;Student;NA
+SHNORM0105198901;BRYHN, Ole Kristian;NOR;M;VBS;1989;2006;Drammen;2001;Royken;myself;Royken;Anne Grete Jeppesen;189;right;87;right;NA;NA;NA;Fireman;Fireman;NA
+SHSUIM1301199001;DELLEY, Claude-Alain;SUI;M;NA;1990;2004;Fribourg;2002;Delley - Portalban;NA;Saint-Aubin;Roger Chassat;180;right;77;left;single;AR60;NA;Master of Science in Economics;Student;NA
+SHYUGM1403197201;PLETIKOSIC, Stevan;SRB;M;Cika Mata;1972;1985;Kragujevac, SRB;1982;Kragujevac, SRB;Milutin Stefanovic;Kragujevac, SRB;Srecko Pejovic;183;right;80;right;single;AR60,FR3X40,FR60PR;NA;Sport Management;Student;NA
+SHJPNM2206198501;OSADA, Yoshio;JPN;M;NA;1985;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHOMAM2405198501;ALKHATRI, Hamed Said;OMA;M;Ghala;1985;2008;Al Hamra, OMA;2008;Al Hamra, OMA;Hilal Al Rasheedi;Al Hamra, OMA;NA;173;right;68;right;married;NA;NA;NA;Athlete;NA
+SHGBRM0606199301;BAMSEY, Michael Sean;GBR;M;NA;1993;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHJPNM0802199601;HASEGAWA, Tomohiko;JPN;M;University Club;1996;2010;Toyama, JPN;2010;Toyama, JPN;Thomas Farnik;Shiga, JPN;Thomas Farnik;170;right;55;right;single;NA;NA;University;Student;NA
+SHRUSM1101198301;KAMENSKI, Alexei;RUS;M;CSKA;1983;1998;Barnayl, RUS;1995;Moscow, RUS;Eugeny Krainov;NA;Eugeny Krainov;180;right;70;right;married;AR60,FR3X40,FR60PR;1;Military Academy;Sport Instructor;NA
+SHUSAM1106198901;NORTON, George;USA;M;US Army Marksmanship Unit;1989;2005;Albuquerque, New Mexico;2001;Salina, KS;Jason Parker;Fort Benning, GA, USA;Tom Tamas;193;right;90;left;married;AR60,FR3X40,FR60PR;1;NA;Military;NA
+SHCHNM2005198801;CAO, Yifei;CHN;M;NA;1988;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR60,FR3X40,FR60PR;NA;NA;NA;NA
+SHVENM3107198401;IEMMA HERNANDEZ, Julio Cesar;VEN;M;Hermandad Gallega;1984;1997;Buenos Aires, ARG;1997;Caracas, VEN;Julio Iemma di Vasto;Caracas, VEN;Miguel Oliva;170;right;72;right;single;AR60,FR3X40,FR60PR;NA;University;Student;NA
+SHUSAM1610199301;ANDERSON, Ryan;USA;M;University of Alaska-Fairbanks;1993;2006;Great Falls, Virginia, USA;2004;Wasilla, AK, USA;Dan Jordan;Fairbanks, Alaska, USA;Tom Tamas;170;right;59;right;single;NA;NA;University Student;Student;NA
+SHBRAM1508198601;HECK, Bruno Lion;BRA;M;CTAMAN;1986;2004;Porto Alegre, BRA;2003;Porto Alegre, BRA;NA;Porto Alegre, BRA;Oleg Mikhailov;177;right;68;right;single;NA;NA;University;Military;NA
+SHAUSM2008198601;SAMPSON, Dane Kevin;AUS;M;Commercial;1986;1998;Sydney, AUS;1998;Brisbane, AUS;NA;NA;Petr Kurka;183;right;85;right;single;FR60PR;NA;NA;furniture maker;NA
+SHRUSM2904199401;PANCHENKO, Evgeny;RUS;M;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHINDM0605198301;NARANG, Gagan;IND;M;Air India Ltd.;1983;2002;Madras, IND;1997;Hyderabad, IND;NA;Hyderabad, IND;Sunny Thomas;180;right;95;right;single;AR60,FR3X40,FR60PR;NA;University;Service;NA
+SHMEXM3003199401;SANCHEZ ZAVALA, Alvaro;MEX;M;Club Cinegetico Leones A.C.;1994;2010;Leon, Guanajuato, MEX;2008;Leon;NA;Mexico;NA;167;right;82;right;single;NA;NA;College;Student;NA
+SHGERM2901198801;JUSTUS, Julian;GER;M;SGi Homberg/Ohm;1988;2004;Giessen, GER;2004;Homberg/Ohm;NA;Homberg/Ohm;CD Roth;176;right;74;right;single;NA;NA;Engineer of metalbuilding;Engineer;NA
+SHCHNM1511198401;ZHU, Qinan;CHN;M;NA;1984;2003;Wenzhou, CHN;1999;Wenzhou, CHN;Chang Jing Chun;NA;Chang Jing Chun;180;right;66;right;single;AR60,FR3X40;NA;NA;Student;NA
+SHCANM1810197501;NIEFER, Cory;CAN;M;NA;1975;NA;Yorkton, Saskatchewan, CAN;NA;Saskatoon, Saskatchewan, CAN;NA;Saskatoon, Saskatchewan, CAN;NA;183;right;72;right;married;AR60,FR3X40,FR60PR;1;Masters Sport Psychology;Sport Scientist;NA
+SHCOLM2909198801;VELASCO CORREDOR, Pedro Andres;COL;M;NA;1988;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHCHIM3010198401;SAN MARTIN, Elias;CHI;M;Esercito de Chile;1984;2006;Los Angeles, CHI;2006;Renaico, CHI;NA;Santiago, CHI;Pavel Sosa;174;right;69;right;single;NA;NA;NA;Army;NA
+SHSCGM2301198501;STEFANOVIC, Milutin;SRB;M;SK Cika Mata;1985;2000;Kragujevac;NA;Kragujevac;Pietikosic Stevan;Kragujevac;Srecko Pejovic;182;right;75;right;married;AR60,FR3X40,FR60PR;NA;Faculty of Sport;Shooting Coach;NA
+SHSUIM2803197201;BUERGE, Marcel;SUI;M;Sportschuetzen Gossau;1972;1993;Arbon, SUI;1988;Mosnang, SUI;Heinz Müller;Luetisburg, SUI;Roger Chassat;180;right;94;right;single;300FR3X40,300FR60PR,300STR3X20,AR60,FR3X40,FR60PR;NA;Web Publisher;Manager of Bleiker Sportsweapons;NA
+SHROMM0305198301;MOLDOVEANU, Alin George;ROU;M;CS Dinamo;1983;1997;Focsani ROU;1996;Focsani ROU;Marin Olimpiu;Focsani, ROU;Sorin Babii;173;right;70;right;single;AR60,FR60PR;NA;Bachelor Psycology;Student;NA
+SHHUNM0312199201;KAPAS, Istvan;HUN;M;KVSE;1992;2003;Komarom, HUN;2003;Komarom, HUN;Istvan Kisvardai;Komarom;Edit Oroszi;180;NA;66;left;NA;AR60;NA;NA;NA;NA
+SHNEDM0712198501;HELLENBRAND, Peter;NED;M;SV Doeltreffers Landgraaf, Karlsschützengilde Aach;1985;2001;Brunssum, NED;2000;Brunssum, NED;Heinz Reinkemeier, Jo Frings;Brunssum, NED;NA;180;right;NA;right;single;AR60;NA;Bachelor of Business Administration;Shooter;NA
+SHUSAM0604198701;WALLIZER, Bryant;USA;M;NA;1987;2003;Cumberland, MD;2001;Little Orleans, MD;Tom Tamas;Colorado Springs, CO;Dave Johnson;186;right;84;right;married;NA;NA;Bachelor of Sciences;Athlete, Army Reserves;NA
+SHVENM1702198601;VARGAS, Raul Jun;VEN;M;NA;1986;NA;NA;NA;NA;NA;NA;Miguel Oliva;174;right;103;right;married;AR60,FR3X40,FR60PR;NA;University;Business Managment;NA
+SHHUNM1109197801;SIDI, Peter;HUN;M;Komarom VSE;1978;1994;Komarom, HUN;1994;Budapest, HUN;Dr. Csaba Keringer;Komarom, HUN;Szabolcs Hercegh;180;right;82;right;single;300FR3X40,300FR60PR,AR60,FR3X40,FR60PR;NA;University;Manager;NA
+SHHUNM0906198401;HANER, Tamas;HUN;M;BHSE;1984;2000;Budapest;1997;Budapest;NA;NA;Csaba Gyorik;187;right;100;right;single;AR60,FR3X40,FR60PR;NA;NA;NA;NA
+SHBRAM1306197801;MOREIRA, Leonardo;BRA;M;Blumenauense de Caya e Tiro;1978;2010;Rio de Janeiro, BRA;2010;Campinas, BRA;Oleg Mikaylov;Campinas, BRA;Oleg Mikaylov;172;right;71;right;married;NA;1;Masters Degree;Military;NA
+SHAUTM1909198901;SCHMIRL, Alexander;AUT;M;SG Rabenstein;1989;2006;St. Pölten, AUT;1996;Rabenstein, AUT;NA;Vienna, AUT;Hubert Bichler;178;right;95;right;single;AR60;NA;A-Levels;Soldier;NA
+SHCHIM3103197101;HUERTA, Marcos;CHI;M;NA;1971;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR60;NA;NA;NA;NA
+SHBRNM3008198801;ABDULJABBAR, Husain;BRN;M;Ministry of the Imperior;1988;NA;Bahrain;2010;NA;Stefan Mitov;NA;Stefan Mitov;169;right;64;right;married;NA;1;NA;Police man;NA
+SHISRM2304198901;RICHTER, Sergey;ISR;M;Malabi Raanana;1989;1900;UKR;2002;Relhovot, UKR;Guy Starik;Israel;NA;NA;right;78;right;single;NA;NA;NA;NA;NA
+SHNORM1601198201;HANSEN, Are;NOR;M;Krapfoss;1982;1996;Frederikstad, NOR;1995;Moss, NOR;Leif Steinar Roland;Moss, NOR;Anne Grethe Jeppesen;179;right;NA;NA;married;AR60,FR3X40,FR60PR;1;NA;NA;NA
+SHITAM0611198701;CAMPRIANI, Niccolo;ITA;M;WVU (West Virginia, University);1987;2001;Florence, ITA;2000;Florence, ITA;Gaby Bullmann;Appiano, ITA;Gaby Bullman;177;right;74;right;single;AR60,FR3X40,FR60PR;NA;High school;Student;NA
+SHBRNM1902198501;AL HAIDERABADI, Ali;BRN;M;shooting club;1985;2006;Manama, BRN;2006;AlJsra, BRN;Thanin;BRN;Thanin;178;right;65;right;married;NA;1;Secondary school;Military;NA
+SHYUGM3012198401;SEBIC, Milenko;SRB;M;Akademica Maksimovic;1984;1999;Trstenik;1998;Beograd, SRB;Miriban Maksimovic;Beograd, SRB;Srecko Pejovic;197;right;93;right;single;FR3X40,FR60PR;NA;faculty for sport;Student;NA
+SHVENM2109198501;GARCIA, Javier;VEN;M;NA;1985;2008;Valera, VEN;NA;NA;Miguel Oliva;NA;Miguel Oliva;183;right;100;right;single;NA;NA;University;NA;NA
+SHMEXM1811199401;CHAIRES, Gerardo Emiliano;MEX;M;Club Cinegetico a Tiro Coahuila;1994;2006;Saltillo, MEX;2006;Saltillo, MEX;Blas Ruiz;Saltillo, MEX;NA;161;right;60;right;single;NA;NA;NA;Student;NA
+SHMGLM2509199101;NYANTAI, Bayaraa;MGL;M;TST Technik Sport Center;1991;2005;Ulaanbaatar, MGL;2005;Ulaanbaatar, MGL;Adilibish;MGL;Undralbat;176;right;67;right;single;AR60;NA;University;Athlete;NA
+SHSWEM1804199101;ERIKSSON, Spaennar Mats;SWE;M;NA;1991;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHCOLM1705196801;LASTRA GONZALEZ, Guido;COL;M;Target Colombia;1968;1999;Paris, FRA;1999;Bogota, COL;Roger Caron;USA;NA;176;right;80;right;married;AR60,FR3X40,FR60PR;2;NA;Physician;NA
+SHINDM0504198901;SINGH, Chain;IND;M;Army Marksmanship Unit;1989;2012;Doda;NA;NA;NA;NA;NA;172;NA;NA;right;single;NA;NA;NA;Army;NA
+SHCHIM1510197701;HUERTA, Mauricio;CHI;M;Lampa;1977;1989;Santiago, CHI;1989;CHI;NA;CHI;NA;160;right;74;right;single;AR60,FR3X40,FR60PR;NA;NA;NA;NA
+SHMEXM1306199501;MADRAZO MORALES, Luis Carlos;MEX;M;Club Coachuila;1995;2013;Saltillo, Mexico;2011;Saltillo, Mexico;Blas Ruiz;Mexico;Blas Ruiz;162;left;53;left;single;NA;NA;College;Student;NA
+SHCHNM1312198201;WANG, Tao;CHN;M;NA;1982;2008;Hu Nan, CHN;2000;Hu Nan, CHN;Chang Jing Chun;Beijing, CHN;Chang Jing Chun;170;right;76;right;single;NA;NA;College;Student;NA
+SHJPNM1305198401;MISHIMA, Yusuke;JPN;M;IGO;1984;2011;Nagano, JPN;1996;Saitama, JPN;Omari Tomomi;Saitama, JPN;Kosai Syunsuke;172;right;63;right;single;NA;NA;University Meiji;School secetary;NA
+SHCRCM3008195901;VAZQUEZ, Rodrigo;CRC;M;NA;1959;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR60;NA;NA;NA;NA
+SHCZEM1807198601;HAMAN, Vaclav;CZE;M;SKP Rapid Plzen;1986;2003;Jicin, CZE;1993;Jicin, CZE;Tomas Jerabek;Brada 35, Jicín, CZE;Lubos Opelka;180;right;87;right;single;AR60,FR3X40,FR60PR;NA;High school;Gunmaker;NA
+SHUSAW1410198401;SOWASH, Amy;USA;W;NA;1984;2007;New Mexico, USA;2003;Colorado Springs, CO;Brian Beaman;Colorado Springs, CO;Dave Johnson;NA;right;NA;right;single;AR40,STR3X20;NA;NA;Athlete;NA
+SHCZEW0502198701;SYKOROVA, Adela;CZE;W;Rapid Plzen;1987;2001;Zlin, CZE;1996;Hof, GER;Milan Bakes;Hof, GER;Lubos Opelka;170;right;55;right;single;AR40,STR3X20,STR60PR;NA;NA;Student;NA
+SHLUXW1009197801;CALMES, Carole;LUX;W;SSC Kayl;1978;2001;Luxembourg, LUX;2001;Kayl, LUX;Heinz Reinkemeier;LUX;Iris Zimmer-Roseneck;NA;right;NA;right;single;AR40;NA;Commercial Pilot License;Trade Union Secretary;NA
+SHUSAW1601199601;GRATZ, Elizabeth;USA;W;NA;1996;2010;Effingham, IL;2010;Sigel, IL;Jon Hammond;Sigel, IL;Dave Johnson;167;right;72;right;single;NA;NA;NA;College Student;NA
+SHESAW0308198701;MIKEC, Melissa;ESA;W;Fesatiro;1987;2004;San Salvador, ESA;2003;Belgrade, SRB;Damir Mikec;Belgrade, SRB;Ninfa Chavez;157;right;54;right;married;AR40;NA;University;Student;NA
+SHCZEW2211199401;MAZUROVA, Nikola;CZE;W;Dukla Plzen;1994;2004;Rychnov nad Kneznou;2003;Doudleby nad Orlici;Ivo Mazura;Doudleby nad Orlici;Lubos Opelka;NA;right;NA;right;single;STR3X20;NA;High School;Student;NA
+SHGERW2901197101;PFEILSCHIFTER, Sonja;GER;W;Holzkirchen;1971;1989;Cham, GER;1982;Pemfling, GER;Hubert Bichler;Großhöhenrain, GER;Claus Dieter Roth;156;left;50;left;single;AR40,STR3X20,STR60PR;NA;NA;Soldier;NA
+SHMGLW2706199401;GANKHUYAG, Nandinzaya;MGL;W;Sniper;1994;2007;MGL;2007;Ulaanbaatar, MGL;J. Gankhuyag;MGL;Undralbat Lkhagva;159;right;53;right;single;NA;NA;University of the Humanities;Student;NA
+SHBRNW1311198801;ABDULGHAFFAR, Aseel;BRN;W;NA;1988;2013;BRN;2012;BRN;Jordan;BRN;Bulgary;162;right;60;right;single;NA;NA;University;Shooting;NA
+SHINDW1701198901;GHATKAR, Pooja;IND;W;NA;1989;2008;Pune, IND;2007;Pune, IND;Stanislav Lapious;Pune, Mamarashtra;NA;165;right;64;right;single;AR40;NA;M.B.A.;Student;NA
+SHINDW2309199201;PAUL, Ayonika;IND;W;National Rifle Association of India;1992;2007;Mumbai, IND;2007;Mumbai, IND;Sanjoy Chakrobaryy;Mumbai, IND;Prof. Sunny Thomas;NA;right;80;right;single;AR40;NA;BE Electronics;Student;NA
+SHSUIW1211199001;LUSTENBERGER, Petra;SUI;W;Büren-Oberdorf, SUI;1990;2006;NA;1900;NA;NA;Rothenburg, SUI;Roger Chassat;NA;right;NA;right;single;STR3X20,STR60PR;NA;NA;NA;NA
+SHMEXW1909199401;PENA ROCAMONTES, Rosa;MEX;W;NA;1994;2007;Goahuila, MEX;2006;Goahuila, MEX;Blas Ruiz;Mexico;NA;162;right;55;right;single;NA;NA;University;Student;NA
+SHVENW2710198201;MENDEZ, Diliana;VEN;W;Orion;1982;1995;Caracas, VEN;1995;Maracay Aragua, VEN;Valerio Mendez;NA;Miguel Oliva;171;right;58;NA;single;AR40,STR3X20,STR60PR;NA;University;Accountant;NA
+SHSRBW0909199201;BISERCIC, Katarina;SRB;W;Nis 1881;1992;2006;NA;2005;NA;Lidija Mihajlovic;Nis, SRB;Srecko Pejovic;172;right;55;right;single;AR40;NA;NA;Student;NA
+SHRUSW1707199101;ZHUKOVA, Anna;RUS;W;Dossaf, Shvsm;1991;2003;Belgorod, Russia;2005;Belgorod, Russia;Lytai O. I.;Belgorod, Russia;Ananiev A. ;164;right;63;right;single;NA;NA;NA;Student;NA
+SHRUSW2610199302;KITAEVA, Daria;RUS;W;NA;1993;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHBRNW1704199201;ALDOSARI, Sara;BRN;W;NA;1992;2013;Manama, Bahrein;2012;East Riffa, Bahrein;Jordan;Bahrain;Bulgary;160;right;42;right;single;NA;NA;NA;Shooting;NA
+SHJPNW1811199401;MATSUHABA, Ayu;JPN;W;Ritsumeikan University;1994;2009;Gifu, JPN;2009;Gifu, JPN;Tagiri Hidekazu;Kyoto, JPN;Tomas Farnik;164;right;55;right;single;NA;NA;University;Student;NA
+SHGERW3004199101;PREDIGER, Maren;GER;W;NA;1991;2009;Ansbach, GER;2002;Petersaurach, GER;NA;Petersaurach, GER;NA;NA;NA;NA;right;NA;AR40;NA;NA;Student;NA
+SHMEXW1702199501;ZUNIGA, Monica;MEX;W;NA;1995;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHAUTW2206199201;UNGERANK, Lisa;AUT;W;SG Zell am Ziller;1992;2005;Schwarz, AUT;2005;Zell am Ziller, AUT;Hubert Bichler;Zell am Ziller, AUT;NA;163;right;NA;right;NA;STR3X20,STR60PR;NA;NA;Student;NA
+SHSLOW0907199101;DVORSAK, Ziva;SLO;W;Olimpija;1991;2005;Ljubljana, SLO;2004;Ljubljana, SLO;Polona Sladic;Slovenia;Andreja Vlah;168;right;NA;right;single;AR40;NA;High school;Student;NA
+SHCHNW0104198701;CHANG, Jing;CHN;W;NA;1987;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHCHIW1507198701;SALAZAR GUERRERO, Paulina Alejandra;CHI;W;NA;1987;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHITAW3006198901;ZUBLASING, Petra;ITA;W;NA;1989;2003;Bolzano, ITA;2001;Appiano, ITA;Franz Zublasing;Appiano, ITA;Gaby Bullman;165;right;54;left;single;AR40;NA;High school;Student;NA
+SHBELW2904199401;CLAESSENS, Manon;BEL;W;NWS Nieuwpoortsewapensportkring;1994;2009;Oostende;2009;Middelkerke;Stefaan Vandersteene;NA;NA;NA;right;NA;right;NA;NA;NA;Bachelor in political science;Student;NA
+SHUSAW1201199301;CARPENTIER, Meredith;USA;W;USAFA / USAS;1993;2008;Waukegan, IL;2011;Waukegan, IL;NA;Colorado Springs, CO;NA;NA;right;NA;right;single;NA;NA;NA;Student;NA
+SHDENW0902199101;NIELSEN, Stine;DEN;W;Saerslev;1991;2009;Faaborg-Midtfyn, DEN;1999;Korinth, DEN;Axel Larsen;Faaborg, DEN;Enrico Friedemann;163;right;NA;right;single;NA;NA;NA;Student;NA
+SHCHIW1209199201;LOBOS, Gabriela;CHI;W;NA;1992;NA;NA;NA;NA;NA;NA;Pavel Sosa;150;NA;64;NA;NA;NA;NA;NA;Estudia;NA
+SHAUTW1410198801;OBERMOSER, Stephanie;AUT;W;SG Koessen;1988;2002;St. Johann i. T., AUT;2002;Koessen, AUT;Hubert Bichler;Koessen, AUT;Hubert Bichler;161;right;54;right;single;AR40, smallbore 3 x 20;NA;Final secondary school examinations for engineerin;Medical Masseur;NA
+SHMGLW0209198501;CHULUUNBADRAKH, Narantuya;MGL;W;MGL National Shooting Sport Club;1985;2000;Ulaanbaatar, MGL;2000;UB, MGL;Adilbish;Utaanbaator, MGL;Undralbat Lkhagva;160;right;68;right;married;AR40,STR3X20,STR60PR;1;Bachelor Degree in Economy;Athlete;NA
+SHMGLW2210199001;OLZVOIBAATAR, Yanjinlkham;MGL;W;Sniper Club MGL;1990;2005;Ulaanbaatar, MGL;2005;Ulaanbaatar, MGL;Ganhuyag;Ulaanbaatar, MGL;Undralbat Lkhagva;160;right;47;right;single;AR40,STR3X20,STR60PR;NA;University;Athlete;NA
+SHJPNW2007199501;SUEMOTO, Kana;JPN;W;NA;1995;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHCHNW2701199001;ZHANG, Cheng;CHN;W;NA;1990;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHSWEW2008198401;NORMANN, Anna;SWE;W;NA;1984;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR40;NA;NA;NA;NA
+SHMEXW1402199501;RAMOS, Salma Maricruz;MEX;W;Rifle y Cana Lazadores;1995;2008;San Nicolas de las Garza, Nuevoleon;2007;Escabedo, NL, MEX;NA;Nuevo Leon, MEX;NA;157;right;54;right;single;NA;NA;University;Student;NA
+SHCHNW1403198601;CHENG, Cheng;CHN;W;NA;1986;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHECUW1905198901;PADILLA, Sofia;ECU;W;NA;1989;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHAUSW0108198601;HENS, Jennifer;AUS;W;Springwoord Smallbore and Rifle Club;1986;2008;AUS;2001;Mt Riverview, NSW, AUS;Petr Kurka;Sydney, AUS;Petr Kurka;174;right;61;right;single;NA;NA;Master of teaching (secondary);High school teacher;NA
+SHCANW3012199701;ARTHUR, Aerial;CAN;W;Saskatoon Rifle & Revolver Club;1997;2010;Saskatoon, SASK;2010;Saskatoon, SASK;Scott Arthur;416 112th St;NA;168;right;135;right;single;NA;NA;NA;NA;NA
+SHOMAW1001198901;AL TARSHI, Amina;OMA;W;Oman Shooting Team;1989;2013;Muscat;2009;Muscat;Mohammed Hamed;Oman;Mohammed Hamed;169;right;60;right;single;NA;NA;Secondary;Air Force Oman;NA
+SHBELW0905199201;DE QUICK, Jana;BEL;W;Koninklijke Vrijschutters Geraardsbergen;1992;2010;Asse, BEL;2005;Meerbeke, BEL;Marc de Loose;Meerbeke;Viaene Alain;160;right;50;right;single;NA;NA;Hotel Management;Student;NA
+SHSCGW0205199001;MAKSIMOVIC, Ivana;SRB;W;Novi Beograd;1990;2004;Belgrade, SRB;2002;Belgrade, SRB;Miriban Marsimovic;Radoza Dakica 33 Beograd SRB;Srecko Pejovic;163;right;50;right;single;NA;NA;High School, University;student;NA
+SHCROW1307198201;PEJCIC, Snjezana;CRO;W;Lokomotiva;1982;1995;Rijeka, CRO;1995;Rijeka, CRO;Seno Custo;Rijeka, CRO;NA;170;right;66;right;single;AR40,STR3X20,STR60PR;NA;NA;Shooter;NA
+SHGBRW1706199101;MCINTOSH, Jennifer;GBR;W;Alloa District;1991;2007;Edinburgh, Scotland;2003;Falkirk;Donald McIntosh;Edinburgh;Donald McIntosh;174;right;75;right;married;NA;NA;HNC Makeup Artistry;Athlete;NA
+SHINDW0401199301;CHANDELA, Apurvi;IND;W;NA;1993;2008;Jaipur, Rajasthan, IND;2008;Jaipur, Rajasthan, IND;Stanislav Lapidus;Jaipur, Rajasthan, IND;NA;154;right;52;right;single;NA;NA;B.A. Honours (Sociology);Student;NA
+SHJPNW1001197201;SASAKI, Ako;JPN;W;NA;1972;2000;Hyogo, JPN;1987;Tokyo, JPN;Tanomi Omori;NA;Laszlo Szucsak;165;right;60;right;single;AR40,STR3X20,STR60PR;NA;University (Economy);Office Worker;NA
+SHBELW0802198901;VERCRUSSE, Stephanie;BEL;W;Leieschutters;1989;2005;Gent, BEL;2001;Sint-Truiden, BEL;Frings Jo;BEL;NA;169;right;75;right;single;AR40;NA;NA;Military;NA
+SHGERW2802198701;GOESSLER, Ramona;GER;W;SV Ebhausen;1987;1999;NA;1999;NA;Helmut Hoffmann;Baden Wuerttemberg, GER;Claus Dieter Roth;160;right;NA;right;single;STR3X20;NA;NA;CAD Instructor;NA
+SHRUSW0610197701;BOBKOVA, Marina;RUS;W;Army Sport Club;1977;1994;Moscow, RUS;1989;Moscow, RUS;Fedkin Yury;Moscow, RUS;Andrey Ananiev;164;right;65;right;single;AR40,STR3X20,STR60PR;NA;High school;Instructor of sport;NA
+SHSINW0103199401;LI, Yafei;SIN;W;NA;1994;2009;CHN;2007;SIN;NA;SIN;Zhang Man Zhen;158;right;53;right;single;NA;NA;A Levels;Student;NA
+SHCHIW1204197501;VERA, Karina;CHI;W;Fechitid;1975;2000;Santiago, CHI;1996;CHI;Pavel Sosa Hernandez;CHI;Pavel Sosa Hernandez;154;right;50;right;widowed;AR40,STR3X20;1;NA;Dentist assistant;NA
+SHBRNW2111199001;ASHOOR, Lulwa;BRN;W;NA;1990;2013;Manama, Bahrain;2012;Hamad Town, Bahrain;Tahin;Bahrain;Tahin / Thiland;156;right;44;right;single;NA;NA;NA;Military;NA
+SHSCGW0502198701;ARSOVIC, Andrea;SRB;W;Partizan;1987;2000;Drvar, BIH;2000;Belgrade, SRB;Donevic Dragan;Belgrade, SRB;Donevic Dragan;165;right;60;right;single;AR40,STR3X20,STR60PR;NA;High school;Student;NA
+SHSWEW1204198201;OLOFSSON, Linda;SWE;W;NA;1982;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;STR3X20;NA;NA;NA;NA
+SHCOLW2105199601;BERRIO, Angelica;COL;W;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHCOLW0311199501;QUIROGA LUQUE, Aura Maria;COL;W;NA;1995;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHVENW0110198401;OLIVA, Beggxula;VEN;W;NA;1984;1999;Caracas, VEN;NA;NA;Miguel Oliva;Maturin, VEN;Miguel Oliva;174;right;66;right;single;NA;NA;NA;Lawyer;NA
+SHSUIW0301199201;FUEGLISTER, Fabienne;SUI;W;Sportschuetzen Thoerishaus;1992;2002;Baden, SUI;2002;Obersiggenthal;Roger Chassat;Bern;Roger Chassat;172;right;NA;right;single;NA;NA;NA;Polymechanic;NA
+SHBLRM1107198401;SHCHERBATSEVICH, Yury;BLR;M;Army;1984;2000;Cherven, BLR;1997;Brest, BLR;Andrey Fominyh;Brest, BLR;Igor Basinki;178;right;87;right;married;AR60,FR3X40,FR60PR;1;Middle school;Athlete;NA
+SHKSAM1403198101;AL ANAZI, Faiz;KSA;M;NA;1981;2006;Riyadh, KSA;1900;Riyadh, KSA;Al-Khateb Mohammed;Riyadh, KSA;NA;165;right;61;right;married;AR60;NA;high secondary school;Navy;NA
+SHSLOM2706198401;MOICEVIC, Zeljko;SLO;M;SD Grosuplse;1984;1999;Ljubljana;1998;Grosuplje;Joze Kolenc;Grosuplje;NA;178;right;72;right;single;AR60,FR3X40,FR60PR;NA;Faculty of Criminal Justice;Athlete;NA
+SHBLRM1504199301;CHARHEIKA, Illia;BLR;M;DOSAF;1993;2006;Minsk, BLR;2004;Minsk, BLR;Natalia Gulevich;NA;Igor Basinski;178;right;100;right;single;AR60;NA;NA;Athlete,student;NA
+SHCHNM2202199601;YANG, Haoran;CHN;M;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHESPM0603197301;GUTIERREZ, Oscar;ESP;M;El Greco;1973;2000;Burgos, ESP;NA;NA;NA;Burgos;Piotr;174;right;76;right;married;AR60,FR60PR;NA;University;Student;NA
+SHQATM0310199001;AL MUHANADI, Ali;QAT;M;Qatar Shooting Club;1990;2004;Doha, QAT;2004;Doha, QAT;Szabolcs Herczegh;Doha, QAT;Szabolcs Herczegh;169;left;86;left;single;AR60,FR60PR;NA;Bachelor Degree, Aeronautical College;Student;NA
+SHSINM0309199801;TAY, Seng Liang Sean;SIN;M;NA;1998;2012;Singapore;2011;Singapore;NA;NA;Zhang Man Zhen;174;NA;57;left;single;NA;NA;NA;Student;NA
+SHUKRM2903196801;SUKHORUKOV, Yuriy;UKR;M;Dinamo;1968;1982;Donetsk, UKR;1981;Donetsk, UKR;Irina Sukhorukova;UKR;Stepan Starinskiy;181;right;74;right;married;AR60,FR3X40,FR60PR;2;NA;Military;NA
+SHTURM3105198901;NALBANT, Mert;TUR;M;NA;1989;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR60;NA;NA;NA;NA
+SHKAZM1103198301;YURKOV, Yuriy;KAZ;M;Sport Club Arms;1983;1997;Shimkent, KAZ;1997;Shimkent, KAZ;Yunusmetov Anvar;Shimkent, KAZ;Yunusmetov Anvar;177;right;78;right;single;AR60,FR3X40,FR60PR;NA;NA;Athlete;NA
+SHGERM0209198701;BRODMEIER, Daniel;GER;M;NA;1987;2001;Kelheim;1996;Niederlauterbach;Mario Gonsierowsky;Niederlauterbach;Claus-Dieter Roth;179;right;NA;right;single;NA;NA;NA;NA;NA
+SHGBRM0310198801;PARR, Kenneth;GBR;M;Croydon, Mengshausen;1988;2006;Westminster;2001;London;Ken Parr Snr;London, GBR;Donald McIntosh;183;right;75;right;single;AR60,FR3X40,FR60PR;NA;BA English Literature;Athlete;NA
+SHFINM2012199101;KURKI, Juho;FIN;M;Kankaanpään Ampumaurheilwat;1991;2001;Kankaanpää, FIN;2001;Kankaanpää, FIN;Mauri Röppänen;NA;Juha Hirvi;170;right;NA;right;single;AR60;NA;Vocational school;Electrician;NA
+SHUAEM1509199201;ALQAYDI, Salem;UAE;M;NA;1992;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHINDM2809198201;BINDRA, Abhinav;IND;M;NA;1982;1997;Dehra Dun, IND;1997;Kishanpura, IND;Gaby Buehlmann;Kishanpura, IND;Sunny Thomas;175;right;60;right;single;AR60,FR3X40,FR60PR;NA;NA;Student;NA
+SHUKRM2203198801;TSARKOV, Oleh;UKR;M;NA;1988;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR60,FR3X40,FR60PR;NA;NA;NA;NA
+SHCZEM1109199701;CIPRO, Adam;CZE;M;SSK Dukla Plzen;1994;2010;Prague, CZE;2006;Prague, CZE;Jan Videcký;NA;Lubos Opelka;180;right;70;right;single;NA;NA;NA;NA;NA
+SHFRAM0306198501;PIASECKI, Pierre Edmond;FRA;M;SW Harthouse Haguenau;1985;2002;Metz, France;1994;Metz, France;NA;Paris, France;Pascal Bessy, Eric Viller;178;right;89;right;single;AR60,FR3X40,FR60PR;NA;NA;professional shooter;NA
+SHLTUM1105198901;SIMOKAITIS, Tomas;LTU;M;NA;1989;2005;Kaunas, LTU;2001;Kaunas, LTU;V Pabuliene;Kaunas, LTU;V Pabuliene;172;right;63;right;single;AR60;NA;NA;Student;NA
+SHPHIM1509199501;VALDEZ, Jayson;PHI;M;NA;1995;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHPOLM1501199001;BARTNIK, Tomasz;POL;M;Legia Warsaw;1990;2005;Warsaw, POL;2004;Warsaw, POL;Eulalia Rolinska;Warsaw, POL;Andrzej Kijowski;173;right;68;right;single;AR60;NA;Informatik;NA;NA
+SHPOLM0212198801;LUKASZYK, Rafal;POL;M;WKS Zawisza Bydgoszcz;1988;2000;Debowiec;2000;Zamosc;Zbignien Poliszuk;NA;Andrzej Kijowski;175;right;74;right;married;AR60;NA;NA;Soldier;NA
+SHSWEM1708199401;MADSEN, Marcus;SWE;M;Vellinger SKF;1994;2008;Malmö;2005;Malmö;Paul Larm;Malmö;Mats Eriksson;175;right;65;right;single;NA;NA;NA;Student;NA
+SHUSAM0304199301;DAVIS, Connor;USA;M;NA;1993;2009;Richmond, KY;2008;Shelbyville, KY;Harry Mullins;Lexington Kentucky;Marcus Raab;183;right;86;right;single;NA;NA;NA;NA;NA
+SHUSAM2205199001;CHRISTENSON, Dempster;USA;M;NA;1990;2006;Sioux Falls, SD;2002;Sioux Falls, SD;Dempster Christenson;Colorado Springs, CO;Dave Johnson;183;right;77;right;single;NA;NA;College;Shooter;NA
+SHUZBM0203197401;SKOROMNOV, Vyacheslav;QAT;M;NA;1974;1987;Andijan, UZB;1986;Tashkent, UZB;A.A. Seffarov;Tashkent, UZB;A.A. Seffarov;170;right;82;right;married;AR60,FR3X40,FR60PR;1;College;Military;NA
+SHIRIM2010198501;AHMADI, Mahdi;IRI;M;Land Force Army;1985;2011;Tehran, IRI;2010;Tehran, IRI;Mostafa Ahmadi;IRI;Laszlo Szucsak;171;right;64;right;single;NA;NA;Physical Education;Athlete;NA
+SHLIEM2004199001;MATTLE, Michael;LIE;M;Eschen;1990;2007;NA;2004;Eschen;NA;NA;NA;182;right;95;right;single;NA;NA;NA;Mechanic;NA
+SHMASM0203199201;MUHAMMAD, Mohammad Zubair;MAS;M;National Shooting Association of Malaysia;1992;2005;Kuala Lumpur, MAS;2005;Kuala Lumpur, MAS;Saidov Isroil;Kuala Lumpur, MAS;Saidov Isroil;163;right;63;right;single;AR60;NA;Diploma of Engineering;Student;NA
+SHCROM1710198901;DURKOVIC, Bojan;CRO;M;Koncar Zagreb 1786;1989;2001;Bjelovar, CRO;2000;Bjelovar, CRO;Zlatko Loborec;Bjelovar, CRO;Branko Pereglin;180;left;80;right;single;AR60;NA;NA;Army;NA
+SHIRIM1406198201;BAGHERI, Hossein;IRI;M;NA;1982;2009;Esfahan, Iran;2004;Tehran, Iran;NA;Iran;Laszlo Szucsak;176;right;71;right;married;NA;NA;NA;NA;NA
+SHKSAM0209197101;AL-ANAZI, Khalid;KSA;M;NA;1971;2000;Hail, KSA;1998;Hail, KSA;NA;Riyadh, KSA;NA;180;right;80;right;married;AR60,FR3X40,FR60PR;4;High school;Employer;NA
+SHBANM3012199501;MD, Zesimuzzaman;BAN;M;NA;1995;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHAUSM1306199701;ROSSITER, Jack Thomas Venning;AUS;M;Reynella samllbore and air rifle;1997;2010;Ausralia;2004;Adeluide;Petr Kurka;South Australia;Pert Kurka;171;right;65;right;single;NA;NA;NA;Student;NA
+SHMASM3101198901;NASIR KHAN, Muhammad Ezuan;MAS;M;National Shooting Association of Malaysia;1989;2013;Kuala Lumpur, MAS;2001;Kuala Lumpur, MAS;Saidov Isroil;MAS;Saidov Isroil;170;right;46;NA;NA;AR60,FR3X40,FR60PR;NA;High School;Armed Forces;NA
+SHPHIM0311199701;ARELLANO, Celdon Jude;PHI;M;NA;1997;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHINDM0101199001;KUMAR, Ravi;IND;M;NA;1990;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHCHNM0204198201;LIU, Tianyou;CHN;M;NA;1982;2002;Shi Chuan, CHN;1998;NA;Zhang Qiu Pin;Shi Chuan, CHN;NA;170;right;55;right;single;AR60,FR3X40,FR60PR;NA;NA;Student;NA
+SHBLRM1211197401;BUBNOVICH, Vitali;BLR;M;Military Sport Club;1974;2001;Grodno, BLR;1986;Grodno, BLR;Kharitonik;BLR;Igor Basinski;169;right;67;right;married;AR60,FR3X40,FR60PR;2;Middle school;Military;NA
+SHSINM0304198801;ONG, Jun Hong;SIN;M;NA;1988;NA;NA;NA;NA;NA;NA;Kirill Ivanov;172;left;NA;NA;single;AR60,FR60PR;NA;NA;NA;NA
+SHITAM1903198401;TRESSOLDI, Simone;ITA;M;Shooting Club Milano;1984;2001;Castellanza, ITA;2001;NA;NA;Legnano, ITA;Gaby Buelmann;184;right;75;right;single;NA;NA;NA;work at office and shooting club;NA
+SHLIEM1409198401;KESSLER, Marc Andre;LIE;M;Zimmerschuetzen Verein Vaduz;1984;2001;Zuerich, SUI;2001;Vaduz, SUI;NA;Mauren;Oliver Geissmann;180;right;80;right;single;AR60;NA;Advanced technical college;forest warden;NA
+SHSUIM2001198901;LORETAN, Pascal;SUI;M;Tafers;1989;2005;Murten, SUI;2000;Leukerbad, SUI;NA;NA;Roger Chassat;167;right;58;right;single;AR60,FR3X40,FR60PR;NA;NA;Polymecanicien;NA
+SHMGLM1607198801;KHENMEDEKH, Byambabaatar;MGL;M;TST Technik Sport Center;1988;2007;MGL;2007;Khuvsgul;Enkhjargal;MGL;Undralbat;170;right;70;right;single;NA;NA;NA;Student;NA
+SHEGYM0103198101;TALAT, Hamada;EGY;M;Remaya;1981;2007;Gharbeya, Egypt;2006;Elmahalla City;Mohammed Amer;GHARBEYA, Egypt;Mohammed Amer;176;right;77;right;married;AR60;2;NA;air born;NA
+SHOMAM0101197802;AL HATTALI, Bader;OMA;M;NA;1978;2008;Al Rustaq, OMA;2005;NA;Hilal Al Rasheedi;Al Rustaq, OMA;Hilal Al Rasheedi;175;right;80;right;married;AR60;2;Secondary school;Athlete;NA
+SHCROM1101198801;GORSA, Petar;CRO;M;SD Dalmacijacement;1988;1997;Bjelovar, CRO;1996;Bjelovar, CRO;Sinisa Vitez;NA;NA;182;right;84;right;single;AR60,FR3X40,FR60PR;NA;NA;NA;NA
+SHUAEM1412197701;ALNAQBI, Salem;UAE;M;NA;1977;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHPOLM2112196701;KRASKOWSKI, Robert;POL;M;Legia Warszawa;1967;1986;Slupsk, POL;1983;Slupsk, POL;E. Rolinska;Slupsk;Andrzej Kijowski;176;right;83;right;single;AR60,FR3X40,FR60PR;NA;NA;Military;NA
+SHMASM1607198501;JAAFAR, Mohd Hadafi;MAS;M;Royal Malaysia Police Club;1985;2005;Pulau Pinang;2005;Pulau Pinang;Saidov Isroil;Malaysia;Saidov Isroil;169;right;66;right;single;AR60,FR3X40,FR60PR;NA;High school;Police;NA
+SHESPM2611198501;DIAZ, Jorge;ESP;M;Ensidesa Trasona;1985;1999;Belmonte de Miranda, Asturias, ESP;1998;Oviedo, Asturias, ESP;Piotr Kosmatko;Oviedo, Asturias, ESP;Piotr Kosmatko;173;right;76;right;single;AR60;NA;University;Student;NA
+SHTURM1502198201;AKGUN, Omer;TUR;M;Dicleyouth sports club;1982;1997;Dicle, Dijarbakir, TUR;1996;Dijarkakir, TUR;Kadri Akgun;NA;Lifuk Özisik;170;right;82;right;married;NA;2;college;NA;NA
+SHCANM1610199201;TAYLOR, Benjamin;CAN;M;NA;1992;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHSUIM0303199201;LOCHBIHLER, Jan;SUI;M;Balsthal;1992;2008;Niederbipp;2004;Mümliswil-Ramiswil;NA;Holdrebank;Roger Chassat;188;right;90;right;single;AR60,FR3X40,FR60PR;NA;NA;Flooring technician;NA
+SHBANM0108198901;BAKI, Abdullah Hel;BAN;M;NA;1989;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR60;NA;NA;NA;NA
+SHSRBM0601199601;MILOVANOVIC, Andrija;SRB;M;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHLTUM0111198601;GIRULIS, Karolis;LTU;M;Alytus ASRC;1986;2001;Alytus, LTU;1998;Alytus, LTU;Ceslovas Pavilonis;Punios - 16;Ceslovas P;176;right;65;right;married;AR60,FR3X40,FR60PR;2;Modern Physics and Management + Biophysics;Project Manager;NA
+SHRUSM2703198501;KRUGLOV, Sergey;RUS;M;CSA Pomoriye;1985;2003;Khabarovsk, RUS;2001;Arkhangelsk, Russia;Oleg Seleznev, Pozdeev Alecksandr;RUS;Kraynov Eugeniy;178;right;75;right;married;AR60,FR3X40,FR60PR;1;Sport Management;Sport Instructor;NA
+SHFRAM0804198901;GERMOND, Etienne;FRA;M;Mouettes de Royan;1989;2007;Saintes;1998;Pons;Lassalle Maxime, Pascal Bessy;Paris;Lassalle Maxime, Pascal Bessy;184;right;69;right;single;NA;NA;NA;Student;NA
+SHFINM1606198001;HAKKINEN, Henri;FIN;M;Joensuu Shooting Club;1980;1994;Joensuu, FIN;1993;Hollola, FIN;NA;Hollola, FIN;Juha Hirvi;189;right;86;right;married;300FR3X40,300STR3X20,AR60,FR3X40,FR60PR;2;MMS;Army Officer;NA
+SHSINM1005199701;CHAN, Keith;SIN;M;NA;1997;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHMGLM2206198901;BOLDBAATAR, Bishrel;MGL;M;TST Technik Sport Center;1989;2003;Ulaanbaatar, MGL;2003;Ulaanbaatar, MGL;Adilibish;MGL;Undral Bat;183;right;68;right;single;AR60,FR60PR;NA;Bachelor Degree;Athlete;NA
+SHMEXM0108199701;VALDES MARTINEZ, Jose Santos;MEX;M;Club Cinegetico a tiro de Coahula;1997;2009;Saltillo, MEX;2009;Saltillo, MEX;Blas Ruiz;Saltillo Coahula;Blas Ruiz;165;right;65;right;single;NA;NA;College;Student;NA
+SHSLOM3005197301;MARKOJA, Robert;SLO;M;Stefan Kovac Turnisce;1973;1985;Gomilica, SLO;1984;Gomilica, SLO;NA;Gomilica, SLO;Lojze Mikolic;175;right;76;right;single;300FR3X40,300FR60PR,300STR3X20,AR60,FR3X40,FR60PR;NA;Economics;Army Sports Instructor;NA
+SHARMM1409198001;LAUER, Christian;ARM;M;Yerevan Shooting School ARM, SV Erdbach GER, SV Wi;1980;2000;Ehringshausen, GER;1998;Herborn, Hessen, GER;Andranik Ayvazyan, Detlef Klein;Herborn, Hessen, GER;Seyran Nikoghosyan;186;right;88;right;married;NA;1;Administrative Director;Athlete, Privatier;NA
+SHFINM0611199201;BJORKBACKA, Jaakko;FIN;M;NA;1992;NA;Karstula, Finland;NA;Alajarvi;Toikko Hanna;NA;Hirvi Juha;NA;right;NA;right;single;NA;NA;NA;NA;NA
+SHBRNM1103199101;HAJI, Mahmood;BRN;M;Bahrain Shooting Club;1991;2014;Bahrain;2014;Hamad Town;Tanin;Hamad Town;Tanin;173;right;65;right;single;NA;NA;NA;Military;NA
+SHTJKM1807199601;EROV, Daler;TJK;M;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHRUSM2903197201;PRIKHODTCHENKO, Konstantin;RUS;M;CSKA;1972;1985;Belgorod, RUS;1984;Moscow, RUS;Victor Vlasov;Moscow, RUS;NA;185;right;83;right;single;AR60,FR3X40,FR60PR;NA;University;Military;NA
+SHKUWM1101197501;AL SUBAIE, Khaled;KUW;M;Kuwait Shooting Club;1975;2003;KUW;1998;KUW;Sergey Dovgal;KUW;Sergey Dovgal;NA;right;NA;right;married;AR60;1;Secondary school;Employee;NA
+SHITAM2504198101;PAPPALARDO, Enrico;ITA;M;Gr. S.P. Marina Militaire;1981;1999;Catania, ITA;1993;Lucca, ITA;NA;Lucca, ITA;Gaby Bullman;173;right;65;right;married;FR3X40,FR60PR;NA;high secondary school;Military;NA
+SHJPNM1704197901;YAJIMA, Midori;JPN;M;NA;1979;1995;Ibaraki, JPN;1995;Saitama, JPN;Ryohei Koba;Saitama, JPN;Thomas Farnik;170;right;80;right;married;AR60,FR3X40,FR60PR;3;High School;Military;NA
+SHEGYM2912198201;MORAD, Ahmed;EGY;M;Army Shooting Club;1982;2006;Giza, EGY;2006;Giza, EGY;Mohamed Amer;Giza, EGY;Mohamed Amer;172;right;77;right;married;AR60;1;NA;Officer;NA
+SHNORM2804198801;BAKKEN, Ole Magnus;NOR;M;Stange;1988;2006;Hamar;2001;Romedal;Ole Kristian Bakken, Heinz Rinkemeier;Oslo;Oyvind Sirrvaag;193;right;108;right;NA;FR3X40,FR60PR;NA;NA;Student;NA
+SHARMM0108199601;BABAYAN, Hrachik;ARM;M;Yerevan Shooting School;1996;2012;Yerevan;2010;Yerevan;Andranik Ayvazyan;Yerevan;Seyran Nikoghosyan;172;right;65;right;single;NA;NA;NA;pupil;NA
+SHTURM0204197801;OZTURK, Halil Ibrahim;TUR;M;Jandarna Gucu;1978;2002;Sivas, TUR;2002;Sivas, TUR;Muhammed Topal;Diyarbakir, TUR;NA;173;right;89;right;married;AR60;2;University;Non commissioned officer (NCO);NA
+SHBANM1304199601;MUNNA, Md Rabbi Hasan;BAN;M;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHJPNM1001198401;MATSUMOTO, Takayuki;JPN;M;Self Defence Forces Shooting Team;1984;1999;Nagasaki, JPN;1999;Nagasaki, JPN;Rhohei Koba;Saitama, JPN;Ryohei Koba;167;right;65;right;married;AR60,FR3X40,FR60PR;NA;University;Army;NA
+SHKSAM2806197603;AL HARBI, Hussain;KSA;M;NA;1976;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHKAZM0901198401;KLEIMYONOV, Alexey;KAZ;M;NA;1984;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHSRBM1609199701;JOVANOVIC, Stevan;SRB;M;NA;1997;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHUKRM1704199301;KULISH, Serhiy;UKR;M;NA;1993;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR60,FR3X40,FR60PR;NA;NA;NA;NA
+SHIRIM1902199201;JAFARIPOUYA, Mahdi;IRI;M;Zahedan;1992;2009;Zahedan, Iran;2007;Zahedan, Iran;NA;Iran;Laszlo Szucsak;175;right;66;right;single;NA;NA;Pre-University;Athlete;NA
+SHSUIM1106198201;BEYELER, Simon;SUI;M;Sportschützen Tafers, Kleinkalibersch. Atterswil;1982;1996;Bern, SUI;1994;Schwarzenburg, SUI;Roger Chassat;NA;Roger Chassat;170;right;63;right;single;AR60,FR3X40,FR60PR;NA;NA;Bank Clerk;NA
+SHSVKM1112198401;BALAZ, Zoltan;SVK;M;VSC Dukla BB;1984;1997;V.Krtis, SVK;1997;V.Krtis, SVK;P. Salaj;Bratislava, SVK;J. Gönci;175;right;80;right;single;AR60,FR3X40,FR60PR;NA;Secondary school;Sports instructor;NA
+SHSWEM1405199201;PERSSON, Jorgen;SWE;M;NA;1992;2009;Östersund;2008;Hökrattnet;NA;NA;Mats Eriksson;181;right;91;right;single;NA;NA;NA;Student;NA
+SHSWEM0104198501;JONSSON, Karl Johan;SWE;M;NA;1985;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR60,FR3X40,FR60PR;NA;NA;NA;NA
+SHBULM2912198701;RIZOV, Anton;BUL;M;CSKA;1987;2004;Sandansky, BUL;2000;Sofia, BUL;Veselin Petkov;BUL;N. Lecher;170;right;70;right;single;AR60;NA;NA;NA;NA
+SHTKMM1005197101;PIREKEYEV, Igor;KAZ;M;Sport Club Arms;1971;1986;TKM;1986;Almaty, KAZ;Grenadiy Nasonov, Lapidus Stanislav;KAZ;Yunusmetov Anvar;184;right;80;right;married;AR60,FR3X40,FR60PR;2;Institute of Sport;Coach;NA
+SHTUNM0506197801;KHEMIRI, Seifeddine;TUN;M;NA;1978;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHHUNM1402199701;PENI, Istvan;HUN;M;UTE;1997;2009;Budapest, HUN;2009;Budapest, HUN;Edit Kissne Oroszi and Toth Jozsef;Budapest, HUN;Csaba Gyorik;176;right;62;right;single;NA;NA;NA;Student;NA
+SHOMAM2702198601;AL NAABI, Salim Ali;OMA;M;Ghala;1986;2010;Alhamra, OMA;1900;Alhamra, OMA;Hilal Alrasheedi;Alhamra, OMA;NA;175;right;75;right;married;NA;NA;Diploma;Athlete;NA
+SHKUWM1306198701;ALHARBI, Abdullah;KUW;M;NA;1987;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHFRAM0505198901;MONNIER, Jeremy;FRA;M;St. Pontarlier;1989;1997;Pontarlier;1997;Pontarlier;NA;Lille, FRA;Viller Eric / Bessy Pascal;175;right;64;right;single;AR60,FR3X40,FR60PR;NA;Teacher of Sport;Student;NA
+SHAUTM2601198601;ZOTT, Georg;AUT;M;Söller Sportschützen;1986;NA;Kufstein;NA;Söll;Embachen Martin;Soell;Hermann Rainer;180;right;70;right;NA;NA;1;NA;Engineer;NA
+SHHUNW2611199101;ZWICKL-VERES, Kata;HUN;W;BHSE;1991;2007;Budapest, HUN;2004;Budapest, HUN;Eva Joo;NA;Csaba Györik;161;right;53;right;single;AR40;NA;High School;Student;NA
+SHIRIW0906199601;KHEDMATI, Najmeh;IRI;W;NA;1996;2010;Birjand;2011;Birjand;Mrs. Maghsoudi;Iran;Elham Hashemi, Laszlo Szucsak;160;right;60;right;single;NA;NA;High School student;Student;NA
+SHSRBW2409199701;BABIC, Milica;SRB;W;SC Palilula;1997;2011;Belgrade;2010;Belgrade;Bauer Brankica;Belgrade;Srecko Pejovic;175;right;61;right;single;NA;NA;X High School M.Pupin;Student;NA
+SHITAW1212199101;PICA, Martina;ITA;W;Fiamme Oro;1991;2004;Rome, ITA;2004;Rome, ITA;Alfonso Ricci;Rome, ITA;Alfonso Ricci, Gaby Buehlmann;161;right;NA;right;NA;NA;NA;NA;Shooter;NA
+SHUAEW1305198001;AL BADI, Afra;UAE;W;NA;1980;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHFINW0310199301;LANGSTROM, Katarina;FIN;W;Kyrkslätt Skytteförening;1993;2007;Kirkkonummi;2005;Kirkkonummi;ARi Dufvelin;NA;Juha Hirvi;174;right;65;left;single;NA;NA;NA;Student;NA
+SHSLOW3007199201;JUVAN, Nina;SLO;W;Olimpija;1992;2007;Ljubljana;2006;Ljubljana;Alojz Mikolic;SLO, Ljubljana;Alojz Mikolic;167;right;61;right;NA;AR40;NA;NA;NA;NA
+SHNEDW0305199401;SMEETS, Pea H M;NED;W;S.V. De Grensstreek;1994;2005;Belfeld;2005;Belfeld;Danny Smeets;Arnhem;NA;170;right;NA;right;single;NA;NA;HAN University of applied sciences;Student;NA
+SHGERW1609198201;ENGLEDER, Barbara;GER;W;Bergschuetzen Voglarn;1982;1994;Eggenfelden, GER;1994;Triftern, GER;Manfred Scherz;Furth, GER;Claus-Dieter Roth;162;right;68;right;single;AR40,STR3X20,STR60PR;NA;High School;Soldier;NA
+SHGERW0106198801;MAGER, Jessica;GER;W;Post SV Duesseldorf;1988;2002;Solingen, GER;2000;Solingen, GER;Manfred Welbers;NA;Claus-Dieter Roth;168;right;58;right;single;AR40;NA;NA;Student;NA
+SHCROW0806199201;PEREC, Tanja;CRO;W;Varazdin;1992;2004;Varazdin;2002;Varazdin;Josip Plecko;Varazdin;Ivan Cvitak;168;right;71;right;single;AR40;NA;NA;Student;NA
+SHCROW3011199301;BERIC, Masa;CRO;W;NA;1993;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHMASW2812198501;ZULKIFLI, Muslifah;MAS;W;National Shooting Association of Malaysia;1985;2002;Penang, MAS;2001;Penang, MAS;Saidov Isroil, Natalia Zhukava;MAS;Natalia Zhukava;156;right;49;right;single;AR40,STR3X20;NA;Diploma in Sports Science;Athlete, Student, Naval officer;NA
+SHKAZW0209199401;KOROL, Yelizaveta;KAZ;W;Dinamo;1994;2009;KAZ;2006;Shymkent, KAZ;Yunusmetov Anvar;KAZ;Yunusmetov Anvar;167;right;65;right;married;NA;NA;NA;Athlete;NA
+SHDENW1807199001;PETERMANN, Line Fredensborg;DEN;W;NA;1990;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR40;NA;NA;NA;NA
+SHAUTW2406198001;TIME, Regina;AUT;W;SG Puchheim 1907;1980;1999;Voecklabruck, AUT;1991;Attnang-Puchheim, AUT;Hermann Time;Attnang-Puchheim, AUT;NA;167;right;65;right;single;AR40,STR3X20,STR60PR;NA;Master degree;Teacher;NA
+SHRUSW2407198701;SUSHKO, Anna;RUS;W;Dinamo;1987;2003;NA;1900;Same, Russia;Aleynicov, E.;Moscow, Russia;A.E. Ananiev;166;right;51;right;married;AR40,STR3X20,STR60PR;NA;Lawer;Shooter;NA
+SHTJKW1505200001;LAGUTENKO, Malika;TJK;W;NA;2000;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHJPNW1408198701;NAKAMURA, Yuka;JPN;W;NA;1987;2009;Kyoto, JPN;2003;Fukuoka, JPN;NA;Fukuoka, JPN;Thomas Farnik;163;right;NA;right;single;AR40,STR3X20;NA;University Chuo;Office worker;NA
+SHECUW0802198801;LOPEZ CARRILLO, Giovanna Paola;ECU;W;NA;1988;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHSUIW1605199201;MISCHLER, Jasmin;SUI;W;SS Thorshaus;1992;2007;Bern, SUI;2005;Bern, SUI;NA;NA;Roger Chassat;169;right;NA;right;NA;AR40;NA;NA;Cook;NA
+SHSVKW2304198401;DEMJEN PESKOVA, Daniela;SVK;W;Police Sports Centre;1984;1994;Bratislava, SVK;1994;Vistuk, SVK;Michal Slavkousky;Vistuk, SVK;Michal Slavkosky;168;right;52;right;married;AR40,STR3X20,STR60PR;1;Secondary School;Athlete;NA
+SHESTW2006199401;KOLJUHHINA, Valeria;EST;W;NA;1994;2008;Narva, EST;2005;Narva, EST;Alexander Makarov;Narva, EST;NA;168;right;52;right;single;NA;NA;NA;Student;NA
+SHCANW0903199401;DENEKA, Connor Elizabeth;CAN;W;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHJPNW0303198101;IWATA, Seiko;JPN;W;Hitachi Systems;1981;2002;Aomori, JPN;1996;Sendai, JPN;Yoko Minamoto;Tokyo, JPN;Tomas Farnik;163;right;55;left;single;AR40,STR3X20,STR60PR;NA;University;Office worker;NA
+SHUKRW0207197401;KALNYSH, Natallia;UKR;W;NA;1974;1988;Krivoy Rog, UKR;1986;Dnepropetrov, UKR;Oleksandr Skuratovskij;NA;Stepan Starinskij;168;right;65;right;single;AR40,STR3X20,STR60PR;NA;NA;Military;NA
+SHITAW0707198701;NARDELLI, Elania;ITA;W;Marina Militare;1987;2000;Foggia, ITA;2000;NA;Gaby Buehlmann;Rome, ITA;Gaby Buehlmann;160;right;NA;right;single;AR40;NA;High school;Athlete and Student;NA
+SHQATW1104199701;AL-MUTAWA, Aisha;QAT;W;NA;1997;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHIRIW3105198201;AHMADI, Elaheh;IRI;W;Land Force Army;1982;2004;Tehran, IRI;2002;Tehran, IRI;Moustafa Ahmadi;IRI;Laszlo Szucsak;160;right;60;right;married;AR40,STR3X20,STR60PR;1;BA Physical Education;Athlete;NA
+SHVIEW2512199701;PHUNG, Thi Lan Huong;VIE;W;NA;1997;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHVENW1207199401;MARQUEZ VIVAS, Dairene;VEN;W;Orion;1994;2009;Barinas, Venezuela;2007;Aragua;Valerio Mendez;Aragua, Venezuela;Miguel Oliva;158;right;51;right;single;NA;NA;NA;Estudean;NA
+SHESTW0410196801;VORONOVA, Anzela;EST;W;Narva Shooting Club;1968;1981;Narva, EST;1981;Narva, EST;Aleksander Makarov;Narva, EST;NA;170;right;65;NA;married;AR40,STR3X20,STR60PR;1;NA;Military;NA
+SHEGYW1905199401;TAYEE, Merna;EGY;W;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHPOLW0112199101;WRONSKA, Paula;POL;W;Lider Amicus Lebork;1991;2006;Lebork;2006;Lebork;Robert Biczkowski;Wroclaw, POL;Andrej Kijowski;164;right;59;right;single;AR40;NA;NA;NA;NA
+SHSWEW1607199001;BLOM, Karin;SWE;W;Jönköping SG;1990;2003;Boden, Sweden;2000;Haparanda;Magnus Gustavsson;Jönköping;Mats Eriksson;170;right;70;right;NA;NA;NA;yes;Building Engineer;NA
+SHVIEW0806199401;NGUYEN, Thi Ngan;VIE;W;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHTKMW1008198301;ARABOVA, Yekaterina;TKM;W;NA;1983;1997;Ashgabat, TKM;1997;Ashghbat, TKM;Arabov Valleriy;NA;Arabov Valleriy;170;right;54;right;divorced;AR40,STR3X20,STR60PR;NA;Institute Sport and Tourism;NA;NA
+SHARMW1604199501;MIKAYELYAN, Mariam;ARM;W;NA;1995;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHLTUW3112199301;JANCEVIC, Jolanta;LTU;W;NA;1993;2005;Vilnius, LTU;2000;Vilnius, LTU;Miroslav Lescevski;Vilnius, LTU;NA;171;right;55;right;single;NA;NA;NA;Student;NA
+SHTUNW2001198001;RIAHI, Meriam;TUN;W;NA;1980;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHSVKW0210199101;HYBLEROVA, Jana;SVK;W;Police Sports Centre;1991;2005;Poprad;2003;Poprad;F. Fecko;Poprad;Jozef Gönci;173;right;60;right;single;AR40;NA;BC.;Student;NA
+SHFRAW1202199401;HUARD, Samira;FRA;W;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHMKDW2303199601;IVANOVSKA, Ana;MKD;W;Sport Shooting Club REK Bitola;1996;2014;Bitola;2009;Bitola;Ivancho Ivanovski;Macedonia;Stevan Krsteski;173;right;62;right;single;NA;NA;Architecture;Student;NA
+SHNEDW2604198601;BURINK, Jessica;NED;W;NA;1986;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR40;NA;NA;NA;NA
+SHUAEW1207197801;AL MARZOUQI, Shamsa;UAE;W;NA;1978;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHGBRW0203199601;SYKES, Larissa Nadya;GBR;W;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHCHNW0302198902;ZHANG, Binbin;CHN;W;NA;1989;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHESPW1806198601;VEGA, Nuria;ESP;W;Club de Tir Olimpico Mallorca;1986;2000;Palma de Mallorca, ESP;1998;Marratxi, Mallorca, ESP;Jose Fernandez;Marratxi, Mallorca, ESP;Piotr Kosmatko;158;right;54;right;single;AR40,STR3X20,STR60PR;NA;University;Sport Psychologist;NA
+SHROUW3103199201;TUDOSE, Roxana;ROU;W;NA;1992;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHBANW0512199301;SULTANA, Sadiya;BAN;W;NA;1993;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHDENW1601198501;ANDERSEN, Stine;NED;W;ARK;1985;2007;Nykebing Sjalland, DEN;1995;Bemmel;Mikkel Korneliusen;the Netherlands;Enrico Friedemann;168;right;NA;right;NA;AR40;NA;Marketing Management AP Degree;Freelancer;NA
+SHBIHW1506199001;KITIC, Darija;BIH;W;Geofon;1990;1999;Teslic;1999;Teslic;Neven Rasic;NA;Amir Dautovic;170;right;60;NA;single;NA;NA;economics;Student;NA
+SHUAEW1704199601;TAHLAK, Yasmin;UAE;W;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHPHIW1006199701;ACUNA, Amparo Teresa;PHI;W;PNSA, PB Dionisio Gun Club;1997;2012;Mandaluyong City, Manila, PHI;2012;Manila, PHI;Julius Valdez, Andres Auina;Pasig City;Julius Valdez;158;right;64;right;single;NA;NA;High School;Student;NA
+SHCANW1610199301;DERY, Audrey-Anne;CAN;W;NA;1993;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHCHNW0605198901;YI, Siling;CHN;W;NA;1989;2009;Hunan, CHN;2003;Hunan, CHN;Long Shou Bo;Guang Dong, CHN;Zhang Qiu Yuan;165;left;51;right;single;NA;NA;Secondary School;Athlete;NA
+SHUSAW2105199101;BEARD, Sarah;USA;W;NA;1991;2006;Indianapolis, IN;2006;Danville, IN;Bill Beard;Danville, IN;Dave Johnson;172;right;60;left;single;NA;NA;Bachelor of Arts;Athlete;NA
+SHSWEW1603198901;HAGGLUND, Maria;SWE;W;Ramseletors Skf;1989;1996;Umea, Sweden;1996;Vindeln, Sweden;Bertove Hägglund;Vindeln;Mats Eriksson;165;right;NA;right;NA;AR40;NA;NA;Nurse;NA
+SHIRIW0507198401;EMAMGHOLI, Narjes;IRI;W;NA;1984;2010;Amol, Iran;2008;Tehran, Iran;Laszlo Szucsak;Iran;Laszlo Szucsak;160;right;59;right;single;NA;NA;Bachelor Degree;Student;NA
+SHOMAW1704198501;AL DHAHOURI, Amina;OMA;W;Oman Shooting Team;1985;2013;Oman, Khasab;2007;Muscat;Coach Mohdalhinai;Oman;Mohammed Hamed;164;right;55;right;single;NA;NA;Secondary;Air Force Oman;NA
+SHTURW0604198901;YILDIZ, Zeynep;TUR;W;TSK Sport gucu;1989;2007;Eskisehir, TUR;2007;Tunali, TUR;Salih Yildiz;Ankara, TUR;Boris Soze;163;right;56;left;married;NA;NA;University, Military Academy;Army Officer;NA
+SHAUSW1511199801;ADAMS, Emma;AUS;W;Reynella Smallbore & Air Rifle;1998;2011;NA;2011;Adelaide SA;Petra Kurka, Carrie Quigley;Old Reynella;Carrie Quigley;NA;right;60;right;single;NA;NA;NA;Student;NA
+SHDENW1411198901;BUCH, Laura;DEN;W;NA;1989;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR40;NA;NA;NA;NA
+SHBLRW0511199001;SHCHERBATSEVICH, Sviatlana;BLR;W;Army;1990;2003;Rechitsa, BLR;2002;Brest, BLR;Faminykh Andrey;Brest, BLR;Igor Basinsky;168;right;55;right;married;AR40;1;NA;Student;NA
+SHJPNW1612198401;KONOMOTO, Maki;JPN;W;Hitachi Systems;1984;2005;Saitama, JPN;1999;Saitama, JPN;Minamoto Yoko;Saitama, JPN;Tomas Farnik;161;right;52;left;married;AR40,STR3X20;NA;University;Office worker;NA
+SHLTUW0710199301;CESYNAITE, Jurate;LTU;W;Alytus ASRC;1993;2012;Alytus, LTU;2009;Alytus, LTU;Ceslovas Pavilonis;Saltinui 10-16;Ceslovas Pavilonis;169;right;56;right;single;NA;NA;NA;Student;NA
+SHSINW2710199901;VELOSO, Martina Lindsay;SIN;W;NA;1999;2012;Singapore;2012;Singapore;Lim Chea Rong;NA;Lim Chea Rong;159;right;55;right;single;NA;NA;NA;Student;NA
+SHSWEW0108199201;JOHANSSON, Lotten;SWE;W;Heby SKF;1992;2010;Vittinge;2003;Strömsund;NA;NA;Mats Eriksson;173;left;NA;left;NA;NA;NA;NA;NA;NA
+SHKUWW0603198701;ARZOUQI, Maryam;KUW;W;Kuwait Shooting Sport Club;1987;2004;Kuwait City;2004;Kuwait City;Anna Belakova;Al-Adan;Anton Belak;163;right;55;right;single;AR40;NA;College for Business;Police;NA
+SHBANW2403198801;RATNA, Sharmin;BAN;W;NA;1988;NA;Magura;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHMASW2409198201;MOHD TAIBI, Nur Suryani;MAS;W;National Shooting Association of Malaysia;1982;1999;Perak, MAS;1997;Perak, MAS;Natalia Zukrokova;Kuala Lumpur, MAS;Saidov Isroil;168;right;83;right;married;AR40,STR3X20,STR60PR;1;Diploma (Sports science);Athlete, Officer;NA
+SHNORW1011199301;WESTERHEIM, Malin;NOR;W;Krapfoss;1993;2004;Fredrikstad;2003;Moss;NA;Fredrikstad;Anne Grethe Jeppesen;180;right;NA;right;single;NA;NA;Bachelor in child welfare;NA;NA
+SHKAZW0109197001;DOVGUN, Olga;KAZ;W;Dinamo;1970;1987;Shimkent, KAZ;1984;Astana, KAZ;Melstov Yuriy;KAZ;Galina Korchma;165;right;55;right;married;AR40,STR3X20,STR60PR;2;NA;Athlete;NA
+SHHUNW1906199201;BIATOVSZKI, Mira;HUN;W;UTE;1992;NA;NA;NA;NA;Oroszi Edit;NA;Oroszi Edit;160;right;NA;right;NA;AR40;NA;High School;Student;NA
+SHEGYW1005199301;AMER, Nourhan;EGY;W;NA;1993;2009;Mnofiya;2008;Cairo;Mohamed Amer;NA;Mohamed Amer;167;right;58;right;single;NA;NA;University;NA;NA
+SHMASW1803199001;ABDUL HALIM, Nur Ayuni Farhana;MAS;W;National Shooting Association of Malaysia;1990;2007;Pahang, MAS;2006;MAS;Natalya Zhukova;MAS;Natalya Zhukova;167;right;63;right;married;AR40;NA;Senior Cambridge;Student;NA
+SHQATW2906198801;ALMOHAMMED, Shaikha;QAT;W;Qatar Shooting Association;1988;2003;QAT;NA;Doha, QAT;Nicole Letchev;QAT;Nicole Letchev;155;right;65;right;single;AR40,STR3X20;NA;High school;NA;NA
+SHCHNW1612198401;WU, Liuxi;CHN;W;NA;1984;1999;Shan Xi, CHN;1998;Shan Xi, CHN;NA;NA;Shao Ran Hua;164;right;57;right;single;AR40,STR3X20;NA;Technical Secondary school;Student;NA
+SHSUIW1108198501;BEYELER, Irene;SUI;W;Sportschützen Taters, Kleinkalibersch. Alterswil;1985;2000;Schwarzenburg, SUI;1999;Schwarzenburg, sUI;Simon Beyeler;NA;Roger Chassat;164;right;53;right;single;AR40,STR3X20,STR60PR;NA;NA;Banker;NA
+SHESPW2407199101;ALVAREZ, Ana;ESP;W;Federation Cantabra;1991;NA;Santander, Cantabria;NA;Santander;Manuel Sainz Diego;NA;Piotr Kosmatko;160;right;56;NA;NA;NA;NA;University;Student;NA
+SHQATW2811199701;AL SUWAIDI, Aisha;QAT;W;NA;1997;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHEGYW2107199001;HUSSEIN, Mennat Allah;EGY;W;NA;1990;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHUSAW1608199301;MADDALENA, Sagen;USA;W;NA;1993;2013;Woodlang, CA;2006;Groveland, CA;Dan Jorden;NA;Tom;162;right;50;right;single;NA;NA;College;College Student;NA
+SHUKRW1710196301;LESKIV, Lessia;UKR;W;Military Sports Club;1963;1975;Ivano-Frankirsk, UKR;1975;Lvov, UKR;Vysochin;NA;A. Kuksa;173;right;58;right;married;AR40,STR3X20,STR60PR;1;NA;Military Officer;NA
+SHSINW2409199001;SER, Xiang Wei Jasmine;SIN;W;NA;1990;2004;SIN;2003;SIN;NA;SIN;Kirill Ivanov;155;right;48;right;single;NA;NA;University of Singapore;Student;NA
+SHFINW2409198401;PITKANEN, Hanna;FIN;W;NA;1984;1995;Turku, FIN;1995;Turku, FIN;Juha Hirvi, Jukka Salonen;Kankaanpaa, FIN;Juha Hirvi;168;right;NA;right;single;AR40,STR3X20,STR60PR;NA;NA;Shooter;NA
+SHISRW2804199501;MEDVINER, Polina;ISR;W;NA;1995;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR40;NA;NA;NA;NA
+SHBIHW2502199701;DJEKANOVIC, Tatjana;BIH;W;Geofon;1997;2011;Banjaluka;2009;Teslic;Neven Rasic;Teslic;Neven Rasic;167;right;52;right;single;NA;NA;NA;Student;NA
+SHFINW0710198201;ETULA, Hanna;FIN;W;Lahti Shooting Club;1981;1992;Pirkkala FIN;1992;Hollola, FIN;Juha Hirvi, Villa Häyrinen;Hollola, FIN;Juha Hirvi;173;right;60;right;single;AR40,STR3X20,STR60PR;1;NA;Physiotherapist;NA
+SHBOLW0301198401;GARCIA KRADOLFER, Carina Ana;BOL;W;Associacion Pacena Tiro Deportivo;1984;2001;Lima, PER;2001;La Paz, BOL;NA;Switzerland;NA;160;right;55;right;NA;AR40,STR3X20;NA;University (Master);Student;NA
+SHOMAW3003198501;AL JAHAFI, Khadija;OMA;W;Oman Shooting Team;1985;2013;Snaw, Oman;2009;Muscat;Mohammed Hamed;Oman;Mohammed Hamed;164;right;65;right;single;NA;NA;Secondary;Air Force Oman;NA
+SHFRAW1006199601;WINTENBERGER, Emilie;FRA;W;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHPORW2305197501;ANTUNES, Sara;POR;W;Ginasio Clube Portugues;1975;1992;Cascais, POR;1992;Lisbon, POR;Leif Steinar Rolland;Entroncamento, Portugal;NA;162;right;52;right;married;AR40,STR3X20,STR60PR;NA;Veterinary Medicine;Veterinary Surgeon;NA
+SHNORW1012199401;BUSK, Sina Oleane;NOR;W;Ostre Romerike MSL;1994;2004;Oslo;2003;Raanaasfoss;NA;NA;Anne Grethe Jeppesen;162;left;NA;right;single;NA;NA;NA;NA;NA
+SHPOLW0310198101;BOGACKA, Sylwia;POL;W;ZKS Gwardia Ziewna Gora;1981;1994;Jelenia Gora, POL;1994;Jelenia Gora, POL;Ryszard Taysner;Zielona Gora, POL;Andrzey Kijowski;162;right;59;right;single;AR40,STR3X20,STR60PR;NA;NA;Soldier;NA
+SHTJKW0702199901;SHOMAKHMADOVA, Anisa;TJK;W;NA;1999;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHOMAW2608198901;AL HASANI, Siham;OMA;W;NA;1989;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHVIEW0110199101;VU, Thi Huong;VIE;W;NA;1991;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHKAZW2108199001;MALINOVSKAYA, Alexandra;KAZ;W;Dinamo;1990;2006;Almaty, KAZ;2004;Almaty, KAZ;Konstantin Malinovskiy;Almaty, KAZ;Yunusmetov Anvar;176;right;65;right;single;AR40,STR3X20,STR60PR;NA;NA;Athlete;NA
+SHUSAW1202199101;SCHERER, Sarah;USA;W;NA;1991;2001;NA;2000;NA;NA;Colorado Springs, CO;Dave Johnson;NA;right;NA;right;NA;NA;NA;NA;Health Coach;NA
+SHRUSW1903199201;KHOROSHEVA, Polina;RUS;W;CSKA;1992;2008;Kalininetz, RUS;2007;Kalininetz, RUS;Olga Lykina;NA;Andrey Ananiev;162;right;58;right;NA;NA;NA;NA;Shooter;NA
+SHRUSW2708198201;YUSHKOVA, Tatiyana;RUS;W;Central Army Sport Club;1982;1997;Novokuznetsk, RUS;1998;Moscow, RUS;Raenko Igor;RUS;Ananev Andrey;172;right;59;right;married;AR40,STR3X20,STR60PR;NA;High school;Coach;NA
+SHUKRW2405199201;GOLUBCHENKO, Olga;UKR;W;Dinamo;1992;2006;Ukraine, Dnepropetzousk;2001;NA;Liushic;Ukraine;Ukr Shezba;170;right;58;NA;NA;NA;NA;NA;police;NA
+SHFRAW1207197601;BRIZE, Laurence;FRA;W;Tir Sportif Beaulieu Emblavez;1976;1986;Le Puy en Velay, FRA;1986;Saint-Vincent, FRA;Chassat Roger, Bulhmann Gaby;Saint-Vincent, FRA;Eric Viller;158;right;52;right;single;AR40,STR3X20,STR60PR;NA;NA;Coach;NA
+SHMEXW1203199701;BORGO TORRES, Lia;MEX;W;NA;1997;2008;Queretaro, MEX;2007;Queretaro, MEX;Daniel Urquiza;Mexico;NA;165;right;NA;right;NA;NA;NA;Highschool;Student;NA
+SHTJKW2709199601;LAPSHINA, Lyubov;TJK;W;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHESTW2101199301;SOBOLEVA, Julia;EST;W;Narva LSK;1993;2008;Narva, EST;2005;Narva, EST;A. Makarov;Narva, EST;A. Makarov;165;right;67;right;single;AR40,STR3X20,STR60PR;NA;NA;Student;NA
+SHSLOW1808199301;MUHIC, Ziva;SLO;W;Postojna;1993;NA;Postojna, SLO;NA;Postojna, SLO;Andreja Vlah;Postojna, SLO;Andreja Vlah;167;NA;NA;NA;NA;NA;NA;NA;Student;NA
+SHCZEW1711198301;EMMONS, Katerina;CZE;W;SKP Rapid Plzen;1983;1998;Plzen, CZE;1997;Plzen, CZE;Milan Bakes;Plzen, CZE, Grand Rapids, MN, USA;Lubos Opelka;167;right;54;right;married;AR40,STR3X20,STR60PR;2;University;Athlete, physical therapist;NA
+SHPOLW2002198101;NAGAY, Agnieszka;POL;W;KS Orzel Lodz;1981;1997;Lodz, POL;1997;Lodz, POL;Tomasz Lukaszewski;Lodz, POL;Andrzej Kijowski;169;right;59;right;married;AR40,STR3X20,STR60PR;NA;Master of Biochemistry, doctor of science of bioph;Soldier;NA
+SHESPW1605198001;BARRUGUES ALVINA, Esther;AND;W;Club Andorra Tir Precisio;1980;NA;Barcelona;1995;Andorra La Vella;NA;Andorra;NA;166;left;60;left;single;AR40,STR3X20,STR60PR;NA;High School;Watchmaker;NA
+SHNORM1206199101;HAGELUND, Endre;NOR;M;NA;1991;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHGERM0502198801;JUNGHAENEL, Henri;GER;M;SV Rai-Breitenbach;1988;1998;Leipzig, GER;1998;Breuberg, GER;Bill Murray;Breuberg, GER , Darmstadt, GER;CD Roth;179;right;NA;right;single;FR60PR;NA;NA;Student;NA
+SHRUSM0710198701;KAMENSKIY, Sergey;RUS;M;CSCA;1987;2001;Biysk, RUS;1999;Biysk, RUS;Kamensky Igor, Krainov Eugeniy;RUS;Krainov Eugeniy;177;right;65;right;married;AR60,FR3X40,FR60PR;NA;Voronezhstate Inistitute;Sportsmen;NA
+SHESPM1503198901;LOPEZ, Javier;ESP;M;Murcia Club de Tiro;1989;2002;Murcia, ESP;2002;Madrid, ESP;Piotr Kosmatko;NA;Piotr Kosmatko;170;right;56;right;single;AR60;NA;Elementary;Student;NA
+SHFINM2912199401;STENSTROM, Joni;FIN;M;Raseborgs Skyttar;1994;2002;Tammisaari;2000;Tammisaari;Pasi Wedman;Raasepori;Juha Hirvi, Pasi Wedman;192;right;96;right;single;NA;NA;High School;NA;NA
+SHITAM0101199301;WEITHALER, Simon;ITA;M;Esercito;1993;2008;NA;2004;Merano;NA;Innsbruck, ;Gaby Bühlmann;184;right;NA;right;single;AR60;NA;High School;Student;NA
+SHSLOM0710198801;BARIC, Matic;SLO;M;NA;1988;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHITAM1412199401;BACCI, Lorenzo;ITA;M;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHAUTM2102199401;RUMPLER, Gernot;AUT;M;priv kvk Schützenverein Mittersill;1994;2004;Mittersill;2001;Uttendorf;NA;NA;Bichler Hubert;188;right;83;right;single;NA;NA;NA;Weapon Engineer;NA
+SHNORM1105199401;SORLI, Hakon;NOR;M;Kisen;1994;2004;Kangsuinger;2004;Kristicnsand;NA;Skedsmo, Nor;Anne Grethe Jeppsen;180;right;NA;right;single;NA;NA;NA;Security Officer;NA
+SHMNEM2003199601;TOMOVIC, Vojin;MNE;M;Centar;1996;2010;Montenegro, MNE;2010;Podgorica, MNE;Zeljko Tomovic;Podgorica, MNE;Stanko Laban;185;right;76;right;single;NA;NA;NA;Student;NA
+SHCROM3101199601;PETRICEVIC, Ivan;CRO;M;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHRUSM1811199001;DRYAGIN, Alexander;RUS;M;Dinamo;1990;2002;Kushva, RUS;2002;Domodedovo, RUS;Aleynikov;NA;Eugeniy Krainov;179;right;79;right;single;AR60,FR3X40;NA;NA;Shooter;NA
+SHESPM1009198301;MARTIN, Roberto;ESP;M;Club Zamorano de Tiro Olimpico;1983;2001;Salamanca, ESP;1997;Valladolid, ESP;Piotr Kosmatko;Valladolid, ESP;Piotr Kosmatko;183;right;84;right;single;AR60,FR3X40,FR60PR;NA;Secondary;Police Officer;NA
+SHSLOM1605198401;JODL, Benjamin;SLO;M;SD I. POH. BAT. Ruse;1984;2000;Maribor;1999;Cinzat;NA;NA;NA;186;right;89;right;single;NA;NA;NA;NA;NA
+SHRUSM1903198301;SOKOLOV, Denis;RUS;M;CSKA;1983;1999;Irkutsk, RUS;1998;Dmitrov, Moskow region;V.V. Sokolov;Irkutsk, RUS;Kraynov E.;168;right;60;right;single;AR60,FR3X40,FR60PR;2;Hotel Business, Coach;Sportsmen;NA
+SHMTGM2004196501;TOMOVIC, Zeljko;MNE;M;Centar;1965;1982;Serbia;1982;Prijepolje;Stanko Laban;Podgorica;Stanko Laban;178;right;78;right;married;AR60;2;NA;Trainer ;NA
+SHCROM1308199801;PETANJEK, Borna;CRO;M;Duga Resa;1998;2010;Karlovac, CRO;2009;Duga Resa;NA;Duga Resa;NA;187;right;95;right;single;NA;NA;NA;Student;NA
+SHKAZM2012199101;MINDIYAROV, Ratmir;KAZ;M;Dinamo;1991;2009;KAZ;2006;Almaty, KAZ;Skiba Veronika, Andreev Vasiliy;KAZ;Nassonov Gennadiy;182;right;84;right;single;NA;NA;NA;Athlete;NA
+SHFINM0209199401;LEPPA, Aleksi;FIN;M;Hamina Shooting Club;1994;2003;Hamina Fin;2001;Helsinki, Fin;Marko Leppa;Hamina Fin;Juha Hirvi;169;right;65;right;single;NA;NA;Highschool;Student;NA
+SHCYPW2602196401;THEOFANOUS, Fani;CYP;W;NA;1964;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR40;NA;NA;NA;NA
+SHRUSW2503198301;NIZKOSHAPSKAIA, Alena;RUS;W;Army Sports Club;1983;2000;Pokrovka, RUS;1996;Khabarovsk, RUS;Goldobina T.V.;RUS;Anayev A.E.;160;right;54;right;single;AR40,STR3X20,STR60PR;1;High school;Sportsman National Team;NA
+SHCYPW2503198401;CONSTANTINOU, Marilena;CYP;W;NA;1984;1999;Nicosia, CYP;NA;Nicosia, CYP;NA;Nicosia, CYP;NA;165;right;58;NA;single;AR40;NA;High School;NA;NA
+SHDENW3011199001;MAENG, Rikke;DEN;W;Trehgje;1990;2013;Herning;2001;Sunos;NA;Sunos, DEN;Enrco Friedemann;166;right;NA;right;single;NA;NA;NA;NA;NA
+SHBULW2105198401;IVANCHEVA, Viktoria;BUL;W;SKSS Etar-100;1984;1997;Vratza, BUL;1997;Vratza, BUL;Yordanka Subrova;Sofia, BUL;Nikola Lechev;160;right;47;right;single;AR40,STR3X20,STR60PR;NA;University NSA;Student;NA
+SHAUTW0808199201;HOFMANN, Olivia;AUT;W;SG-Hoetting;1992;2009;Innsbruck, AUT;2005;Innsbruck, AUT;NA;Innsbruck, AUT;Hubert Bichler;163;left;57;right;single;NA;NA;A-Levels;Student;NA
+SHSUIW3006198101;MARGUET, Annik;SUI;W;Fribourg;1981;1996;Fribourg;1995;NA;NA;Misery;Roger Chassat;163;right;60;right;single;AR40,STR3X20,STR60PR;1;apprentice;Lab technician;NA
+SHITAW1403198501;SENA, Sabrina;ITA;W;Candela (FG);1985;1997;Foggia, ITA;1997;Candela, ITA;NA;Rome, ITA;Gaby Buhlmann;157;right;58;right;single;AR40,STR3X20,STR60PR;NA;High School;Shooter and Coach;NA
+SHGERW1408199101;STRAUB, Isabella;GER;W;MSG Munich;1991;2003;Ebersberg;2001;Kirchseeon;Mario Gonsierowski;Kirchseeon;Roth;160;right;NA;right;single;NA;NA;NA;NA;NA
+SHSINW1712199201;CHENG, Jian Huan;SIN;W;NA;1992;2006;SIN;2005;SIN;Kirill Ivanov;SIN;Gu Jong Qin;160;right;47;right;single;AR40;NA;Bachelors Degree;Student;NA
+SHMNEW2602199801;MILICKOVIC, Andjela;MNE;W;Centar;1998;2011;Podgorica, MNE;2011;Podgorica, MNE;Stanko Laban;Podgorica, MNE;Stanko Laban;155;right;54;right;single;NA;NA;NA;Student;NA
+SHDENW2909198701;HENRIKSEN, Gitte;DEN;W;Aarhus Riffelskytteklub, Denmark;1987;2003;Vifborg, Denmark;1998;Vifborg, Denmark;Mikkel Korneliussen;Copenhagen, Denmark;Enrico Friedemann;173;right;69;right;single;NA;NA;Land. Scient. Human Nutrition;Student;NA
+SHSRBW0106199101;BOGATINOVSKI, Tasana;SRB;W;SD Pahcevo 1813;1991;2004;Pahcevo;2004;Pahcevo;NA;NA;Srecko Pejovic;164;right;54;right;NA;NA;NA;IT Academy for Web Design;Graphic Designer/Web Programmer;NA
+SHBULW2007196901;LUKANOVA, Petya;BUL;W;AP Sport;1969;1986;Pazardjik;1982;Veliko Tarnovo;Aleksandar Lukanov;NA;Nikola Lechev;164;right;62;right;married;AR40,STR3X20,STR60PR;3;NA;Shooting Instructor;NA
+SHITAW1701199201;MESSAGGIERO, Jennifer;ITA;W;Marina Militare;1992;2006;Foligno;2006;S. Agata Di Puglia;Franz Zublasing;S. Agata Di Puglia;Alfonso Ricci / Gaby;161;right;52;right;single;NA;NA;Professional mechanic;Student;NA
+SHPOLW1103199301;IWASZUK, Zaneta;POL;W;UKS Kaliber Bialystok;1993;2007;Bialystok, POL;2006;Suprasl;Wlodzimierz Aleksiejuk;Poland;Andrzej Kijowski;170;right;54;left;single;NA;NA;NA;Student;NA
+SHBELW1111199501;SEMAIRE, Axelle;BEL;W;NA;1995;2010;NA;2008;NA;NA;NA;NA;163;left;NA;left;single;NA;NA;NA;Student;NA
+SHMASW3107198501;RAHIM RAJA, Shahera;MAS;W;National Shooting Association of Malaysia;1985;2004;Kuala Lumpur, MAS;2002;Penang, MAS;Natalia Zhukava, Saidov Isroil;Kuala Lumpur, MAS;Natalia Zhukova and Zaidov Israil;156;right;50;right;married;AR40;1;Degree in Business of Management;Athlete, Student, Naval officer;NA
+SHCZEW2502199301;VOGNAROVA, Gabriela;CZE;W;NA;1993;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR40;NA;NA;NA;NA
+SHCYPW1301199801;PANTELI, Artemis;CYP;W;NA;1998;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHHUNW2211198301;MISKOLCZI, Julianna;HUN;W;Komarom Varosi SE;1983;1997;Vac, HUN;1996;Budapest, HUN;Horvath Zsolt ;HUN;Oroszi Edit;156;right;48;right;married;AR40,STR3X20,STR60PR;1;College Degree;Coach;NA
+SHFINW2301199501;TATTARI, Saana;FIN;W;NA;1995;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHFRAW0908199201;OLRY, Jennifer;FRA;W;St Gunsbach;1992;2009;NA;2001;NA;NA;Strasbourg;Maxime Lassalle;160;NA;55;NA;single;NA;NA;BTS;Student;NA
+SHTPEM1801199301;CHEN, Chun An;TPE;M;NA;1993;2008;Tao Yuan,TPE;2007;Tao Yuan,TPE;NA;TPE;NA;172;right;62;right;single;NA;NA;University;Student;NA
+SHFRAM1006199401;BAUDOUIN, Brian;FRA;M;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHNORM3107199101;FLATLA, Oyvind;NOR;M;Kisen MSL;1991;NA;Gjovik;2000;Jessheim;NA;Jessheim;Anne Grete Jeppesen;183;right;NA;right;single;NA;NA;Bachelor of science Economics;SAP Consultant;NA
+SHJPNM2102197701;YAMASHITA, Toshikazu;JPN;M;NA;1977;1992;Tokushima, JPN;1992;Tokyo, JPN;Ryohei Koba;Saitama, JPN;Thomas Farnik;170;right;72;right;married;AR60,FR3X40,FR60PR;1;University College;Military;NA
+SHKORM0709198101;HAN, Jinseop;KOR;M;Chungnam Sports Council;1981;1996;Seoul, KOR;1995;Chungnam, KOR;Nam In Yeon;Seoul, KOR;Yoon Duk Ha;173;right;70;right;single;AR60,FR3X40,FR60PR;NA;NA;Athlete;NA
+SHMGLM1001199101;ENKHTUVSHIN, Sainkhuu;MGL;M;NA;1991;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;FR3X40;NA;NA;NA;NA
+SHUZBM1605198401;SAVINICH, Pavel;UZB;M;NA;1984;1997;NA;NA;Tashkent, UZB;A.A. Seffarov;NA;A.A. Seffarov;182;right;70;right;single;FR3X40,FR60PR;NA;NA;Athlete;NA
+SHJPNM2203198501;SHINOHARA, Akihiro;JPN;M;NA;1985;2000;Tokushima, JPN;2000;Tokushima, JPN;NA;Wakayama;Thomas Farnik;167;right;55;left;single;AR60;NA;University;NA;NA
+SHFRAM1908199401;RAYNAUD, Alexis;FRA;M;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHTPEM1205199301;CHUNG, Yang Yeh;TPE;M;NA;1993;NA;NA;NA;NA;NA;NA;NA;183;right;NA;right;single;NA;NA;NA;NA;NA
+SHUZBM0408199601;SKOROVAROV, Vadim;UZB;M;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHQATM2005199401;ALSUNAIDI, Mohammed Zain;QAT;M;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHTPEM2403199701;LU, Shao-Chuan;TPE;M;NA;1997;2008;Taiwan;NA;NA;NA;NA;NA;163;right;50;right;single;NA;NA;NA;Student;NA
+SHRUSM1108198201;KUZNETSOV, Stanislav;RUS;M;Dinamo;1982;1995;NA;1993;NA;Alecsandr Pozdeev;NA;A.A. Savrov;195;right;80;right;single;AR60,FR3X40,FR60PR;NA;NA;Policeman;NA
+SHKORM2905198701;KIM, Sang Do;KOR;M;NA;1987;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHKORM0702197701;LEE, Hyun Tae;KOR;M;KT;1977;1992;Seoul, KOR;1991;Namhae, KOR;Cha Young Chul;Gyeonggido, KOR;Yoon Duk Ha;175;right;80;right;married;AR60,FR3X40,FR60PR;1;University;Athlete;NA
+SHKORW2207198802;ROH, Bo Mi;KOR;W;NA;1988;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHUZBW1312198501;MAMEDOVA, Sakina;UZB;W;NA;1985;1998;NA;1998;NA;NA;Tushkent, UZB;NA;154;left;NA;right;NA;AR40;NA;NA;NA;NA
+SHTPEW1602198201;WU, Meng Jung;TPE;W;NA;1982;NA;Taiwan;NA;NA;NA;NA;NA;166;right;53;right;married;AR40;1;NA;NA;NA
+SHUZBW0709199201;FILIMONOVA, Mariya;UZB;W;Vatanparuar;1992;2006;UZB;2006;Taskent, UZB;A. Settarova ;Taskent, UZB;A. Settarova;162;right;51;left;single;AR40,STR3X20;NA;Univ. of Physical Culture;Student;NA
+SHJPNW2111199001;MATSUMOTO, Yasuyo;JPN;W;NA;1990;2006;Kumamoto, JPN;2006;Miyazaki, JPN;NA;Miyazaki, JPN;Tomas Farnik;152;right;NA;right;single;NA;NA;University;Office Worker;NA
+SHCHNW1005199101;DU, Bei;CHN;W;NA;1991;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHPHIW1010199001;FAUSTMANN, Andrea Michelle;PHI;W;NA;1990;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHJPNW1801199301;YUASA, Natsuki;JPN;W;NA;1993;2009;Tokushima, JPN;2009;Saitama, JPN;Sahashi Tomoki;Saitama, JPN;Thomas Farnik;150;right;50;right;single;AR40;NA;University;Student;NA
+SHTPEW2408198601;CHEN, Szu-Wei;TPE;W;NA;1986;NA;Taiwan;NA;NA;Lee Ji Sheng;Taiwan;Lee Ji Sheng;157;right;49;right;NA;AR40;NA;Master;Teacher;NA
+SHITAW2511198601;NOTARANGELO, Antonella;ITA;W;Marina Militare;1986;2005;Foggia;1900;NA;Gaby Buehlmann;Bologna, ITA;Gaby Buehlmann;163;right;60;right;single;AR40,STR3X20,STR60PR;NA;High school;Athlete;NA
+SHMGLW0208199701;ZORIGOO, Namduun;MGL;W;NA;1997;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHKORW0601198701;KWON, Nara;KOR;W;Incheon Nam Gu Office;1987;1999;Incheon, KOR;1999;Incheon, KOR;YANG, Kwang Suk;Incheon, KOR;CHA, Young Chul;167;right;54;right;NA;NA;NA;NA;Athlete;NA
+SHJPNW2303199301;AYADO, Mami;JPN;W;NA;1993;2007;Shiga;2009;Shiga;NA;Kyoto;Thomas Farnik;166;right;50;right;single;NA;NA;Doshisha University;Office Worker;NA
+SHMGLW2204198101;DAMDINSUREN, Lkhamsuren;MGL;W;NA;1981;1998;Ulaanbaatar;1995;Ulaanbaatar, MGL;Adilbish;Mongolia;Undralbat;165;right;58;right;single;AR40,STR3X20,STR60PR;1;Bachelor;tourism management;NA
+SHKORW1208198501;KIM, Soo Kyung;KOR;W;NA;1985;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR40;NA;NA;NA;NA
+SHQATW2106199201;AL HAMAD, Bahya Mansour;QAT;W;NA;1992;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR40,STR3X20;NA;NA;NA;NA
+SHINDW1005197401;SHIRUR, Suma;IND;W;Indian Railways;1974;1995;Chikbalapur, IND;1993;Panvel, New Bombay, IND;Gaby Buhlmann;Panvel, New Bombay, IND;Sunny Thomas;160;right;57;right;married;AR40,STR3X20;2;Bachelor of Science Chemistry;Government Service;NA
+SHFINW1606197801;YLI-KIIKKA, Marjo;FIN;W;Isokyro Hunting and Shooting Association;1978;1990;Isokyro, FIN;1989;Seinajoki, FIN;Juha Hirvi;Seinäjoki, FIN;Juha Hirvi;162;right;NA;right;single;AR40,STR3X20,STR60PR;NA;Master of Agriculture and forestry;Senior inspector;NA
+SHTPEW2907199201;LIU, Yu Chun;TPE;W;NA;1992;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR40;NA;University;NA;NA
+SHUZBW0108198201;KUZNETSOVA, Elena;UZB;W;Central club of army;1982;1997;Belorussiya, Belarus;1997;Tashkent, UZB;N. Dolbilina;Tashkent, UZB;N. Dolbilina;178;right;62;right;married;AR40,STR3X20,STR60PR;1;NA;Military;NA
+SHPHIM0212199001;TAN, Kenley Aldridge Cua;PHI;M;NA;1990;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHRUSM0204199201;GRIGORYAN, Kirill;RUS;M;NA;1992;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHSINM1502199401;LEONG, Jia Shuen Wesley;SIN;M;NA;1994;2011;Singapore;2007;NA;Elham Hashemi;Singapore;Elham Hashemi;174;right;NA;right;single;NA;NA;NA;NA;NA
+SHUSAM1006199401;RICO, Tyler Cecilio;USA;M;NA;1994;2013;Tucson, Arizona;2011;Tucson, Arizona;Launi Meili;USA;NA;177;right;72;right;single;NA;NA;United States Air Force Academy;Military;NA
+SHNORM0109198401;BREKNE, Odd Arne;NOR;M;NA;1984;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHKORM1804198701;CHUNG, Jae Seung;KOR;M;NA;1987;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHTHAM2903199501;TORTUNGPANICH, Napis;THA;M;NA;1995;2010;Chiangmai;2009;Chiangmai;NA;NA;Thai;170;right;56;right;single;NA;NA;NA;Student;NA
+SHSINM0301199901;WONG, Ting Wei;SIN;M;Singapore Sports School;1999;2012;Singapore;2012;Singapore;Lim Chea Rong;Singapore;Lim Chea Rong;172;right;68;right;single;NA;NA;NA;Student / Athlete;NA
+SHSINM0105199802;CHAN, Dian Ting Royce;SIN;M;NA;1998;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHTHAM2503199601;PANYATONG, Pongsaton;THA;M;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHTPEM0906199601;CHO, Erh-Chun;TPE;M;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHKSAM1511197901;ALJUHAYDILI, Abdulrahman Saad;KSA;M;NA;1979;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHKORM1501198001;CHOO, Byounggil;KOR;M;NA;1980;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHUSAM1811199201;LOWE, Daniel;USA;M;Capital City Rifle and Pistol;1992;2004;Federal Way, WA;2003;Olympia, WA;John Crossman;Olympia, WA;Jason Parker;158;right;82;right;single;NA;NA;NA;Soldier;NA
+SHTURM1301198101;ERDEM, Selcuk;TUR;M;NA;1981;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHINDM0501198101;RAJPUT, Sanjeev;IND;M;NA;1981;2001;Jagadhri, IND;2001;Jagadhri, IND;NA;Jagadhri, IND;Randhir Singh;179;right;78;right;single;AR60,FR3X40,FR60PR;NA;High school;Athlete;NA
+SHGERM1512198901;SCHALLENBERGER, Nicolas;GER;M;SV Petersaurach;1989;1999;Evlenbach a. M., GER;NA;Laudenbach, GER;Mario Gousierowski;Niederlauterbach, GER;Claus-Dieter Rotli;173;right;63;right;single;NA;NA;NA;Police Officer;NA
+SHSUIM2502199301;GREUTER, Sandro;SUI;M;sportschützen Sargans;1993;2006;Walenstadt;NA;Eschlikon;NA;Heiligkreuz;Roger Chassat;177;right;65;right;NA;NA;NA;NA;mechanical designer;NA
+SHVIEM2706199801;HO, Viet Thanh Sang;VIE;M;NA;1998;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHTJKM1809198201;VALIEV, Todzhiddin;TJK;M;NA;1982;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHTHAM1608199001;PONGLAOKHAM, Pavonnut;THA;M;NA;1990;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHPAKM0612199301;FARID, Zeeshan Ul;PAK;M;NA;1993;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHIRIM2201199201;NOROUZIYAN, Pourya;IRI;M;NA;1992;2010;Ilam, Iran;2008;Tehran;NA;Iran;Laszlo Szucsak;175;right;70;right;single;NA;NA;Pre-University;NA;NA
+SHOMAM0304198701;AL HABSI, Abdullah Ali;OMA;M;Ghala;1987;2011;Al Mudhaby, OMA;1900;Al Mudhaby, OMA;Hilal Al Rasheedi;Oman;Hilal Al Rasheedi;162;left;65;left;married;NA;NA;High school;Navy;NA
+SHUSAW0210199901;OSBORN, Sarah;USA;W;Patriot Shooting Club 4H;1999;2006;Virginia;2007;Hamton, VA;David Wotring;Hampton, VA;Dave Johnson;NA;right;57;right;single;NA;NA;NA;Student;NA
+SHKORW0708199601;KIM, Seola;KOR;W;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHUSAW1305199101;QUINER, Emily;USA;W;NA;1991;2014;Brooklyn Park, MN;2001;Brooklyn Park, MN;NA;Brooklyn Park, MN;Dave Johnson;NA;NA;NA;right;NA;NA;NA;NA;NA;NA
+SHGERW1805199401;GSCHWANDTNER, Selina;GER;W;NA;1994;NA;Altötting, GER;2006;NA;Theo Gschwandtner;NA;Claus Dieter Roth;NA;right;NA;right;NA;NA;NA;NA;Student;NA
+SHKORW1604199401;KIM, Yong Kyeong;KOR;W;Gwang ju sport high school;1994;1900;Gwang ju, Korea;2009;Gwang ju, Korea;yes;NA;NA;160;right;56;right;single;NA;NA;High school;Student;NA
+SHKORW2907198701;LEE, Da Hye;KOR;W;NA;1987;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHINDW1205196901;BHAGWAT, Anjali;IND;W;NA;1969;1995;Mumbai, IND;1990;Mumbai, IND;Stanislav Lapidus;Mumbai, IND;Sunny Thomas;163;right;51;right;married;AR40,STR3X20,STR60PR;1;Commerce Graduate;Government Service;NA
+SHGREW1604199401;THEODOROU, Sofia;GRE;W;Arhelaos Katerinis;1994;2008;Thessaloniki;2006;katerini;Giorgos Grammenopoulos;Katerini;Eleni Foka;162;right;60;right;single;NA;NA;DU of Thrace, Department of LAW;Student;NA
+SHTHAW1601199101;PONGSINVIJIT, Supaluk;THA;W;NA;1991;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHSINW2511199701;NEO, Tessa;SIN;W;NA;1997;2012;Singapore;2011;NA;NA;NA;Hashemi Masoumi Elhan;160;right;46;right;single;NA;NA;NA;Student;NA
+SHCANW2207199701;DEAN, Emily Kathrine;CAN;W;St. Croix Sportsman;1997;2012;Dubai, UAE;2011;St.Stephen;NA;New Brunswick, CAN;NA;NA;right;NA;right;single;NA;NA;NA;NA;NA
+SHDENW0806199401;STEFFENSEN, Astrid;DEN;W;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHCHNW1812198801;CHEN, Dongqi;CHN;W;NA;1988;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHTHAW1102199001;MAJCHACHEEP, Sununta;THA;W;NA;1990;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR40,STR3X20,STR60PR;NA;NA;NA;NA
+SHTPEW0406199401;KUO, Pao Ying;TPE;W;NA;1994;2009;Taiwan;2008;NA;NA;NA;NA;156;right;50;right;single;NA;NA;NA;NA;NA
+SHPOLW2107198301;KOWALCZYK, Karolina;POL;W;Slask Wroclaw;1983;1997;Gorzow, POL;1997;Gorzow, POL;Andrzej Kijowski;Wroclaw, POL;Andrzej Kijowski;170;right;50;right;single;AR40,STR3X20,STR60PR;NA;NA;NA;NA
+SHSUIW0702199401;CHRISTEN, Nina;SUI;W;NA;1994;NA;NA;NA;NA;NA;NA;Roger Chassat;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHRUSW1205197601;FEKLISTOVA, Maria;RUS;W;Army Club;1976;1989;Izhevsk, RUS;1988;Izhevsk, RUS;Lukin Vladimir;Izhevsk, RUS;Ananiev Anoreq;158;right;53;right;married;AR40,STR3X20,STR60PR;1;University;Army;NA
+SHUZBW1501199501;ORLOVA, Margarita;UZB;W;NA;1995;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHSCGW2108198801;ZIVKOVIC, Jelena;SRB;W;Jagodina 92;1988;2004;Jagodina;1999;Jagodina;Miomir Spasojevic;Jagodina;Donevic Dragan;165;right;50;right;single;AR40,STR3X20,STR60PR;NA;Master;teacher in kindergarden;NA
+SHPAKW0301199501;SOHAIL, Minhal;PAK;W;NA;1995;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHSWEW0504199401;ARVIDSSON, Michaela;SWE;W;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHNZLW3101196701;SHIELDS, Bronwyn Clara;NZL;W;NA;1967;2009;Wellington, New Zealand;2007;Wellington, New Zealand;NA;New Zealand;NA;NA;right;NA;right;NA;NA;NA;NA;Business Services Manager;NA
+SHCHNW0302198901;ZHAO, Huixin;CHN;W;NA;1989;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR40;NA;NA;NA;NA
+SHSUIW1107198601;SCHNIDER, Marina;SUI;W;Schuetzenverein Buchs-Raefis;1986;2007;Grabs;1999;Walenstadt-Berschis;NA;NA;Roget Chassat;155;right;52;right;single;NA;NA;NA;Painter;NA
+SHGERW2205198601;RACHL, Silvia;GER;W;NA;1986;1999;Schrobenhausen;1999;Singenbach;Mario Gonsierowski;Bavaria;CD Roth;168;right;NA;right;single;AR40;NA;NA;Soldier;NA
+SHGERW2009199201;MUELLER, Lisa;GER;W;NA;1992;NA;Weingarten, GER;2002;Weingarten, GER;Uli Mueller;NA;Claus Dieter Roth;165;right;NA;right;single;NA;NA;NA;Soldier;NA
+SHESPW2711199301;GRANDE, Paula;ESP;W;Rey Pastor;1993;2007;Logrono, La Rioja, ESP;2004;Madrid, ESP;Piotr Kosmatko;Logrono, La Rioja, ESP;Piotr Kosmatko;155;right;53;right;single;AR40;NA;Primary FP ;Student;NA
+SHTHAW1911199002;CHOTPHIBUNSIN, Thanyalak;THA;W;NA;1990;2007;Chiang Mai, THA;2005;Chiang Mai, THA;NA;NA;NA;161;right;45;right;single;NA;NA;NA;Student;NA
+SHGUAM2408197301;SANDOVAL, Octavio;GUA;M;NA;1973;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR60,FR3X40,FR60PR;NA;NA;NA;NA
+SHGERM1312199401;LINK, Andre;GER;M;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHCOLM0505198801;LOPEZ GASCA, Ivan Camilo;COL;M;NA;1988;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHESAM1204198601;ZELAYA, Oliser Antonio;ESA;M;NA;1986;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR60;NA;NA;NA;NA
+SHESAM1903199201;GUTIERREZ, Israel;ESA;M;NA;1992;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHFRAM2209198201;HENRY, Josselin;FRA;M;Bitche;1982;1997;Nancy, FRA;1993;Paris, FRA;Roger Chassat;Paris, France;Eric Viller;180;right;72;right;married;AR60,FR3X40,FR60PR;NA;NA;Customs;NA
+SHECUM0810198601;SANTACRUZ, Cristian;ECU;M;NA;1986;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR60,FR3X40,FR60PR;NA;NA;NA;NA
+SHJPNM1010199001;OKADA, Naoya;JPN;M;NA;1990;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHPERM1511199401;VIZCARRA GALLEGOS, Daniel Eduardo;PER;M;Club Internacional Arequipa;1994;2009;Arequipa, PER;2007;Arequipa, PER;Emilio Pacheco Vilchez;Arequipa, PER;Rodrigo Aranguena;175;left;60;right;single;NA;NA;NA;Student;NA
+SHCHIM2101199001;PARADA YANEZ, Anyelo Hans;CHI;M;Ejertico de Chile;1990;NA;NA;NA;NA;Pavel Sosa;NA;Pavel Sosa;171;NA;67;NA;NA;NA;NA;NA;Ejercito de Chile;NA
+SHMEXM2704199401;MORALES ACEVEDO, Luis Emilio;MEX;M;Club Cinegetico Leones A.C.;1994;2008;Guanajuato, MEX;2008;Guanajuato, MEX;Marcos Palafox Alcocer;Guanajuato, MEX;NA;170;right;100;right;single;NA;NA;University;Student;NA
+SHTURM1209198801;BAYRAK, Ahmet;TUR;M;TSK Sport gucu;1988;2007;Ankara, TUR;2007;Kayseri, TUR;NA;Ankara, TUR;NA;185;right;75;NA;single;NA;NA;University;Non commissioned Officer;NA
+SHARGM0405198901;ZOCCALI ALBIZU, Marcelo;ARG;M;Gral Brigadier Martin Rodriguez;1989;2005;Tandil, ARG;2001;NA;NA;ARG;Martinez Ariel;172;right;67;right;married;AR60,FR3X40,FR60PR;NA;NA;Student;NA
+SHVENM1412198301;GUTIERREZ, Martrin;VEN;M;Henmandad Gallega;1980;2000;Merida, VEN;1999;El Paraiso, Caracas;NA;Caracas, VEN;Miguel Oliva;167;right;64;right;married;AR60,FR3X40,FR60PR;1;University;Gnencia Deportiva;NA
+SHGUAM1302199301;CHINCHILLA PEREZ, Allan Fernando;GUA;M;Victor Manuel Castellanos;1993;2009;Guatemala;2007;Chiquimula, GUA;Adelso Pena;Guatemala;Adelso Pena;175;right;64;right;single;NA;NA;High School;Student;NA
+SHARGM1201199501;CABRERA, Valentin;ARG;M;NA;1995;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHCZEM1106199201;HRCKULAK, David;CZE;M;ASO Pukla;1992;2005;Pilsen, CZE;2004;Pilsen, CZE;Petr Cernoch;NA;Lubos Opelka;176;right;65;right;single;NA;NA;NA;NA;NA
+SHRUSW0104199401;SOKOLOVA, Lilia;RUS;W;DOSAAF;1994;2009;Russia;2009;Inkutsk;Sokolov V.V.;Russia;Konoleva N.N.;156;right;50;right;single;NA;NA;Coach;Sportsman;NA
+SHCANW0401199501;MARSH, Samantha April;CAN;W;NA;1995;2008;NA;NA;NA;NA;Newfaundland;NA;173;right;NA;right;NA;NA;NA;Memorial University;NA;NA
+SHARGW2002197701;FOURNEL, Amelia Rosa;ARG;W;Tiro Federal Santa Fe;1977;1997;Santa Fe, ARG;1992;Santo Tome, ARG;Fournel Claudio;Argentina;Julio Escalante;160;right;47;right;single;AR40,STR3X20;NA;NA;Secretary;NA
+SHCANW1803198401;CABRERA, Diana;URU;W;The Grange - Toronto;1984;2005;Toronto, CAN;2000;Toronto, CAN;Ruben Cabrera;Toronto, CAN;NA;157;right;68;right;single;AR40,STR3X20;NA;College;Office Manager;NA
+SHESAW2908199201;RAMIREZ HENRIQUEZ, Ana Elizabeth;ESA;W;NA;1992;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHARGW0210199901;RUSSO, Fernanda;ARG;W;NA;1999;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHKORW1912199301;LEE, Eunseo;KOR;W;NA;1993;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHMEXW2201199701;RODRIGUEZ, Ema;MEX;W;NA;1997;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHPURW1203199501;MERCADO MARTINEZ, Yarimar;PUR;W;NA;1995;2009;Puerto Rico;2008;Ponce;NA;Yauco;NA;150;right;40;right;single;NA;NA;College;Student;NA
+SHPERW2307199301;VIZCARRA GALLEGOS, Sara Gabriela;PER;W;Club Internacional Arequipa;1993;2011;Arequipa, PER;2010;Arequipa, PER;Emilio Pacheco Vilchez;Arequipa, PER;Rodrigo Aranguena;168;left;58;left;single;NA;NA;NA;Student;NA
+SHFRAW2008199801;GOMEZ, Judith;FRA;W;NA;1998;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHROUW3004199301;ILIE, Laura Georgeta;ROU;W;NA;1993;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHALBW2702196901;PEPA, Lumturi;ALB;W;Studenti;1969;1982;Sarande;1982;Tirane;Alush Alla;Tirana, Albania;Alush Alla;170;right;82;right;NA;AR40,STR3X20,STR60PR;2;Bachelor;Ticher;NA
+SHNZLW2610199201;MACKENZIE, Jenna Kendall Louise;NZL;W;NA;1992;2007;Winton, NZL;2007;Queenstown, NZL;Jock Allen;NZL;Dave Sheely;178;right;69;right;single;NA;NA;NA;Student;NA
+SHKORW2212199701;KIM, Gaenam;KOR;W;NA;1997;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHGUAW1105199001;GUERRA ALVARADO, Maria De Lourdes;GUA;W;Federacion nacional de tiro Guatemale;1990;2004;GUA;2000;Retalhulen, GUA;Orlando Cano;GUA;Orlando Cano;160;right;53;right;single;AR40;NA;High school;Student;NA
+SHJPNW3001199701;CHIBA, Sakumi;JPN;W;NA;1997;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHNZLW2803198502;RHODES, Caroline;NZL;W;NA;1985;NA;Palmerston North;NA;Marton;NA;NA;NA;164;right;55;right;single;NA;NA;NA;Banker;NA
+SHPURW3107199301;BOCK LAGUER, Amy;PUR;W;Lake Island;1993;2011;USA;2007;East Brunswick;Stan Bock;New Jersey;NA;157;right;44;right;single;NA;NA;College;Student;NA
+SHFINW1204199301;SIHVONEN, Annika;FIN;W;SMAS;1993;2010;Savonlinna, FIN;2008;Helsinki, FIN;Marko Leppa;NA;Juha Hirvi;NA;right;NA;right;single;NA;NA;NA;NA;NA
+SHMEXW3105199701;ZUMAYA FLORES, Goretti Alejandra;MEX;W;NA;1997;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHCANW1709196601;BOWES, Sharon;CAN;W;NA;1966;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;AR40,STR3X20,STR60PR;NA;NA;NA;NA
+SHESAW2111198701;PINEDA, Johanna;ESA;W;Ferotiro;1987;2002;ESA;2002;San Salvador, ESA;Reynaldo Flores;ESA;Reynaldo Flores;155;right;53;right;single;AR40,STR3X20;NA;University;Student;NA
+SHKORW2807199501;YOO, Seo Young;KOR;W;NA;1995;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHUSAW0611199801;MARSH, Elizabeth;USA;W;NA;1998;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHEGYW2104198101;HASHAD, Shimaa;EGY;W;Army shooting Club;1981;2001;Cairo, EGY;1998;Cairo, EGY;Mohmed Farouk;Cairo, EGY;Mohmed Amer;166;right;57;right;single;AR40;NA;University;Engineer;NA
+SHGBRW1503199601;MCINTOSH, Seonaid;GBR;W;Alloa + District;1996;2013;Edinburg;2012;Dollar;Sinclair Bruce;Edinburg;Donald Mcintosh;174;left;50;right;single;NA;NA;Masters in Mechanical Engineering;Student;NA
+SHJPNW1811199001;SHIMIZU, Ayano;JPN;W;NA;1990;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHGUAW0304199901;MATTA ALVARADO, Jazmine Rubi;GUA;W;National Federation of Sport Shooting of Guatemala;1999;2013;Guatemala;2013;Guatemala;Allan Matta;Guatemala;Adelso Pena;162;right;51;right;single;NA;NA;High School;Student;NA
+SHGUAW1810199301;VELASQUEZ ALVARADO, Polymaria;GUA;W;Victor Manuel Castellanos;1993;2009;Guatemala;2007;Guatemala, GUA;Adelso Pena;Guatemala;Adelso Pena;153;right;55;right;single;NA;NA;High School;Student;NA
+SHOMAM2704197601;AL BULUSHI, Jaml;OMA;M;IMU-MOD;1976;2002;Al Rostaq, OMA;2000;OMA;Hilal Al Rasheedi;Al Mosanaa, OMA;Hilal Al Rasheedi;175;right;70;right;married;AR60,FR3X40,FR60PR;1;Secondary school;Athlete;NA
+SHEGYM2310197501;HOSEN, Amgad;EGY;M;NA;1975;2000;Labya;1998;Ben Gazy;NA;Cairo, EGY;Mohamed Amer;184;right;95;right;divorced;FR3X40,FR60PR;1;Military Academy;Army Officer;NA
+SHKORM3107198701;KIM, Kiwon;KOR;M;H.S. City;1987;2000;Dae Gu, Korea;2000;Dae Gu, Korea;Park Sang Soon;Korea;Choi Byoung Woo;175;right;61;right;single;AR60;NA;University;Athlete;NA
+SHCUBM0512198201;ESTPINAN, Reinier;CUB;M;Ciudad Habana;1982;1996;La Habana, CUB;1993;Vibora, CUB;Alejandro Guerra;NA;Alejandro Guerra;170;right;60;right;single;FR60PR;NA;High School;Student;NA
+SHBELM2205199401;SCHEPENS, Nicolas;BEL;M;CCAT;1994;2011;Senaing;2005;Liege;Tzoumacas Constant;Flemalle;Tzoumacas Constant;185;left;74;left;NA;NA;NA;Electromecanic;Electrician;NA
+SHQATM2605199601;ALMUBARAK, Mohammed Saad;QAT;M;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHEGYM0708199001;HAMDY ABDELKADER, Mohamed;EGY;M;Army;1990;2005;Giza, EGY;2003;Giza, EGY;Mohamed Amer;Giza, Egypt;Mohamed Amer;172;right;68;right;single;AR60;NA;Bachelor of Accounting;NA;NA
+SHMASM1503199701;MASHUDI, Muhammad Nabil;MAS;M;NA;1997;2013;NA;NA;NA;NA;NA;NA;168;NA;60;right;single;NA;NA;NA;Student;NA
+SHCUBM1909199101;MOLERIO QUINTANA, Alexander;CUB;M;NA;1991;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHMASM2703199701;M AZWI, Nur Muhammad Izham;MAS;M;NA;1997;NA;NA;2010;Terengganu, Malaysia;NA;NA;NA;168;left;63;NA;single;NA;NA;NA;Student;NA
+SHNEDM2508199501;STAM, Bryan;NED;M;NA;1995;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHARMM2601199601;BERYAN, Suren;ARM;M;Yerevan Shooting School;1996;2012;Yerevan;2010;Yerevan;Hamlet Nikoghosyan;Yerevan;Seyran Nikogosyan;179;right;76;right;single;NA;NA;NA;Student;NA
+SHKUWM0111197701;ALDHAFIRI, Majed;KUW;M;NA;1977;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHCZEM2904198501;HALODA, Vladimir;CZE;M;NA;1985;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHTJKM0808199901;KUDDUSOV, Azamat;TJK;M;NA;1999;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHTKMM0307199601;BERDIYEV, Berdimyrat;TKM;M;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHKSAM2806197602;ALSAAD, Faisal Abdullah;KSA;M;NA;1976;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHGBRM1206199101;RIVERS, Daniel;GBR;M;NA;1991;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHALGM1302199301;BENZIDEN, Redha;ALG;M;Alger;1993;2009;Alger;2008;Alger;Boudeffa Atef;NA;ALG;180;NA;70;right;single;NA;NA;NA;Student;NA
+SHKUWM1407199201;AL-MAJED, Khaled;KUW;M;NA;1992;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHHUNM0901198701;VERES, Adam Laszlo;HUN;M;BHSE;1987;2005;Budapest, HUN;2003;Budapest, HUN;Eva Joo;Budapest;Csaba Györik;187;right;78;right;married;AR60,FR3X40,FR60PR;NA;University (MSc.);mechatronical engineer MSc;NA
+SHGERM2908198301;MOHAUPT, Tino;GER;M;FV-SSZ Suhl Friedberg;1983;1999;Suhl;1998;Benshausen;CD Roth;Suhl, GER;Roth;171;right;64;right;single;AR60;NA;Bachelor Sports Management;Sports manager (Bachelor);NA
+SHRUSM1708199401;MASLENNIKOV, Vladimir;RUS;M;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHKORM1810199201;KIM, Hyeonjun;KOR;M;NA;1992;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHSVKM2907199701;JANY, Patrik;SVK;M;NA;1997;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHPOLM3107199501;WOJTASIAK, Maciej;POL;M;Legia Warszawa;1995;2009;Warsaw;2008;NA;Eulalia Rolinska;Warsaw;Tomasz Lukaszewski;174;right;65;right;single;NA;NA;Military University of Technology;NA;NA
+SHFRAW3103199001;FAYOLLE, Marie;FRA;W;Tir Sportif Beaulieu Emblauez;1990;2007;Le Puy En Velay, FRA;1998;Beaulieu, FRA;Laurence Brize, Roger Chassat;NA;Eric Viller;170;right;NA;right;single;NA;NA;NA;Student;NA
+SHAUTW0605198701;PEER, Franziska;AUT;W;Schuetzengilde Angerberg;1987;NA;Kufstein;NA;Woergl;Bichler Markus;NA;Rainer Hermann;NA;right;NA;right;NA;NA;NA;NA;NA;NA
+SHMKDW0211199501;BALABAN, Nina;MKD;W;Strelec;1995;2012;Ohrid;2009;Ohrid;Jordan Tasevski;Macedonia;Stevan Krsteski;166;right;52;right;single;NA;NA;Law;Student;NA
+SHNEDW2603199601;MULDER, Mandy;NED;W;SV op de Korrel Bemmel;1996;2011;the Netherlands, Zevenaaz;2011;Zevenaaz;Gerrit Uriens;Zevenaaz;Christian Holstad Lilleng;162;right;52;right;single;NA;NA;NA;NA;NA
+SHSLOW2611198001;PUFIC, Klavdija;SLO;W;SK Profesional Kidricevo;1980;2007;Maribor, SLO;2007;Zgornja Polskana 2314, SLO;Gorazd Maloic;Ingoliceva 10, SLO;Lojze Mikolic;167;right;66;right;single;NA;NA;Master degree;Economic;NA
+SHUAEW0707198801;MOHAMED, Nourah;UAE;W;NA;1988;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHCUBW2806198801;PEREZ, Dianelys;CUB;W;NA;1988;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHMASW0501199501;SAYED AHMAD, Syarifah Aesyah Kamilah;MAS;W;Terengganu Shooting Association;1995;2011;Perak Darul Ridjwan, Malaysia;2011;Terengganu, Malaysia;Mayihah Alias;NA;NA;162;right;64;right;single;NA;NA;NA;Student;NA
+SHSINW3001199701;YANG, Shuet Hwei;SIN;W;Singapore Shooting Association;1997;2012;Singapore;2011;Singapore;Lim Chea Rong;Singapore;Lim Chea Rong;152;right;44;right;single;NA;NA;NA;NA;NA
+SHQATW0403198401;AL-ASEIRI, Matara;QAT;W;Qatar Shooting Association;1984;2001;Doha, QAT;2002;Doha, QAT;Nicole Letchev;QAT;Nicole Letchev;162;right;88;NA;single;AR40,STR3X20,STR60PR;NA;High school;Police;NA
+SHCROW2011199601;GUSTIN, Valentina;CRO;W;SK Kustosija;1996;2009;Zagreb, Croatia;2009;Croatia;Tomislav Lazic;Zagreb, CRO;NA;172;right;62;right;single;NA;NA;NA;Student;NA
+SHQATW2905199001;AKHLAGHI, Mahbubeh;QAT;W;Qatar shooting;1990;2005;Doha, QAT;2003;Doha, QAT;Ivan Shakhov;Doha, QAT;Ivan Shakhov;163;right;48;right;single;AR40,STR3X20;NA;College IT;Student;NA
+SHMNEW0706199301;RADOVIC, Mirjana;MNE;W;Centar;1993;2006;Montenegro;2005;Bijelo Polje;Marko Sokic;Podgorica;Stanko Laban;178;right;60;right;single;AR40;NA;NA;Student;NA
+SHCUBW1204198001;DE LA CRUZ, Eglys Yahima;CUB;W;S. Spiritus, Federacion Cubana Tiro;1980;1993;Santic Spiritus, CUB;1992;Santic Spiritus, CUB;Ignacio Cruz Rodriguez;Cuba;Ignacio Cruz Rodriguez;158;right;59;right;married;AR40,STR3X20;1;High School;Student;NA
+SHALGW0508197701;YAHIAOUI, Souad;ALG;W;Alger;1977;2004;Cherchel;2003;Annaba;Boudeff Atef;NA;ALG;168;left;68;left;divorced;AR40;1;DUA;Athlete;NA
+SHRUSW1512198901;VDOVINA, Daria;RUS;W;NA;1989;2002;Izhevsk, RUS;2000;Arkhangelsk, RUS;Oleg Vdovin;Russia;Andrey Ananiev;157;right;47;right;NA;AR40;NA;NA;NA;NA
+SHARMW0910197901;LAUER, Irina;ARM;W;SV Erdbach;1979;2001;Yerevan;NA;Yerevan;Andranik Ayvazyan;Herborn, Germany;Seyran Nikogosyan;163;right;56;right;married;AR40;1;Land Management;Ingeneer, Athtlete;NA
+SHSLOW0512199401;KUHARIC, Urska;SLO;W;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHMASW2009200001;NOR RAHIM, Nurtaqiyyah Alya;MAS;W;Terengganu Shooting Association;2000;2013;Terengganu;2013;Kuala Terengganu;NA;NA;NA;159;right;49;right;single;NA;NA;NA;Student;NA
+SHGERW2310199401;KREUTZER, Nina Laura;GER;W;NA;1994;NA;NA;NA;NA;NA;NA;NA;NA;right;NA;right;NA;NA;NA;NA;Industrial business management assistent;NA
+SHSUIW1001199501;HOFSTETTER, Vanessa;SUI;W;NA;1995;2007;Bern;NA;NA;NA;Guemmenen;Roger Chassat;NA;right;NA;NA;NA;NA;NA;NA;NA;NA
+SHKUWW2311198901;ALANJARI, Munira;KUW;W;Kuwait Shooting Sport Club;1989;2012;Kuwait;2010;Kuwait;Anna Belakova;Kuwait;NA;NA;NA;NA;right;NA;NA;NA;BSC Degree (Law);NA;NA
+SHCZEW0112199601;DUDOVA, Lucie;CZE;W;NA;1996;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHMKDW0408199501;PEJEVA, Emilija;MKD;W;SK Stip;1995;2013;Stip;2013;Stip;Zoran Pejev;Macedonia;Stevan Krsteski;170;right;52;right;NA;NA;NA;Programmer;Student;NA
+SHBRAW2708197301;EWALD, Rosane Sibele;BRA;W;S.D.C.Cruzeiro Joinvillense;1973;2005;Blumenau - Santa Catarina, BRA;2005;Joinville, BRA;NA;Joinville, BRA;Oleg Mikhailov;174;right;66;right;divorced;AR40;2;High Level;Economist;NA
+SHECUW0608199301;ANDRADE PONCE, Maria Jose;ECU;W;NA;1993;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHOMAW2812199101;AL HASHMI, Asma;OMA;W;NA;1991;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+SHEGYW0502198901;AHMED, Reham;EGY;W;Army Club;1989;2004;Egypt;2003;Cairo, Egypt;Mohamed Amer;Egypt;Mohamed Amer;155;right;60;right;single;NA;NA;NA;NA;NA
+SHMASW1302199601;ALI, Nurul Izzati;MAS;W;Terengganu Shooting Association;1996;2011;Kuantan, Pahang;NA;Malaysia;Najihah Alias;NA;NA;155;right;64;right;single;NA;NA;NA;NA;NA
+SHBRNW0309198601;MUBARAK, Sabika;BRN;W;NA;1986;2005;Bahrain;2005;NA;Jordan;Bahrain;Bulgary;162;right;53;NA;married;NA;1;Secondary school;shooter;NA
+SHALGW0707198601;CHAABI, Houda;ALG;W;Atlantic Ain Beniane;1986;2011;NA;2011;Constantine;Boudeffa Atef;Constatine;NA;171;right;90;right;single;NA;NA;University;Athlete;NA
+SHGBRW2807199501;BUCKLEY, Gabrielle;GBR;W;NA;1995;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
